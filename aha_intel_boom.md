@@ -94,12 +94,14 @@ However, the **structural revolving door** is present:
 - **Lown Institute rating:** Houston Methodist Hospital received a **D grade for equity** on the Lown Institute Hospitals Index, ranking **3,724 out of 3,764 hospitals nationally** and **265 out of 269 in Texas** for commitment to equity, inclusion, and community health. [Source](https://lownhospitalsindex.org/hospital/houston-methodist-hospital/)
 - **Real estate holdings:** $1.15 billion in property — the tax exemption on this real estate alone represents tens of millions annually in foregone local property tax revenue.
 - **Context:** Texas is one of five states where a majority of hospitals have a Lown "fair share surplus," but that is driven by systems like Memorial Hermann ($147M surplus), not Houston Methodist. [Source](https://lownhospitalsindex.org/hospital-fair-share-spending-2024/)
+- **IRS 990 / Schedule H (FY 2019):** Houston Methodist reported $123.5M in financial assistance (charity care at cost), $7.7M in unreimbursed Medicaid costs, $5.5M in external charity care. System-wide total of $470.9M in charity care and community benefits by IRS definitions. Flagship hospital assets exceeded $10.9 billion. [Source](https://communitybenefitinsight.org/?id=2922&page=search.view.hospital) | [Source](https://projects.propublica.org/nonprofits/organizations/741180155)
+- **Historical:** In November 1990, the Texas Attorney General sued The Methodist Hospital System alleging it failed to provide sufficient charity care to justify its tax-exempt status. [Source](https://www.researchgate.net/publication/247874274_The_Methodist_Hospital_System_Tax_Exemption_and_Charitable_Responsibilities_of_Not-for-Profit_Hospitals)
 - Houston Methodist self-reports community benefits at [houstonmethodist.org/about-us/community-benefits/](https://www.houstonmethodist.org/about-us/community-benefits/).
 
 ### Price Transparency
 - Houston Methodist publishes a machine-readable pricing file at [houstonmethodist.org/cms-hpt.txt](https://www.houstonmethodist.org/cms-hpt.txt).
 - **Was noncompliant for 18+ months:** A March 2022 Baker Institute (Rice University) report found Houston Methodist had **not posted its prices** as required by the CMS rule effective January 1, 2021. Houston Methodist said in June 2022 it was "working on providing additional pricing information" and expected to have it posted "sometime that summer." The Baker Institute noted fines were just 1.3% of Houston Methodist's 2019 profits. [Source](https://www.bakerinstitute.org/research/are-texas-hospitals-practicing-price-transparency) | [Source](https://www.click2houston.com/news/local/2022/06/08/more-than-a-year-later-some-hospitals-still-dont-comply-with-hospital-price-transparency-law/)
-- **Ongoing gaps:** A later Baker Institute analysis found Houston Methodist **did not report BCBSTX or UHC PPO prices** for any procedures in its publicly available pricing file. For the 11 diagnoses that could be compared, Houston Methodist's mean price for both insurers was **more than twice as high** as those at Baylor St. Luke's. [Source](https://www.bakerinstitute.org/research/revisiting-price-transparency-texas-medical-center-hospitals)
+- **Ongoing gaps (April 2025):** Baker Institute found Houston Methodist reported only **350 line items** in its pricing file vs. **5,313 at Memorial Hermann**. Houston Methodist **did not report BCBSTX or UHC PPO prices** for any procedures. For the 11 diagnoses that could be compared, Houston Methodist's mean price was **more than twice as high** as Baylor St. Luke's. [Source](https://www.bakerinstitute.org/research/revisiting-price-transparency-texas-medical-center-hospitals) | [Source](https://news.rice.edu/news/2025/extreme-price-variation-houston-hospitals-continues-expert-says)
 - CMS enforcement has been slow: a 2021 randomized assessment found only 27% of hospitals fully compliant. Maximum penalties increased to $5,500/day in 2022. [Source](https://www.cms.gov/priorities/key-initiatives/hospital-price-transparency/enforcement-actions)
 
 ### Facility Fees
@@ -117,8 +119,10 @@ However, the **structural revolving door** is present:
 - Houston Methodist donated $50M to Legacy Community Health for clinics in underserved areas (Pasadena/Acres Homes). [Source](https://communityimpact.com/houston/)
 
 ### 340B Participation
-- Houston Methodist participates in the 340B program. One analysis noted that by acquiring outpatient locations, Methodist was able to bill for chemotherapy and other drugs through 340B, "resulting in $50 million in profits to Methodist in one year alone." [Source](https://www.fdli.org/2022/09/340b-and-the-warped-rhetoric-of-healthcare-compassion/)
-- Specific contract pharmacy arrangements not verified. HRSA OPAIS database would have current registration details.
+- **Three Houston Methodist hospitals participate in 340B:** Willowbrook, Baytown, and West Hospital. [Source](https://learn.houstonmethodist.org/340B_2_2024)
+- One analysis noted that by acquiring outpatient locations, Methodist was able to bill for chemotherapy and other drugs through 340B, "resulting in $50 million in profits to Methodist in one year alone." [Source](https://www.fdli.org/2022/09/340b-and-the-warped-rhetoric-of-healthcare-compassion/)
+- Houston Methodist has warned CMS that combined 340B payment reductions "would severely destabilize hospital operations." [Source](https://downloads.regulations.gov/CMS-2025-0306-2141/attachment_1.pdf)
+- No specific 340B audit findings, contract pharmacy disputes, or enforcement actions found.
 
 ### CON Law
 - Texas does not have traditional Certificate of Need laws. Houston Methodist operates in a relatively deregulated market, which has facilitated its rapid expansion.
@@ -135,7 +139,11 @@ However, the **structural revolving door** is present:
 
 - **Claritev/MultiPlan price-fixing lawsuit (2025):** Houston Methodist joined ~450 providers suing major insurers (UnitedHealth, Elevance/Anthem, Humana, Aetna, Cigna, BCBS entities) alleging coordinated suppression of out-of-network reimbursement via Claritev (formerly MultiPlan). Plaintiffs allege $19 billion in underpayments in 2020 alone. Case pending in U.S. District Court, Northern District of Illinois; DOJ filed a Statement of Interest supporting plaintiffs in March 2025. 36 bellwether trials expected; no trial before 2027. [Source](https://www.yahoo.com/news/articles/houston-methodist-takes-big-insurance-205712636.html) | [Source](https://www.khou.com/article/money/business/houston-business-journal/houston-methodist-lawsuit-insurance/285-ef880a7b-fa30-4874-9c53-f8301868fada)
 
-- **BBB billing complaints:** Consumer complaints filed with the Better Business Bureau alleging wrongful billing and potential No Surprises Act violations. [Source](https://www.bbb.org/us/tx/houston/profile/hospital/the-methodist-hospital-system-0915-4770/complaints)
+- **UnitedHealthcare contract dispute (2020):** UHC dropped Houston Methodist from its network effective January 1, 2020 after failing to agree on reimbursement rates, affecting ~100,000 members. UHC argued Houston Methodist "charges significantly more than other area providers." Boom blamed UHC for proposing rate cuts. Multi-year agreement reached June 2020. [Source](https://www.beckershospitalreview.com/care-coordination/houston-methodist-returns-to-unitedhealth-network-after-impasse/) | [Source](https://www.khou.com/article/news/health/methodist-hospital-vs-united-healthcare-what-the-dispute-means-for-patients/285-0f1843a1-0a01-4212-a30c-3e4732bff7a7)
+
+- **Bridges v. Houston Methodist — Supreme Court cert petition (January 2026):** The fired employees petitioned the U.S. Supreme Court for certiorari as of January 2026. Case remains pending. [Source](https://hoodline.com/2026/01/fired-houston-methodist-staff-take-vaccine-battle-to-supreme-court/)
+
+- **BBB billing complaints:** Consumer complaints filed with the Better Business Bureau alleging wrongful billing and potential No Surprises Act violations. One patient reported $6,151.56 for what was described as a 30-minute conversation with a PA outside the hospital lobby. [Source](https://www.bbb.org/us/tx/houston/profile/hospital/the-methodist-hospital-system-0915-4770/complaints)
 
 ---
 
