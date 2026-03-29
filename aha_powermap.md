@@ -247,3 +247,144 @@ Hughes describes the team: "They have all worked largely on Capitol Hill." The r
 ---
 
 *Sources: aha_intel_pollack.md, aha_intel_hughes.md, aha_intel_hood.md, aha_intel_golder.md, aha_intel_hrobsky.md, aha_intel_derienzo.md, aha_intel_boom.md, aha_intel_gassen.md, aha_intel_freesedecker.md, aha_intel_hancock.md, aha_intel_albert.md, aha_intel_barwis.md, aha_intel_fish.md, aha_intel_glasgo.md, aha_intel_vissers.md, aha_intel_hirsch.md, aha_intel_trestman.md, aha_intel_gallagher.md, aha_intel_coffman.md, aha_intel_ozuah.md*
+
+---
+
+## Section 3 — The Charity Care Gap: What AHA's Members Actually Do
+
+AHA's public narrative rests on the claim that nonprofit hospitals are "cornerstones of their communities," returning far more in community benefit than they receive in tax exemptions. The data from AHA board members' own institutions tells a different story.
+
+### The Fair Share Deficit Scoreboard
+
+The Lown Institute calculates "fair share deficits" — the gap between the estimated value of a hospital's tax exemptions and its actual community benefit spending. AHA board members lead systems with some of the largest deficits in the country:
+
+| Board Member | System | Fair Share Deficit | Lown Grade/Rank |
+|-------------|--------|-------------------|-----------------|
+| Marc Boom (2026 Chair) | Houston Methodist | **-$222 million** | D equity; ranked 3,724 of 3,764 nationally |
+| Debra Albert | NYU Langone Health | **-$222 million** | #3 worst nationally |
+| Gerald Gallagher | Endeavor Health | **-$152 million/yr** | Evanston Hospital = #1 deficit in Illinois |
+| Michael Slubowski | Trinity Health | **-$784 million** | Top 10 nationally |
+
+Trinity's $784 million deficit places it alongside fellow Catholic systems Providence (-$1B), CommonSpirit (-$923M), and Ascension (-$614M). Michigan — home to Corewell Health (Freese Decker, immediate past chair) — is among the worst-performing states: 97%+ of Michigan hospitals have a fair share deficit, collectively averaging $605 million/year from 2020–2022.
+
+### The Community Benefit Shell Game
+
+AHA's flagship claim — that nonprofit hospitals return $10+ in community benefit for every $1 in tax exemption — relies on self-reported Form 990 Schedule H data. The numbers look impressive until you examine what counts as "community benefit":
+
+**Intermountain Health** (Allen, board member): Claims $1.3 billion in community benefit (2023). This includes Medicaid shortfalls, health professions education, research, and broad "community building activities." Had Intermountain been for-profit, it would have owed an additional $362 million in taxes. The $1.3B figure is designed to dwarf the $362M gap — but the narrowly defined charity care (free or discounted care to uninsured/underinsured patients) is a fraction of the headline number.
+
+**Methodist Le Bonheur Healthcare** (Ugwueke, board member): Claims $293 million in community benefit (2023). "The actual free charity care to uninsured poor patients, as a percentage of MLH's total revenue and tax exemption value, has never been transparently broken out."
+
+**Allina Health** (Shannon, board member): Reports $608 million in community benefit (2022). Actual charity care spending (2020): **<0.5% of total expenses** — well below the ~2% national average.
+
+**UnityPoint Health** (Glasgo, board member): Claims $1.3 billion in community benefit using the same inflated methodology — Medicaid shortfalls, education, and research padded into a number that "substantially exceeds actual free care to uninsured patients."
+
+Senate investigators have noted that Medicaid shortfalls and bad debt — which many health policy experts do not consider genuine community benefit — dominate these figures. AHA opposes any change to the reporting methodology.
+
+### Suing the Poor: The Collections Machine
+
+While AHA lobbies Congress to protect its members' tax-exempt status, board members lead systems that aggressively pursue the patients those exemptions are supposed to help.
+
+#### Methodist Le Bonheur Healthcare (Michael Ugwueke, board member)
+
+The most documented case of patient litigation by an AHA board member's system:
+
+- **8,300+ lawsuits** filed against patients (2014–2018) — more than all but one creditor in Shelby County.
+- **Wage garnishment in 46% of cases** — the most aggressive rate among Memphis hospital systems (vs. 36% at Regional One, 20% at Baptist).
+- **Sued its own employees:** Dozens of MLH workers sued for unpaid medical bills. A hospital housekeeper making $16,000/year was sued for $23,000. MLH garnished wages of 70+ of its own employees.
+- **Decade-long pursuit:** Patient Carrie Barrett was sued in 2010. Methodist added interest seven times and garnished her paycheck 15 times. Her debt ballooned to $33,000 — more than twice her annual income.
+- **Owns its own collection agency** — an unusual vertical integration that allows the system to profit from the debt cycle rather than merely outsourcing collections.
+- Of 977,000+ patients with bills at least 30 days past due, **only 1% received any financial assistance** during the collections process.
+
+This is the same institution whose CEO sits on the AHA Board of Trustees. Under Pollack, AHA issued no public statement.
+
+#### Carilion Clinic (Robert Trestman, board member)
+
+- **33,000 court judgments** obtained against patients in Roanoke's small claims court (2003–2008) — accounting for **40% of the court's entire casebase**.
+- Garnished wages of patients who "could not afford basic necessities, including a house painter too poor to own a telephone."
+
+#### Allina Health (Lisa Shannon, board member)
+
+- Maintained a policy of **canceling appointments for patients with >$4,500 in debt**, including patients with chronic conditions requiring ongoing care.
+- Exposed by the New York Times, leading to a Minnesota AG investigation (2023).
+
+### Executive Compensation vs. Charity Care
+
+The ratio between what AHA board members pay themselves and what their institutions spend on charity care reveals priorities:
+
+| Board Member | System | CEO Compensation | Charity Care Context |
+|-------------|--------|-----------------|---------------------|
+| Philip Ozuah | Montefiore | **$16.36M** (2023) | 94x a Congressman's salary; nurses struck over staffing |
+| Tina Freese Decker | Corewell Health | **$6.73M** (2023) | $31M cumulative; 10,000 nurses voted to authorize strike |
+| Gerald Gallagher | Endeavor Health | **$6.3M** (2023) | $24M cumulative; $152M/yr fair share deficit |
+| Michael Slubowski | Trinity Health | **$5.34M** (2023) | $19M cumulative; $784M fair share deficit |
+| Bill Gassen | Sanford Health | **$3.3M** (2021) | $20.25M False Claims Act settlement |
+| Lisa Shannon | Allina Health | **$3.08M** (2023) | <0.5% of expenses on charity care |
+| Michael Ugwueke | Methodist Le Bonheur | **$2.8M** (2022) | 38.2x average staff pay; 8,300+ patient lawsuits |
+
+**NYU Langone** (Albert, board member): Former CEO Robert Grossman earned $22.8M in 2023. Total executive compensation of $41.9M represents **39% of the system's entire charity care budget** of $108M. One executive earned 21% of all charity spending.
+
+**Montefiore** (Ozuah, board member): Nine executives combined for $32M+ in 2023 while nurses struck over unsafe staffing ratios, overcrowded emergency departments, and patients on hallway stretchers. Residents described themselves as "exploited."
+
+**Sentara Health** (Hancock, board member): Amassed $6 billion in net assets — "partly because it pays no taxes." The Checks and Balances Project filed a formal IRS complaint alleging Sentara charges uninsured patients higher rates than insured patients.
+
+### False Claims Act Settlements: The Compliance Record
+
+AHA board members lead systems with a pattern of federal fraud settlements:
+
+| System | Board Member | Settlement | Allegations |
+|--------|-------------|------------|-------------|
+| Beaumont/Corewell | Freese Decker | **$84.5M** | Improper physician financial relationships (Anti-Kickback/Stark, 2004–2012) |
+| Sanford Health | Gassen | **$20.25M** | Anti-Kickback violations, medically unnecessary spinal surgeries |
+| Houston Methodist | Boom | **$9.99M** | Inflated charges for Medicare outlier payments |
+| Yale New Haven | Sutton-Wallace | Undisclosed | Billing at physician rates for work done by nurses/PAs |
+| Methodist Le Bonheur | Ugwueke | **Active DOJ suit** | False Claims Act litigation ongoing |
+
+Sanford's settlement is particularly striking: a 111-page complaint alleged the executive team received "numerous warnings" from physician whistleblowers about a neurosurgeon running an unnecessary-surgery kickback scheme and "repeatedly failed to take corrective measures." Sanford had already paid $625,000 in 2013 to settle earlier false claims from the same surgeon.
+
+### Labor: Strikes, Layoffs, and Offshoring
+
+While AHA's public messaging emphasizes the "healthcare heroes" narrative, board members' systems face serial labor conflicts:
+
+**Strikes and near-strikes:**
+- **Montefiore** (Ozuah): ~15,000 NYSNA nurses walked off the job. Nurses accused management of "corporate greed" and "Bronx disinvestment."
+- **Corewell Health** (Freese Decker): ~10,000 nurses voted ~90% to authorize a strike over safe staffing ratios — the third-largest hospital union organizing effort nationally since 2019. Corewell eliminated premium pay for unit reassignment and canceled student loan repayment programs.
+- **Allina Health** (Shannon): A 41-day nurses' strike in 2016 (one of the longest in U.S. healthcare history). A 2022 Minnesota-wide strike affecting Allina facilities. And in 2025, 600+ physicians held the first physician strike in Minnesota history.
+- **Endeavor Health** (Gallagher): Federal lawsuit alleging FLSA violations — unpaid pre-shift duties, forced work through breaks, uncompensated overtime. Complaint cites "deliberate understaffing to cut costs" and 55 patient falls reported at three hospitals in 2024.
+
+**Offshoring:**
+- **Corewell Health** (Freese Decker): ~186 billing/finance employees fired via Zoom call with one day's notice; work outsourced to India. Despite prior assurances their jobs were safe. Five weeks' severance offered.
+
+**Layoffs:**
+- **Bristol Health** (Barwis): Eliminated 60 FTE positions while CEO earned ~$800K — at a system under going-concern audit doubt.
+- **Corewell Health**: Additional rounds of 400+ management cuts post-merger.
+
+### Facility Fees: The Revenue Model AHA Protects
+
+AHA's opposition to site-neutral payment reform protects a specific revenue extraction mechanism — facility fees charged on outpatient visits at hospital-owned locations:
+
+- **Houston Methodist** (Boom, AHA Chair): Confirmed charging facility fees at transplant, wound care, radiation oncology, and infusion clinics. One patient reported being charged $6,151.56 for what was described as a 30-minute conversation with a PA outside the hospital lobby.
+- **NYU Langone** (Albert): Charges facility fees on outpatient services. Patients receive two bills for a single visit — one for the physician, one for the facility. As NYU Langone expands into suburban and retail-converted ambulatory sites, facility fee revenue grows with each site classified as a hospital outpatient department.
+- **Yale New Haven Health System** (Sutton-Wallace): Health system fees at Connecticut hospitals more than doubled from ~$748M (FY2017) to $1.6B+ (FY2024). YNHHS is a primary driver.
+- **Endeavor Health** (Gallagher): Did not respond to NBC Chicago's investigation into facility-fee practices.
+
+This is the revenue stream site-neutral payment reform would equalize. AHA's $29 million lobbying operation exists, in significant part, to ensure these fees remain untouched.
+
+---
+
+### The Pattern
+
+AHA board members lead institutions that:
+1. **Claim billions in community benefit** using inflated methodology that counts Medicaid shortfalls and education as charity
+2. **Carry hundreds of millions in fair share deficits** — receiving more in tax exemptions than they return
+3. **Sue thousands of patients**, garnish wages of their own employees, and cancel appointments for patients in debt
+4. **Pay executives $3–16 million** while claiming financial hardship to oppose payment reform
+5. **Settle federal fraud cases** for tens of millions while lobbying against enhanced oversight
+6. **Face serial labor conflicts** over unsafe staffing while offshoring jobs and cutting frontline pay
+7. **Charge facility fees** that double the cost of outpatient visits — the exact practice their $29M lobbying operation protects
+
+These are not outliers. They are the institutions whose leaders sit on the AHA Board of Trustees, set national policy, and direct the lobbying machine. The gap between AHA's public mission ("advancing health in America") and its members' documented behavior is not rhetorical — it is measurable in billions of dollars, thousands of lawsuits, and tens of thousands of garnished paychecks.
+
+---
+
+*Sources: aha_intel_boom.md, aha_intel_albert.md, aha_intel_gallagher.md, aha_intel_slubowski.md, aha_intel_allen.md, aha_intel_ugwueke.md, aha_intel_shannon.md, aha_intel_hancock.md, aha_intel_freesedecker.md, aha_intel_ozuah.md, aha_intel_trestman.md, aha_intel_gassen.md, aha_intel_glasgo.md, aha_intel_barwis.md, aha_intel_suttonwallace.md, aha_intel_hirsch.md, aha_intel_pollack.md*
