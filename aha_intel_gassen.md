@@ -48,7 +48,7 @@
 
 ### Former CEO Kelby Krabbenhoft Payout Scandal
 - Krabbenhoft received **$49.5 million** upon departure in November 2020: $15M severance, $29.4M retirement plan payouts, $5.1M salary. [Source](https://www.keloland.com/news/local-news/former-sanford-ceo-kelby-krabbenhoft-paid-49-million-according-to-irs-documents/)
-- Sanford paid **$65 million total** to six departing executives in one year — more than two-thirds to Krabbenhoft alone. [Source](https://siouxfalls.business/sanford-reports-65-million-in-payouts-to-former-executives/)
+- Sanford paid **$65 million total** to six departing executives in one year — more than two-thirds to Krabbenhoft alone. Other payouts included: Daniel Blue ($5.3M), JoAnn Kunkel ($6.8M), Nate White ($3.3M), Kim Patrick ($2.9M). [Source](https://siouxfalls.business/sanford-reports-65-million-in-payouts-to-former-executives/)
 - Retirement plan (established 1983) provided lifetime annual payments based on salary and years of service. "No philanthropic dollars" used. [Source](https://www.beckershospitalreview.com/compensation-issues/former-sanford-health-ceo-got-49m-payout-after-abrupt-departure/)
 - Krabbenhoft's payout became a symbol in the campaign against South Dakota's Medicaid expansion ballot measure. [Source](https://www.beckershospitalreview.com/compensation-issues/what-former-sanford-health-ceo-kelby-krabbenhoft-has-to-do-with-south-dakota-s-medicaid-expansion-fight/)
 
@@ -149,10 +149,10 @@ Sanford Health has pursued **serial acquisition** across the upper Midwest:
 
 ### $20.25 Million False Claims Act Settlement (2019)
 - Sanford Health, Sanford Medical Center, and Sanford Clinic paid **$20.25 million** to resolve FCA allegations of **Anti-Kickback Statute violations and medically unnecessary spinal surgeries**.
-- Neurosurgeon **Dr. Wilson Asfora** was implanting unnecessary devices through his **physician-owned distributorship (POD)**, Medical Designs LLC. Sanford allegedly received repeated warnings from colleague physicians and continued to employ him and submit claims.
+- Neurosurgeon **Dr. Wilson Asfora** was implanting unnecessary devices — including Bullet Cages (spinal fusion) and Samba Screws (sacroiliac joint fusion) — through his **physician-owned distributorship (POD)**, Medical Designs LLC. A **111-page complaint** alleged Sanford's executive team received "numerous warnings" from physician whistleblowers and others about the kickback scheme and medically unnecessary procedures on Medicare/Medicaid patients. Sanford "repeatedly failed to take corrective measures," and physicians went to the federal government "as a last resort."
 - Whistleblowers Drs. Carl Dustin Bechtold and Bryan Wellman received **$3.4 million** of the settlement.
 - Sanford entered a **Corporate Integrity Agreement (CIA)** with OIG.
-- **Prior settlement:** Sanford had already paid $625,000 in 2014 for a separate kickback case involving the same surgeon.
+- **Prior settlement:** Sanford had already paid **$625,000 in 2013** to settle false claims allegations that Asfora "was engaged in a kickback scheme to pay other surgeons" for using one of his POD devices — meaning Sanford was on explicit notice of the same surgeon's kickback conduct **six years before the larger settlement**.
 - [Source](https://www.justice.gov/usao-sd/pr/sanford-health-entities-pay-2025-million-settle-false-claims-act-allegations-regarding) | [Source](https://oig.hhs.gov/fraud/enforcement/sanford-health-entities-to-pay-2025-million-to-settle-false-claims-act-allegations-regarding-kickbacks-and-unnecessary-spinal-surgeries/)
 
 ### Subsequent Telemedicine Settlement
@@ -164,8 +164,12 @@ Sanford Health has pursued **serial acquisition** across the upper Midwest:
 - [Source](https://www.ftc.gov/legal-library/browse/cases-proceedings/171-0019-sanford-health-ftc-state-north-dakota-v)
 
 ### Minnesota AG Investigation (2022–2023)
-- MN AG Keith Ellison investigated the Sanford-Fairview merger for potential antitrust violations. The investigation, combined with new legislation, killed the deal.
-- [Source](https://www.ag.state.mn.us/Office/Communications/2022/11/22_Sanford-Fairview.asp)
+- MN AG Keith Ellison investigated the Sanford-Fairview merger for potential antitrust violations and compliance with Minnesota charities and nonprofit asset laws. The AG received **3,500+ public comments** and formally requested the merger closing be delayed.
+- The proposed merger would have created a **$14 billion system with ~78,000 employees and 58+ hospitals** across the Upper Midwest.
+- Labor groups, former governors, and the University of Minnesota opposed the deal over concerns about out-of-state control, higher care costs, and reduced access.
+- Minnesota legislature and Gov. Tim Walz enacted **new legislation** giving the AG power to enjoin and unwind healthcare transactions that would hamper the University of Minnesota's public care mission or damage market competition.
+- Gassen ultimately withdrew, citing lack of "support from certain Minnesota stakeholders." The legislative response was a direct rebuke of Sanford's expansion model.
+- [Source](https://www.ag.state.mn.us/Office/Communications/2022/11/22_Sanford-Fairview.asp) | [Source](https://www.fiercehealthcare.com/providers/sanford-health-fairview-health-services-58-hospital-merger-deal-no-more) | [Source](https://www.house.mn.gov/sessiondaily/Story/17988)
 
 ### Former CEO Departure (2020)
 - Kelby Krabbenhoft forced out after sending email to 50,000 employees saying he didn't need to wear a mask during COVID because he had antibodies. This during a period when South Dakota hospitalizations were at all-time highs.
@@ -177,7 +181,7 @@ Sanford Health has pursued **serial acquisition** across the upper Midwest:
 - Court records (unsealed April 2023) revealed photos of nude girls estimated ages 8–15 on an AOL email linked to Sanford. Defense claimed the account was hacked.
 - **SD Attorney General declined to file charges.**
 - Sanford was removed from the Giving Pledge. Some organizations distanced themselves.
-- Despite this, Gassen said "We're very confident in the partnership with Mr. Sanford" and accepted a new **$300 million donation** from him in December 2025 — bringing total Sanford donations to ~$1 billion.
+- Despite this, Gassen said "We're very confident in the partnership with Mr. Sanford" and accepted a new **$300 million donation** from him in December 2025 — bringing total Sanford Health donations to ~$1 billion (Sanford's lifetime philanthropy across all institutions approaches ~$4 billion).
 - Sanford made his fortune through **First Premier Bank/Premier Bankcard** — a subprime credit card operation targeting consumers with low credit scores.
 - [Source](https://en.wikipedia.org/wiki/T._Denny_Sanford) | [Source](https://voiceofsandiego.org/2023/03/06/not-everyone-ready-to-welcome-billionaire-back-to-philanthropy-circles/) | [Source](https://siouxfalls.business/new-mega-donation-to-sanford-health-will-bring-hospital-of-the-future-new-projects-programs/)
 
@@ -187,9 +191,9 @@ Sanford Health has pursued **serial acquisition** across the upper Midwest:
 
 - **Concurrent capture:** Gassen simultaneously holds the incoming AHA chairmanship, chairs the AHA's 501(c)(4) lobbying arm, sits on a federal CMS/HHS advisory committee, and holds an insurer board seat (Oscar Health). This is an extraordinary concentration of industry, lobbying, and regulatory-advisory roles in one person.
 
-- **Serial acquisition in thin rural markets:** Four merger attempts in six years. One blocked by FTC for creating a "virtual monopoly." One killed by state AG antitrust investigation. The completed mergers extend dominance across SD, ND, MN, WI.
+- **Serial acquisition in thin rural markets:** Four merger attempts in six years. One blocked by FTC for creating a "virtual monopoly" (75-85% market share). One killed by MN AG antitrust investigation that triggered new state legislation. The completed mergers extend dominance across SD, ND, MN, WI. Surveyed nurses at Sanford-acquired facilities reported "drastic reductions in services and specialties."
 
-- **$20.25M False Claims Act settlement:** Ignored repeated warnings from colleague physicians about a surgeon running an illegal kickback scheme through a physician-owned distributorship. Entered Corporate Integrity Agreement.
+- **$20.25M False Claims Act settlement:** Ignored repeated warnings from colleague physicians about a surgeon running an illegal kickback scheme through a physician-owned distributorship. Had already paid $625K for the **same surgeon's** kickback conduct six years earlier — meaning leadership was on explicit notice. 111-page complaint. Corporate Integrity Agreement with OIG.
 
 - **$65M in executive departure payouts** from a "nonprofit" rural health system — including $49.5M to a CEO fired for anti-mask statements during a pandemic peak.
 
