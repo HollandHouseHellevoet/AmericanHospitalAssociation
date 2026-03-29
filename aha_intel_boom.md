@@ -98,8 +98,12 @@ However, the **structural revolving door** is present:
 
 ### Price Transparency
 - Houston Methodist publishes a machine-readable pricing file at [houstonmethodist.org/cms-hpt.txt](https://www.houstonmethodist.org/cms-hpt.txt).
-- **Baker Institute (Rice University) analysis found:** Houston Methodist **did not report BCBSTX or UHC PPO prices** for any procedures in its publicly available pricing file. For the 11 diagnoses that could be compared, Houston Methodist's mean price for both insurers was **more than twice as high** as those at Baylor St. Luke's. [Source](https://www.bakerinstitute.org/research/revisiting-price-transparency-texas-medical-center-hospitals)
+- **Was noncompliant for 18+ months:** A March 2022 Baker Institute (Rice University) report found Houston Methodist had **not posted its prices** as required by the CMS rule effective January 1, 2021. Houston Methodist said in June 2022 it was "working on providing additional pricing information" and expected to have it posted "sometime that summer." The Baker Institute noted fines were just 1.3% of Houston Methodist's 2019 profits. [Source](https://www.bakerinstitute.org/research/are-texas-hospitals-practicing-price-transparency) | [Source](https://www.click2houston.com/news/local/2022/06/08/more-than-a-year-later-some-hospitals-still-dont-comply-with-hospital-price-transparency-law/)
+- **Ongoing gaps:** A later Baker Institute analysis found Houston Methodist **did not report BCBSTX or UHC PPO prices** for any procedures in its publicly available pricing file. For the 11 diagnoses that could be compared, Houston Methodist's mean price for both insurers was **more than twice as high** as those at Baylor St. Luke's. [Source](https://www.bakerinstitute.org/research/revisiting-price-transparency-texas-medical-center-hospitals)
 - CMS enforcement has been slow: a 2021 randomized assessment found only 27% of hospitals fully compliant. Maximum penalties increased to $5,500/day in 2022. [Source](https://www.cms.gov/priorities/key-initiatives/hospital-price-transparency/enforcement-actions)
+
+### Facility Fees
+- Houston Methodist confirmed to KPRC 2 (Click2Houston) that it charges facility fees at hospital-based outpatient clinics, including transplant, wound care, radiation oncology, and infusion clinics. This is the exact practice that site-neutral payment reform targets — and that the AHA, which Boom now chairs, opposes reforming. [Source](https://www.click2houston.com/news/investigates/2024/05/02/its-absolutely-outrageous-houston-resident-charged-surprise-400-facility-fee-after-doctor-visit/)
 
 ### Merger / Expansion Activity
 - Houston Methodist has pursued **aggressive organic expansion** rather than M&A:
@@ -108,6 +112,7 @@ However, the **structural revolving door** is present:
   - **Houston Methodist Clear Lake** — ~$250M expansion, 2023–2026. [Source](https://communityimpact.com/houston/bay-area/health-care/2022/01/21/houston-methodist-clear-lake-hospital-to-potentially-expand-in-2023/)
   - **Creekside Park acquisition** — 32,662 sq ft medical plaza in The Woodlands.
   - **Research expansion** — 75,800 sq ft lease in Texas Medical Center Helix Park.
+- **Expansion strategy targets affluent suburban markets:** Modern Healthcare reported Houston hospitals were "pouring massive capital into new facilities, in part to follow energy companies and their well-insured patients." Boom described a "deliberate strategy to increase patient access to all its services." Expansion into The Woodlands, Cypress, and Sugar Land tracks upper-income, well-insured demographics. [Source](https://www.modernhealthcare.com/article/20140628/NEWS/306279956/houston-s-energy-company-boom-fuels-hospital-expansion)
 - No antitrust scrutiny of Houston Methodist's own expansion found in public records.
 - Houston Methodist donated $50M to Legacy Community Health for clinics in underserved areas (Pasadena/Acres Homes). [Source](https://communityimpact.com/houston/)
 
@@ -146,9 +151,15 @@ However, the **structural revolving door** is present:
 
 - **Boom chairs the AHA while his system's record contradicts AHA messaging.** AHA argues nonprofit hospitals return more to communities than their tax breaks are worth. The Lown Institute's independent analysis ranks Houston Methodist near the absolute bottom on that metric. AHA opposes site-neutral payment reform. Houston Methodist charges 2x+ peers for comparable services. AHA claims hospitals are transparent. Houston Methodist omits major payer rates from its transparency file.
 
+- **Compensation opacity:** Fierce Healthcare reported Houston Methodist did not list specific recipients of $18M+ in executive compensation on its 990 returns in 2010–2011, instead aggregating them. The hospital claimed IRS guidelines allowed it; Fierce Healthcare noted "the instructions on the tax return say otherwise." [Source](https://www.fiercehealthcare.com/finance/houston-methodist-hospital-s-18-million-compensation-question-mark)
+
+- **Academic scrutiny of tax exemption:** A published academic paper ("The Methodist Hospital System: Tax Exemption and Charitable Responsibilities of Not-for-Profit Hospitals") found evidence of "expenditures on luxury amenities and the refusal of uninsured patients," pointing to "potential misaligned priorities away from serving the indigent population." [Source](https://www.researchgate.net/publication/247874274_The_Methodist_Hospital_System_Tax_Exemption_and_Charitable_Responsibilities_of_Not-for-Profit_Hospitals)
+
+- **Facility fees confirmed:** Houston Methodist charges facility fees at hospital-based outpatient clinics — the exact practice site-neutral reform targets. Boom chairs the AHA, which opposes that reform. Direct institutional self-interest masquerading as policy advocacy.
+
 - **Federal Reserve board seat** — a hospital CEO with direct input into monetary policy affecting healthcare labor markets, capital costs, and regional economic conditions. This is institutional access, not public service.
 
-- **Expansion without proportional community investment:** $1.1B+ in new construction and expansion (Cypress $650M, West $247M, Clear Lake $250M) while ranking near the bottom nationally on community benefit.
+- **Expansion follows money, not need:** $1.1B+ in new construction targeting affluent suburban markets (Cypress, Woodlands, Sugar Land) with well-insured populations, while ranking near the bottom nationally on community benefit.
 
 ---
 
