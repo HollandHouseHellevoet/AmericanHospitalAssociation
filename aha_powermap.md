@@ -678,3 +678,150 @@ This contradiction is not a messaging problem. It is a structural feature. Every
 ---
 
 *Sources: aha_intel_albert.md, aha_intel_hancock.md, aha_intel_pollack.md, aha_intel_boom.md, aha_intel_ozuah.md, aha_intel_ugwueke.md, aha_intel_hughes.md, aha_intel_derienzo.md, aha_intel_golder.md, aha_intel_gassen.md, aha_intel_shannon.md, aha_intel_freesedecker.md, aha_intel_gallagher.md, aha_intel_glasgo.md, aha_intel_vissers.md, aha_intel_barwis.md, aha_intel_hood.md, aha_intel_allen.md, aha_intel_trestman.md, aha_intel_suttonwallace.md, aha_intel_coffman.md, aha_intel_peters.md, aha_intel_hrobsky.md*
+
+---
+
+## Section 6 — Strategic Summary: The AHA Influence Network at a Glance
+
+### The Money Flow
+
+```
+MEMBER HOSPITALS ($145M in dues/revenue)
+        │
+        ▼
+   AHA NATIONAL ($431 employees, $300M+ reserves)
+        │
+        ├──► FEDERAL LOBBYING ($29M/yr, rising)
+        │         │
+        │         ├── Stacey Hughes (EVP) — 18 yrs Senate staff
+        │         ├── Lisa Kidder Hrobsky (SVP) — registered lobbyist since 2002
+        │         └── Chad Golder (GC) — litigation-as-lobbying, post-Chevron strategy
+        │
+        ├──► AHAPAC ($3.77M raised, $3.36M distributed, bipartisan)
+        │         └── Both parties: Biden, Pelosi, Schumer, McCarthy, McConnell
+        │
+        ├──► COALITION TO STRENGTHEN AMERICA'S HEALTHCARE (501(c)(4))
+        │         ├── 2.8M advocates
+        │         ├── 575,000+ letters to Congress (2025)
+        │         └── Chaired by Bill Gassen (incoming AHA chair)
+        │
+        ├──► HEALTH FORUM LLC (for-profit subsidiary)
+        │         └── Monetizes member data, brand, relationships ($10-50M est. revenue)
+        │
+        ├──► HEALTH RESEARCH & EDUCATIONAL TRUST (HRET)
+        │         └── Produces research AHA cites in lobbying (run by DeRienzo)
+        │
+        └──► EXECUTIVE COMPENSATION ($17M for top 16; CEO $3.4M)
+```
+
+### The Board Power Map
+
+```
+2026 CHAIR: Marc Boom ─── Houston Methodist ($3.9B, -$222M fair share deficit)
+                          Fed Reserve board │ Vizient CEO board │ 2x+ peer pricing
+                                            │
+2027 CHAIR: Bill Gassen ── Sanford Health ($11B, 4 mergers in 6 yrs)
+                           CMS Advisory Cmte │ Oscar Health board │ 501(c)(4) chair
+                                             │
+PAST CHAIR: Tina Freese Decker ── Corewell ($11.5B, $84.5M FCA settlement)
+                                   Fed Reserve board │ Priority Health (1.3M members)
+                                                     │
+CEO: Rick Pollack ──────── AHA ($3.4M comp, 43 yrs, retiring 2026)
+                           Registered lobbyist │ Hill staffer origin
+```
+
+### What AHA Protects — and What It Costs
+
+| Policy AHA Blocks | Estimated Savings | Who Benefits from Blocking | Who Pays |
+|-------------------|-------------------|---------------------------|----------|
+| Site-neutral payment | $140–180B | Systems billing facility fees at HOPDs | Medicare/taxpayers |
+| Price transparency enforcement | Unquantified | Systems charging 2x+ peers, omitting payer rates | Patients/employers |
+| 340B reform | Billions annually | Systems using 340B as profit center ($50M/yr at one system) | Drug manufacturers/taxpayers |
+| POH expansion (ban maintained) | N/A — competition blocked | Incumbent systems facing no physician-owned competition | Patients seeking lower-cost alternatives |
+| Antitrust enforcement | Unquantified | Systems pursuing serial mergers (75–85% market share) | Consumers paying post-merger price increases |
+
+### The Five Biggest Targets on the AHA Board
+
+Ranked by combined institutional exposure — active investigations, litigation, fair share deficits, and reputational risk:
+
+**1. Philip Ozuah — Montefiore Medicine**
+- $16.36M compensation (94x a Congressman's salary)
+- Two active congressional investigations (organ transplants + nonprofit accountability)
+- 15,000-nurse strike; residents describing themselves as "exploited"
+- Near-monopoly in the Bronx; acquisition strategy redirecting investment from poor to affluent communities
+
+**2. Bill Gassen — Sanford Health (incoming 2027 chair)**
+- Concurrent AHA chair + CMS advisory committee + insurer board + 501(c)(4) chair
+- $20.25M False Claims Act settlement (ignored kickback warnings)
+- FTC-blocked merger (75–85% market share); AG-killed merger
+- System namesake investigated for child pornography (ProPublica, 2020)
+
+**3. Tina Freese Decker — Corewell Health (immediate past chair)**
+- $6.73M compensation; $31M cumulative
+- $84.5M False Claims Act settlement (Beaumont predecessor)
+- 10,000 nurses authorized strike; 186 jobs offshored via Zoom
+- 1M+ patient data breaches; $5.48M settlement
+
+**4. Marc Boom — Houston Methodist (2026 chair)**
+- Lown D grade for equity (3,724 of 3,764 nationally)
+- -$222M fair share deficit; 1.2% charity care (vs. 2.6% average)
+- $9.99M Medicare fraud settlement
+- Noncompliant with price transparency 18+ months; charges 2x+ peers
+- $50M/yr 340B profit extraction
+
+**5. Michael Ugwueke — Methodist Le Bonheur Healthcare**
+- 8,300+ patient lawsuits; wage garnishment of own employees
+- Active DOJ False Claims Act litigation
+- Senate Finance Committee inquiry (Grassley, 2019)
+- Owns its own collection agency; only 1% of patients in collections received financial assistance
+
+### AHA's Defensive Priorities (2025–2027)
+
+Based on Q1 2025 lobbying spike and documented activity:
+
+1. **Block site-neutral payment** in budget reconciliation — existential threat to facility fee revenue model
+2. **Defend 340B** against manufacturer pushback and congressional reporting requirements
+3. **Maintain POH ban** as physician-ownership momentum builds in Congress
+4. **Resist IRS enforcement** of tax-exempt hospital accountability (35 planned examinations)
+5. **Manage CEO transition** — Pollack retiring end of 2026; successor will inherit rising political hostility
+6. **Exploit post-Chevron landscape** — aggressively litigate CMS rules without deference protection
+7. **Contain state AG actions** — Minnesota model spreading; no federal lobbying lever against state enforcement
+
+### The Succession Question
+
+Rick Pollack retires at the end of 2026 after 43 years at AHA — the last decade as CEO. His successor inherits:
+
+- A $29M/yr lobbying operation under bipartisan scrutiny
+- A board populated by executives under congressional investigation, DOJ litigation, and IRS audit risk
+- A financial model running $22M annual deficits funded from reserves
+- An industry reputation described by a 34-year policy veteran as "the worst I've ever seen"
+- A political environment where AHA stands alone on issue after issue — site-neutral (320–71 House vote against), POH ban (sole defender at hearing), consolidation (sole defender at Senate hearing)
+
+The next CEO will either accelerate the confrontation or attempt to negotiate from a position of weakening leverage. The $29 million lobbying machine buys time. It does not buy outcomes.
+
+---
+
+### Key Metrics Summary
+
+| Category | Figure |
+|----------|--------|
+| AHA federal lobbying (2024) | $29.0 million |
+| AHA Q1 2025 lobbying | $7.0 million (32% above quarterly average) |
+| AHAPAC contributions (2023–24 cycle) | $3.36 million |
+| Coalition grassroots letters (2025) | 575,000+ |
+| AHA CEO compensation (2023) | $3.4 million |
+| AHA top 16 executives (2023) | $17 million combined |
+| AHA top 10 executives (2017–2023) | $62 million combined |
+| AHA annual deficit (2023) | -$22 million |
+| Estimated site-neutral savings blocked | $140–180 billion |
+| Board member fair share deficits | $222M–$784M per system |
+| Patient lawsuits (MLH alone, 2014–18) | 8,300+ |
+| False Claims settlements (board members) | $84.5M + $20.25M + $9.99M |
+| Hospitals facing IRS examination | 35 announced |
+| Active congressional investigations of board members' systems | 2+ (Montefiore) |
+| AHA employees | 431 |
+| Member hospitals represented | ~5,000 |
+
+---
+
+*This document synthesizes intelligence from 27 individual dossiers (aha_intel_*.md) covering AHA executive leadership, board members, and institutional practices. All figures are sourced from IRS Form 990 filings, OpenSecrets lobbying disclosures, Senate LDA filings, FTC/DOJ enforcement records, Lown Institute analysis, congressional hearing transcripts, and investigative journalism as cited in the underlying dossiers. Research compiled March 2026.*
