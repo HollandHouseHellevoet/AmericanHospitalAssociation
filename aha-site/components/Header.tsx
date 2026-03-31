@@ -6,35 +6,53 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-card border-b border-border sticky top-0 z-50">
+    <header className="sticky top-0 z-50 border-b border-border" style={{ backgroundColor: "#111e2b" }}>
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-        <Link
-          href="https://rojasreport.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="font-cormorant text-xl font-semibold text-cream hover:text-orange transition-colors"
-        >
-          The Rojas Report
-        </Link>
-
-        <span className="font-source text-sm font-semibold text-orange tracking-widest uppercase hidden sm:block">
-          AHA Intelligence
-        </span>
-
-        <nav className="hidden md:flex items-center gap-6">
-          <Link href="/" className="text-sm text-muted hover:text-cream transition-colors">
-            Home
+        {/* Left: branding stack */}
+        <div className="flex flex-col leading-none gap-0.5">
+          <Link
+            href="https://rojasreport.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-cormorant text-xl font-semibold text-cream hover:text-orange transition-colors"
+          >
+            The Rojas Report
           </Link>
-          <Link href="/powermap/" className="text-sm text-muted hover:text-cream transition-colors">
+          <span
+            className="font-source text-orange uppercase tracking-widest"
+            style={{ fontSize: "11px", letterSpacing: "0.15em" }}
+          >
+            AHA Intelligence
+          </span>
+        </div>
+
+        {/* Desktop nav */}
+        <nav className="hidden md:flex items-center gap-8">
+          <a
+            href="https://rojasreport.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+          >
+            Investigations
+          </a>
+          <Link
+            href="/powermap/"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+          >
             Power Map
           </Link>
-          <Link href="/about/" className="text-sm text-muted hover:text-cream transition-colors">
+          <Link
+            href="/about/"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+          >
             About
           </Link>
         </nav>
 
+        {/* Mobile hamburger */}
         <button
-          className="md:hidden text-muted hover:text-cream"
+          className="md:hidden text-muted hover:text-cream transition-colors"
           onClick={() => setMenuOpen(!menuOpen)}
           aria-label="Toggle menu"
         >
@@ -48,11 +66,35 @@ export default function Header() {
         </button>
       </div>
 
+      {/* Mobile slide-down menu */}
       {menuOpen && (
-        <div className="md:hidden bg-card border-t border-border px-4 py-3 flex flex-col gap-3">
-          <Link href="/" className="text-sm text-muted hover:text-cream" onClick={() => setMenuOpen(false)}>Home</Link>
-          <Link href="/powermap/" className="text-sm text-muted hover:text-cream" onClick={() => setMenuOpen(false)}>Power Map</Link>
-          <Link href="/about/" className="text-sm text-muted hover:text-cream" onClick={() => setMenuOpen(false)}>About</Link>
+        <div
+          className="md:hidden border-t border-border px-4 py-4 flex flex-col gap-4"
+          style={{ backgroundColor: "#111e2b" }}
+        >
+          <a
+            href="https://rojasreport.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+            onClick={() => setMenuOpen(false)}
+          >
+            Investigations
+          </a>
+          <Link
+            href="/powermap/"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+            onClick={() => setMenuOpen(false)}
+          >
+            Power Map
+          </Link>
+          <Link
+            href="/about/"
+            className="font-source text-sm text-cream hover:text-orange transition-colors"
+            onClick={() => setMenuOpen(false)}
+          >
+            About
+          </Link>
         </div>
       )}
     </header>

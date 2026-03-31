@@ -12,12 +12,11 @@ export default function FilterBar({ roleFilter, sortBy, onRoleChange, onSortChan
   const sortOptions = [
     { value: "redflags", label: "Most Red Flags" },
     { value: "alpha", label: "Alphabetical" },
-    { value: "state", label: "By State" },
   ];
 
-  const btnBase = "px-4 py-1.5 text-sm rounded border transition-colors";
+  const btnBase = "font-source px-4 py-1.5 text-sm rounded-full border transition-colors";
   const active = "bg-orange text-navy border-orange font-semibold";
-  const inactive = "bg-transparent text-muted border-border hover:border-orange hover:text-cream";
+  const inactive = "bg-transparent text-cream border-cream/30 hover:border-orange hover:text-orange";
 
   return (
     <div className="flex flex-wrap gap-3 items-center">
@@ -32,7 +31,7 @@ export default function FilterBar({ roleFilter, sortBy, onRoleChange, onSortChan
           </button>
         ))}
       </div>
-      <div className="flex gap-2 ml-0 md:ml-6">
+      <div className="flex gap-2 ml-0 md:ml-4">
         {sortOptions.map((s) => (
           <button
             key={s.value}

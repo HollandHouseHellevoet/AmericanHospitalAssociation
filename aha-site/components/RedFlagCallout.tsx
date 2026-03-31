@@ -4,7 +4,10 @@ interface RedFlagCalloutProps {
 
 export default function RedFlagCallout({ text }: RedFlagCalloutProps) {
   return (
-    <div className="bg-redflag-bg border-l-4 border-orange rounded-r-md p-4 flex gap-3 items-start my-3">
+    <div
+      className="border-l-4 rounded-r-md p-4 flex gap-3 items-start my-3"
+      style={{ backgroundColor: "#1e1010", borderColor: "#C0392B" }}
+    >
       <svg
         className="flex-shrink-0 mt-0.5 text-orange"
         width="20"
@@ -18,7 +21,7 @@ export default function RedFlagCallout({ text }: RedFlagCalloutProps) {
         <line x1="12" y1="9" x2="12" y2="13" />
         <line x1="12" y1="17" x2="12.01" y2="17" />
       </svg>
-      <p className="text-cream text-sm leading-relaxed">{text}</p>
+      <p className="font-source text-cream leading-relaxed" style={{ fontSize: "15px" }}>{text}</p>
     </div>
   );
 }
