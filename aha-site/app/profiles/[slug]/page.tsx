@@ -50,6 +50,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 function Section({ title, items }: { title: string; items: string[] }) {
+  if (!items || items.length === 0) return null;
   return (
     <details className="border border-border mb-3 group" open>
       <summary className="px-4 py-3 cursor-pointer flex justify-between items-center font-source font-semibold text-cream hover:text-orange transition-colors list-none" style={{ fontSize: "14px" }}>
