@@ -229,9 +229,14 @@ export default function Footer() {
             <p className="font-source text-xs text-muted">
               &copy; 2026 The Rojas Report. All rights reserved.
             </p>
-            <p className="font-source text-xs text-muted">
-              Built for physicians, lawmakers, and the public record.
-            </p>
+            <div className="flex items-center gap-4">
+              <p className="font-source text-xs text-muted">
+                Built for physicians, lawmakers, and the public record.
+              </p>
+              <Link href="/privacy/" className="font-source text-xs text-muted hover:text-orange transition-colors">
+                Privacy Policy
+              </Link>
+            </div>
           </div>
         </div>
       </div>

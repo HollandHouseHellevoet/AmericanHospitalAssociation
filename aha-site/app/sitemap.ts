@@ -15,6 +15,7 @@ export default function sitemap() {
     { url: `${base}/`, lastModified: new Date(), priority: 1.0 },
     { url: `${base}/powermap/`, lastModified: new Date(), priority: 0.9 },
     { url: `${base}/about/`, lastModified: new Date(), priority: 0.7 },
+    { url: `${base}/privacy/`, lastModified: new Date(), priority: 0.3 },
   ];
 
   const profilePages = profiles.map((p) => ({
