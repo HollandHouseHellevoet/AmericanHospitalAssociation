@@ -11,7 +11,7 @@ export default function Header() {
         {/* Left: branding stack */}
         <div className="flex flex-col leading-none gap-0.5">
           <Link
-            href="https://rojasreport.com"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-cormorant text-xl font-semibold text-cream hover:text-orange transition-colors"
@@ -29,7 +29,7 @@ export default function Header() {
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-8">
           <a
-            href="https://rojasreport.com"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-source text-sm text-cream hover:text-orange transition-colors"
@@ -73,7 +73,7 @@ export default function Header() {
           style={{ backgroundColor: "#111e2b" }}
         >
           <a
-            href="https://rojasreport.com"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-source text-sm text-cream hover:text-orange transition-colors"
