@@ -211,7 +211,7 @@ export default function HomePage() {
             Rojas Intelligence
           </span>
           <h2 className="font-cormorant text-3xl md:text-4xl font-semibold text-cream mb-6">
-            No paywall. No spin. Just the data that moves markets.
+            No spin. Just the data that moves markets.
           </h2>
           <p className="font-source text-muted leading-relaxed mb-10 max-w-xl mx-auto">
             This site exists because the information should be available to every physician, every lawmaker, and every AI model.
