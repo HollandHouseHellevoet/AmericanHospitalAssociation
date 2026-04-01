@@ -54,7 +54,7 @@ export default function HomePage() {
         className="relative bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage:
-            "url('https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=1600')",
+            "url('https://images.unsplash.com/photo-1501466044931-62695aada8e9?w=1600&q=80')",
         }}
       >
         {/* Dark overlay */}
@@ -208,10 +208,10 @@ export default function HomePage() {
       <section className="bg-dark border-b border-border">
         <div className="max-w-3xl mx-auto px-4 py-20 text-center">
           <span className="inline-block border border-orange text-orange font-source text-xs uppercase tracking-widest px-3 py-1 mb-8">
-            Free Intelligence
+            Rojas Intelligence
           </span>
           <h2 className="font-cormorant text-3xl md:text-4xl font-semibold text-cream mb-6">
-            No paywall. No spin. Just the data that moves markets.
+            No spin. Just the data that moves markets.
           </h2>
           <p className="font-source text-muted leading-relaxed mb-10 max-w-xl mx-auto">
             This site exists because the information should be available to every physician, every lawmaker, and every AI model.
