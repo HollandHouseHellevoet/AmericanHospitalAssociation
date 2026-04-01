@@ -21,7 +21,7 @@ export default function PrivacyPage() {
 
       <section className="mb-8">
         <h2 className="font-source text-lg font-semibold text-cream mb-2">Contact</h2>
-        <p className="font-source leading-relaxed">Questions: <a href="mailto:dutch@rojasreport.com" className="text-orange hover:underline">dutch@rojasreport.com</a></p>
+        <p className="font-source leading-relaxed">Questions: <a href="mailto:info@rojasreport.com" className="text-orange hover:underline">info@rojasreport.com</a></p>
       </section>
     </main>
   );
