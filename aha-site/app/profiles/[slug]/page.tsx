@@ -3,6 +3,7 @@ import Link from "next/link";
 import profilesData from "@/data/profiles.json";
 import RedFlagCallout from "@/components/RedFlagCallout";
 import ShareDossierClient from "@/components/ShareDossierClient";
+import Breadcrumb from "@/components/Breadcrumb";
 
 interface Profile {
   slug: string;
@@ -152,13 +153,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
 
       <div className="max-w-7xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
-        <nav className="font-source text-muted mb-8" style={{ fontSize: "13px" }}>
-          <Link href="/" className="hover:text-cream transition-colors">Home</Link>
-          <span className="mx-2 text-border">/</span>
-          <span>Profiles</span>
-          <span className="mx-2 text-border">/</span>
-          <span className="text-cream">{profile.name || profile.slug}</span>
-        </nav>
+        <Breadcrumb profileName={profile.name || profile.slug} />
 
         {/* Hero */}
         <div className="mb-12 border-b border-border pb-10">
