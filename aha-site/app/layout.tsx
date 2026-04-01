@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   title: "AHA Intelligence | The Rojas Report",
   description:
     "The definitive intelligence database on the American Hospital Association's board of directors and executive team. Conflicts of interest, lobbying expenditures, and red flags -- sourced and cited.",
+  verification: {
+    google: "MNL9i5bYZRFH2AbVPNv4HcMARXUn467LSSUIiCYErNc",
+  },
 };
 
 export default function RootLayout({
