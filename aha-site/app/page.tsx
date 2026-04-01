@@ -208,7 +208,7 @@ export default function HomePage() {
       <section className="bg-dark border-b border-border">
         <div className="max-w-3xl mx-auto px-4 py-20 text-center">
           <span className="inline-block border border-orange text-orange font-source text-xs uppercase tracking-widest px-3 py-1 mb-8">
-            Free Intelligence
+            Rojas Intelligence
           </span>
           <h2 className="font-cormorant text-3xl md:text-4xl font-semibold text-cream mb-6">
             No paywall. No spin. Just the data that moves markets.
