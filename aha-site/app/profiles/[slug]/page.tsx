@@ -31,21 +31,34 @@ export async function generateStaticParams() {
   return profiles.map((p) => ({ slug: p.slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
   const { slug } = await params;
   const profile = profiles.find((p) => p.slug === slug);
   if (!profile) return {};
-
   const firstFlag = profile.redFlags[0] || profile.patternSummary || "";
   const description = `${firstFlag} ${profile.patternSummary}`.slice(0, 155);
-
   return {
     title: `${profile.name || slug} -- AHA Intelligence Dossier | The Rojas Report`,
     description,
+    alternates: {
+      canonical: `https://aha.rojasreport.com/profiles/${slug}/`,
+    },
     openGraph: {
       title: `${profile.name || slug} -- AHA Intelligence Dossier`,
       description,
       url: `https://aha.rojasreport.com/profiles/${slug}/`,
+      images: [{ url: "https://aha.rojasreport.com/og-image.png", width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${profile.name || slug} -- AHA Intelligence Dossier | The Rojas Report`,
+      description,
+      images: ["https://aha.rojasreport.com/og-image.png"],
+      site: "@RojasReport",
     },
   };
 }
@@ -56,13 +69,7 @@ function Section({ title, items }: { title: string; items: string[] }) {
     <details className="border border-border mb-3 group" open>
       <summary className="px-4 py-3 cursor-pointer flex justify-between items-center font-source font-semibold text-cream hover:text-orange transition-colors list-none" style={{ fontSize: "14px" }}>
         {title}
-        <svg
-          className="w-4 h-4 text-muted group-open:rotate-180 transition-transform flex-shrink-0"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          viewBox="0 0 24 24"
-        >
+        <svg className="w-4 h-4 text-muted group-open:rotate-180 transition-transform flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
           <path d="M19 9l-7 7-7-7" />
         </svg>
       </summary>
@@ -86,7 +93,11 @@ function Section({ title, items }: { title: string; items: string[] }) {
   );
 }
 
-export default async function ProfilePage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function ProfilePage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
   const { slug } = await params;
   const profile = profiles.find((p) => p.slug === slug);
 
@@ -107,16 +118,12 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
     `${profile.name} -- ${(profile.redFlags[0] || profile.patternSummary || "").slice(0, 100)} Full dossier: aha.rojasreport.com/profiles/${profile.slug}/ via @dutchrojas`
   );
 
-  // JSON-LD
   const personJsonLd = {
     "@context": "https://schema.org",
     "@type": "Person",
     name: profile.name,
     jobTitle: profile.title,
-    worksFor: {
-      "@type": "Organization",
-      name: profile.organization,
-    },
+    worksFor: { "@type": "Organization", name: profile.organization },
     description: profile.patternSummary,
     url: `https://aha.rojasreport.com/profiles/${profile.slug}/`,
   };
@@ -130,10 +137,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
             {
               "@type": "Question",
               name: `What are the red flags for ${profile.name}?`,
-              acceptedAnswer: {
-                "@type": "Answer",
-                text: profile.redFlags.join(". "),
-              },
+              acceptedAnswer: { "@type": "Answer", text: profile.redFlags.join(". ") },
             },
           ],
         }
@@ -141,22 +145,10 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
-      />
-      {faqJsonLd && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
-      )}
-
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }} />
+      {faqJsonLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />}
       <div className="max-w-7xl mx-auto px-4 py-12">
-        {/* Breadcrumb */}
         <Breadcrumb profileName={profile.name || profile.slug} />
-
-        {/* Hero */}
         <div className="mb-12 border-b border-border pb-10">
           <div className="flex items-start justify-between flex-wrap gap-4">
             <div>
@@ -174,26 +166,17 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
             </span>
           </div>
         </div>
-
-        {/* Two column layout */}
         <div className="flex gap-10 flex-col lg:flex-row">
-          {/* Main content — 65% */}
           <div className="flex-1 min-w-0">
-            {/* Collapsible sections */}
             <Section title="Affiliations" items={profile.affiliations} />
             <Section title="Financial / Compensation" items={profile.financial} />
             <Section title="Lobbying and Political" items={profile.lobbying} />
             <Section title="Revolving Door" items={profile.revolvingDoor} />
             <Section title="Home System Record" items={profile.homeSystemRecord} />
             <Section title="Litigation and Scrutiny" items={profile.litigation} />
-
-            {/* Red Flags — always visible, not collapsible */}
             {profile.redFlags.length > 0 && (
               <div className="mt-8 mb-8">
-                <h2
-                  className="font-cormorant font-semibold mb-4"
-                  style={{ fontSize: "28px", color: "#EB6E2C" }}
-                >
+                <h2 className="font-cormorant font-semibold mb-4" style={{ fontSize: "28px", color: "#EB6E2C" }}>
                   Red Flags
                 </h2>
                 {profile.redFlags.map((flag, i) => (
@@ -201,47 +184,24 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
                 ))}
               </div>
             )}
-
-            {/* Pattern Summary */}
             {profile.patternSummary && (
-              <div
-                className="mt-8 border-l-4 border-orange px-6 py-6"
-                style={{ backgroundColor: "#1e3040" }}
-              >
-                <p
-                  className="font-source text-orange uppercase tracking-widest font-semibold mb-3"
-                  style={{ fontSize: "11px", letterSpacing: "0.15em" }}
-                >
+              <div className="mt-8 border-l-4 border-orange px-6 py-6" style={{ backgroundColor: "#1e3040" }}>
+                <p className="font-source text-orange uppercase tracking-widest font-semibold mb-3" style={{ fontSize: "11px", letterSpacing: "0.15em" }}>
                   Pattern Summary
                 </p>
-                <p
-                  className="font-cormorant italic text-cream leading-relaxed"
-                  style={{ fontSize: "24px" }}
-                >
+                <p className="font-cormorant italic text-cream leading-relaxed" style={{ fontSize: "24px" }}>
                   {profile.patternSummary}
                 </p>
               </div>
             )}
-
-            {/* Sources */}
             {profile.sources.length > 0 && (
               <div className="mt-10">
-                <h2 className="font-cormorant text-xl font-semibold text-cream mb-4">
-                  Sources and Citations
-                </h2>
+                <h2 className="font-cormorant text-xl font-semibold text-cream mb-4">Sources and Citations</h2>
                 <ol className="space-y-2">
                   {profile.sources.map((url, i) => (
                     <li key={i} className="flex gap-2">
-                      <span className="font-source text-muted flex-shrink-0" style={{ fontSize: "13px" }}>
-                        {i + 1}.
-                      </span>
-                      <a
-                        href={url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="font-source text-muted hover:text-orange break-all transition-colors"
-                        style={{ fontSize: "13px" }}
-                      >
+                      <span className="font-source text-muted flex-shrink-0" style={{ fontSize: "13px" }}>{i + 1}.</span>
+                      <a href={url} target="_blank" rel="noopener noreferrer" className="font-source text-muted hover:text-orange break-all transition-colors" style={{ fontSize: "13px" }}>
                         {url}
                       </a>
                     </li>
@@ -250,37 +210,20 @@ export default async function ProfilePage({ params }: { params: Promise<{ slug: 
               </div>
             )}
           </div>
-
-          {/* Sidebar — 35% */}
           <aside className="w-full lg:w-64 flex-shrink-0">
             <div className="sticky top-24 space-y-4">
-              <ShareDossierClient
-                name={profile.name}
-                slug={profile.slug}
-                tweetText={tweetText}
-              />
-
+              <ShareDossierClient name={profile.name} slug={profile.slug} tweetText={tweetText} />
               {related.length > 0 && (
                 <div className="bg-card border border-border p-4">
-                  <h3
-                    className="font-source text-muted uppercase tracking-widest mb-3"
-                    style={{ fontSize: "11px", letterSpacing: "0.15em" }}
-                  >
+                  <h3 className="font-source text-muted uppercase tracking-widest mb-3" style={{ fontSize: "11px", letterSpacing: "0.15em" }}>
                     Related Profiles
                   </h3>
                   <ul className="space-y-4">
                     {related.map((r) => (
                       <li key={r.slug}>
-                        <Link
-                          href={`/profiles/${r.slug}/`}
-                          className="block group"
-                        >
-                          <p className="font-source text-sm text-cream font-semibold group-hover:text-orange transition-colors">
-                            {r.name || r.slug}
-                          </p>
-                          <p className="font-source text-muted mt-0.5" style={{ fontSize: "12px" }}>
-                            {r.redFlagCount} flags
-                          </p>
+                        <Link href={`/profiles/${r.slug}/`} className="block group">
+                          <p className="font-source text-sm text-cream font-semibold group-hover:text-orange transition-colors">{r.name || r.slug}</p>
+                          <p className="font-source text-muted mt-0.5" style={{ fontSize: "12px" }}>{r.redFlagCount} flags</p>
                         </Link>
                       </li>
                     ))}
