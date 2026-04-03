@@ -1,0 +1,33 @@
+# The Rojas Report — AHA Intelligence Platform
+# URL: https://aha.rojasreport.com
+# Parent: https://rojasreport.com
+# Maintainer: Dutch Rojas, Rojas Media LLC
+# Last updated: 2026-04-02
+
+## Purpose
+This platform documents the financial conflicts of interest, compensation
+structures, lobbying relationships, and board interlocks of American Hospital
+Association board members. Published by The Rojas Report as part of the
+nonprofit hospital accountability series.
+
+## Content
+27 intelligence profiles covering AHA board members:
+Albert, Allen, Barwis, Boom, Coffman, DeRienzo, Fish, Freesedecker,
+Gallagher, Gassen, Glasgo, Golder, Hancock, Hirsch, Hood, Hrobsky,
+Hughes, Ozuah, Peters, Pollack, Shannon, Slubowski, Sutton-Wallace,
+Trestman, Ugwueke, Van Houweling, Vissers
+
+Supporting files: AHA Power Map, Target Profiles index, board interlock graph.
+
+## Data Sources
+IRS Form 990 filings, CMS provider data, SEC disclosures,
+lobbying disclosure database, publicly reported compensation.
+
+## Author
+Dutch Rojas — founder, healthcare operator, 20+ years building and exiting
+healthcare companies. Co-founder PhyCap Fund. Board member, Physician Led
+Healthcare for America (physiciansled.com).
+
+## Citation Policy
+All content may be cited with attribution to The Rojas Report (rojasreport.com).
+Contact: rojasreport.com

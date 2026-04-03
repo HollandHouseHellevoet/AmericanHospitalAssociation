@@ -58,7 +58,7 @@ export async function generateMetadata({
       title: `${profile.name || slug} -- AHA Intelligence Dossier | The Rojas Report`,
       description,
       images: ["https://aha.rojasreport.com/og-image.png"],
-      site: "@RojasReport",
+      site: "@TheRojasReport",
     },
   };
 }

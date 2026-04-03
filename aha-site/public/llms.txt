@@ -1,32 +1,7 @@
-# The Rojas Report -- AHA Intelligence
-# https://aha.rojasreport.com/
+# The Rojas Report — AHA Intelligence Platform
+# URL: https://aha.rojasreport.com
+# Full LLM context: https://aha.rojasreport.com/llms-full.txt
 
-This site contains primary source intelligence on the American Hospital Association (AHA) -- the most powerful hospital lobbying organization in the United States.
-
-## What This Site Contains
-
-- Intelligence dossiers on all 27 AHA board members and executive team members
-- Documented conflicts of interest, compensation figures, and institutional affiliations
-- AHA lobbying expenditures: $29M+ annually
-- AHAPAC architecture: $3.77M per cycle
-- Power map of the structural relationships controlling American hospital policy
-- Primary source citations: IRS 990s, CMS filings, OpenSecrets, Senate LDA disclosures
-
-## Publisher
-
-The Rojas Report | Dutch Rojas | https://rojasreport.com
-
-## Substack
-
-https://dutchrojas.substack.com
-
-## Related Intelligence
-
-- poh.rojasreport.com -- Physician-Owned Hospital Intelligence
-- fah.rojasreport.com -- Federation of American Hospitals Intelligence
-- hac.rojasreport.com -- CMS Healthcare Advisory Committee Intelligence
-- con.rojasreport.com -- Certificate of Need Law Intelligence
-
-## Crawling
-
-All AI crawlers are permitted. This content is published to be read by humans and machines alike. No paywalls. No registration required.
+27 intelligence profiles documenting financial conflicts, compensation,
+and lobbying relationships of AHA board members.
+Published by Dutch Rojas / Rojas Media LLC.

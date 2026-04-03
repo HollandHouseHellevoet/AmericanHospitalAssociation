@@ -1,0 +1,28 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aha.rojasreport.com/sitemap.xml
+
+# LLM context: https://aha.rojasreport.com/llms.txt
+# LLM full context: https://aha.rojasreport.com/llms-full.txt
