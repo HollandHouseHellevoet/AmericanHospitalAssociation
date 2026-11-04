@@ -1654,7 +1654,7 @@
    "SVMC Holdings, the St. Vincent's Medical Center parent he oversees, reported $616.3 million in revenue and $637.9 million in expenses on its tax year 2023 Form 990, a deficit of about $21.7 million.",
    "St. Vincent's expenses exceeded revenue in each of the three most recent years with extracted 990 data: by $20.3 million in 2021, $35.2 million in 2022 and $21.7 million in 2023.",
    "Hartford Hospital, the system's flagship, reported $2.58 billion in revenue and $2.46 billion in expenses on its tax year 2023 Form 990.",
-   "Jennings's personal compensation from Schedule J was not found in available extracted 990 data; tax year 2024 filings for SVMC Holdings and Hartford Hospital had no extracted financials as of November 2026.",
+   "Jennings's pay is reported on the Form 990 of SVMC Holdings (St. Vincent's Medical Center, EIN 83-2550272), where he is listed as president and director but is paid entirely by a related Hartford HealthCare organization: $1,474,125 plus $191,193 in other compensation (about $1.67M) for the fiscal year ending September 2024, up from $1,433,652 plus $156,125 (about $1.59M) in FY2023 and $425,715 plus $66,898 in FY2022.",
    "Hartford Hospital's revenue grew from $2.14 billion in tax year 2021 to $2.58 billion in tax year 2023 while St. Vincent's kept running deficits.",
    "Hartford HealthCare paid $86.1 million to buy Manchester Memorial and Rockville General hospitals out of Prospect Medical Holdings' bankruptcy, closing January 1, 2026, and committed about $227 million in capital over three years."
   ],
@@ -1682,9 +1682,9 @@
   "redFlags": [
    "St. Vincent's, the hospital Jennings runs, has spent more than it took in every year with available 990 data, about $77 million in combined deficits over 2021-2023.",
    "Jennings has led both sides of Bridgeport's two-system hospital market, first for Yale New Haven Health and now for Hartford HealthCare.",
-   "His personal compensation is not visible in extracted public filings, limiting accountability for a regional executive who will now help set AHA policy.",
    "Jennings's employer faces two pending antitrust suits, one federal and one in state court, accusing it of using must-have hospitals, anti-steering clauses and captive physician networks to inflate commercial prices in Connecticut; a third, by rival Saint Francis, ended in a confidential settlement in 2025.",
-   "Hartford HealthCare kept growing by acquisition, buying Manchester Memorial and Rockville General for $86.1 million in January 2026, with regulators imposing rate-growth caps that underline the pricing concerns."
+   "Hartford HealthCare kept growing by acquisition, buying Manchester Memorial and Rockville General for $86.1 million in January 2026, with regulators imposing rate-growth caps that underline the pricing concerns.",
+   "He is paid about $1.67 million a year through a related Hartford HealthCare entity rather than the hospital he runs, so his pay never shows up as an expense of St. Vincent's itself."
   ],
   "patternSummary": "William Jennings is a career hospital executive who has run both of Bridgeport's hospitals for the two systems that control Connecticut's market, first Yale's Bridgeport Hospital and since 2021 Hartford HealthCare's St. Vincent's, which ran about $77 million in deficits over 2021-2023. His employer, a $7.13 billion system, faces pending federal and state antitrust suits over anti-steering and all-or-nothing contracting and settled a rival's monopolization suit in 2025, even as it bought two more hospitals in January 2026. He joins the AHA board in 2027 as a regional executive of a consolidating system whose market power is being litigated.",
   "redFlagCount": 5,
@@ -1705,7 +1705,8 @@
    "https://ctmirror.org/2024/07/08/ct-hartford-healthcare-antitrust-lawsuits/",
    "https://hartfordbusiness.com/article/generational-moment-arrives-as-hhc-officially-acquires-manchester-rockville-hospitals/",
    "https://portal.ct.gov/ohs/press-room/press-releases/2025-press-releases/office-of-health-strategy-approves-hartford-healthcare-acquisition-of-eastern-connecticut-hospital",
-   "https://hartfordbusiness.com/honoree/2026-power-25-healthcare-jeffrey-a-flaks/"
+   "https://hartfordbusiness.com/honoree/2026-power-25-healthcare-jeffrey-a-flaks/",
+   "https://projects.propublica.org/nonprofits/organizations/832550272"
   ],
   "lastVerified": "2026-11-04"
  },

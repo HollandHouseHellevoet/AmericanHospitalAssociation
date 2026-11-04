@@ -551,6 +551,10 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Not verified: outcome of the Sept 14, 2026 class certification hearing; Hartford HealthCare FY2025 operating income; Jennings's compensation; Connecticut state lobbying totals.
 
 
+## Compensation (2026-11-04, follow-up)
+- Found on SVMC Holdings Inc (St. Vincent's Medical Center) Form 990, EIN 83-2550272: FY2024 $1,474,125 related-org + $191,193 other; FY2023 $1,433,652 + $156,125; FY2022 $425,715 + $66,898. https://projects.propublica.org/nonprofits/organizations/832550272
+
+
 ## Power Map: capture-charity-bottomline
 
 # Power Map refresh: institutionalCapture, charityCaregap, bottomLine (as of Nov. 4, 2026)
