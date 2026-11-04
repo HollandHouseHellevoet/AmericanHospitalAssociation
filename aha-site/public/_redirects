@@ -1,0 +1,3 @@
+# aha.rojasreport.com now lives at rojasreport.com/aha/
+# Every old URL maps to the same path under /aha/ with a permanent redirect.
+/*  https://rojasreport.com/aha/:splat  301!
