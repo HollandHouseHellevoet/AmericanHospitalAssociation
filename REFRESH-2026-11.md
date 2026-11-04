@@ -67,6 +67,14 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - North Carolina AG Mission Health suit still active; counties and cities settled with a $1M fund. https://www.fiercehealthcare.com/providers/hca-healthcare-mission-health-settle-counties-cities-antitrust-allegations
 - South Florida quality concerns at HCA Florida JFK and others (2023 WPTV report). https://wptv.com/news/treasure-coast/quality-of-care-a-concern-for-patients-at-hca-hospitals-in-palm-beach-county-treasure-coast
 
+## Second pass (2026-11-04): gap fill
+
+- Added the July 14, 2026 guidance cut (net income range lowered to $6.3B-$6.7B; about $400M Q2 pretax hit from exchange coverage losses) and the offsetting about $400M in mostly Florida Medicaid supplemental payments. https://www.sec.gov/Archives/edgar/data/0000860730/000119312526302539/hca-ex99_1.htm
+- Added the securities investigations opened after the stock drop (class period Oct 24, 2025 to July 13, 2026); no filed complaint confirmed. https://www.ktmc.com/?p=17287
+- Added the February 2026 negligent-security suit by nurse Leelamma Lal against HCA Florida Palms West, HCA and Allied Universal; replaced the 'no Florida-specific actions found' line. https://www.wflx.com/2026/02/18/nurse-sues-hca-florida-palms-west-hospital-security-company-1-year-after-brutal-patient-attack/
+- Two new red flags (Florida supplemental payment reliance; Palms West suit); redFlagCount 5 to 7.
+- Not verified: Florida AHCA fines or federal enforcement against East Florida Division hospitals in 2025-2026; Gressle's personal compensation; HCA PAC cycle totals.
+
 
 ## Chris DeRienzo, MD (SVP & Chief Physician Executive)
 
@@ -336,6 +344,14 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Advocate's 2025-2026 lobbying reports list the 340B program, Medicaid funding, Medicare Advantage, price transparency and Stark/AKS reform. In-house lobbyist Meagan Thompson previously worked for Reps. Robin Kelly and Sean Casten. https://lda.gov/filings/public/filing/c1425521-e0e4-43a3-8a89-56a9de0a66f5/print/
 - HEA Consultants is a private LLC with no public financial or lobbying disclosures.
 
+## Second pass (2026-11-04): gap fill
+
+- Added Advocate 2025 results: revenue over $38.9B, operating income over $1.5B (4.0%), $4.6B bottom line with about $3B investment income, 283 days cash. https://www.fiercehealthcare.com/providers/advocate-health-improves-4-operating-margin-46b-bottom-line-across-2025
+- Litigation filled in: Wisconsin antitrust class action (E.D. Wis., Feb 2024; status unverified); tobacco-surcharge ERISA class action settled June 2026 (N.D. Ill., terms undisclosed); $12.225M Meta Pixel settlement; Atrium's 2022 DOJ/NC anti-steering settlement. https://www.healthcaredive.com/news/advocate-aurora-class-action-lawsuit-eye-watering-prices/707213/ ; https://law360.com/articles/2491033 ; https://kffhealthnews.org/morning-breakout/north-carolina-based-hospital-system-atrium-health-settles-antitrust-lawsuit-with-justice-department
+- Added the Atrium-WakeMed takeover: Wake commissioners approved 5-2 on Sept 21, 2026; $2B capital, $150M county program, rate cap of 1.5x Medicare increases for five years; NC AG certification pending; Treasurer Briner's competition warning. https://www.wfae.org/business/2026-09-28/wrinkles-remain-in-atrium-takeover-of-wakemed
+- Two new red flags; redFlagCount 5 to 7.
+- Not verified: Advocate FY2025 Form 990 (her FY2025 board pay); whether she still holds any Advocate board seat after leaving the chair; the specific FTC matter in the AHA release; Wisconsin class action status; AG decision on WakeMed.
+
 
 ## Michelle Hood (EVP & Chief Operating Officer)
 
@@ -361,6 +377,12 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - **Data breach settlement updated:** The $18M settlement got final approval March 3, 2026, with payments starting May 27, 2026. Dropped the old unsourced "$2 per person" claim. https://www.claimdepot.com/settlements/yale-new-haven-settlement
 - **New 2025-26 items:** about 150 NEMG layoffs (March 2025), about 600 voluntary retirements, the CFO and general counsel ousted in October 2025, and the December 2025 GLAD Law suit over ending transgender care for minors. https://www.wshu.org/connecticut-news/2025-03-24/ct-ynhh-layoffs-northeast-medical-group ; https://connecticut.news12.com/lawsuit-challenges-decision-of-major-ct-providers-to-end-transgender-care-for-younger-patients
 - **FCA settlement quantified:** The case is now pinned to the May 2023 $560,718 settlement. The old "10-15% higher" claim was unsourced and removed. The org/state/systemType fields, which were blank in the old file, are now filled. https://www.justice.gov/usao-ct/pr/hospital-owner-and-hospitalist-group-agree-pay-560k-settle-false-claims-act-allegations
+
+## Second pass (2026-11-04): gap fill
+
+- Permanent CEO check: searches of YNHHS news, Becker's, CT Mirror, Hartford Business Journal and Modern Healthcare turned up no permanent CEO announcement after June 2026. Title stays Acting CEO and President, now stated with an as-of date. https://www.ynhhs.org/news/yale-new-haven-health-system-announces-leadership-changes
+- Added that Hartford HealthCare bought Manchester Memorial and Rockville General for $86.1M (closed Jan 1, 2026) after Yale's $45M exit. https://hartfordbusiness.com/article/generational-moment-arrives-as-hhc-officially-acquires-manchester-rockville-hospitals/
+- Not verified: whether she is a candidate in the CEO search; tax-year 2024 Form 990 compensation; FY2026 results against the projected $50M surplus. redFlagCount unchanged at 8.
 
 
 ## Pete November (Trustee, term 2026-2028)
@@ -479,6 +501,13 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - She was named a 2024 AHA Grassroots Champion for advocacy with elected officials. https://www.coffeeregional.org/vicki-lewis-recognized-as-grassroots-champion-by-the-american-hospital-association/
 - No 2025-2026 litigation or enforcement actions against CRMC were found.
 
+## Second pass (2026-11-04): gap fill
+
+- 340B gap filled: CRMC is a 340B DSH (DSH110089), participating since April 1, 2007, with three child sites and seven active contract pharmacies (including Walmart in Douglas); two arrangements terminated in 2018. From the HRSA OPAIS daily export as mirrored at https://api.morvs.ai/340b/DSH110089 (snapshot dated 2026-11-04).
+- New red flag on 340B and contract pharmacy exposure; redFlagCount 5 to 6.
+- Local news check (DouglasNow, July-Sept 2026) found no layoffs, lawsuits or enforcement; litigation line updated to say so. https://douglasnow.com/tag/crmc/
+- Not verified: dollar value of CRMC's 340B savings; Lown ranking; price transparency compliance; FY2025 Form 990. Siviq shows a 2022 filing with Lewis at $624,365 base plus $102,597 other ($726,962), which does not line up exactly with the ProPublica-based FY2023 figure already in the file; left unchanged pending the source filing.
+
 
 ## W. Mason Van Houweling (Trustee, term 2026-2028)
 
@@ -492,6 +521,14 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - **Fields fixed:** State (NV), systemType (Public hospital), status, and aha_position were filled. The title was cleaned to drop "AHA Board of Trustees". The old file's NACo claim and the old unsourced "72% Medicare/Medicaid" figure were removed and replaced with the sourced "nearly half Medicaid." https://thenevadaindependent.com/article/umc-nurses-feel-first-effects-of-federal-funding-cuts-as-ceo-gets-raise
 - **Litigation section populated:** No new 2025-26 suits were found. Added the 2018 $820K discovery-sanction wage case for the record. https://lasvegassun.com/news/2018/nov/12/us-court-says-vegas-hospital-must-pay-820k-in-wage/
 
+## Second pass (2026-11-04): gap fill
+
+- Added January 2026 Magnet designation, the first in Nevada. https://business.mammothtimes.com/mammothtimes/article/gnwcq-2026-1-24-university-medical-center-southern-nevada-becomes-first-hospital-in-nevada-to-earn-magnet-recognition
+- Added the $44M NHBC Academic Laboratory, with UMC as investor ($35M state ARPA grant, $9M city grant), plus a new red flag on public-money expansion. https://www.reviewjournal.com/?p=3511493
+- Added the Aug 2025 county lease for a UMC crisis stabilization center. https://cpo.soar.com/articles/6131154/Clark-County/Nevada/Board-approves-lease-with-UMC-for-crisis-stabilization-center-on-East-Lake-Mead-Boulevard
+- redFlagCount 7 to 8.
+- Not verified: any 2026 commission action on his pay or contract, FY2026 bonus, tower groundbreaking, or 2026 layoffs; 2026 searches returned no new coverage of Van Houweling himself.
+
 
 ## William M. Jennings (Trustee, term 2027-2029)
 
@@ -503,6 +540,15 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - SVMC Holdings (St. Vincent's) 990s show deficits in 2021-2023, including $616.3M in revenue against $637.9M in expenses in tax year 2023. https://projects.propublica.org/nonprofits/api/v2/organizations/832550272.json
 - No 2025 or 2026 federal LDA filings under Hartford HealthCare. https://lda.senate.gov/api/v1/filings/?client_name=Hartford%20HealthCare&filing_year=2026
 - No 2025-2026 litigation or enforcement naming Jennings or the Fairfield Region was found.
+
+## Second pass (2026-11-04): gap fill
+
+- Litigation filled in with three antitrust cases against Hartford HealthCare: Saint Francis suit (filed Jan 2022, confidential settlement, dismissed Jan 2025); state-court patient class action (class cert hearing set Sept 14, 2026; AG amicus 2023); Estuary Transit/Teamsters 671 federal putative class action (No. 3:24-cv-01051, April 2026 motion to compel 182 withheld documents). https://hartfordbusiness.com/article/rival-healthcare-systems-antitrust-lawsuit-against-hartford-healthcare-reaches-settlement/ ; https://cohenmilstein.com/case-study/hartford-healthcare-litigation ; https://law360.com/articles/2470408
+- Added Hartford HealthCare's $86.1M Manchester Memorial/Rockville General acquisition (closed Jan 1, 2026; about $227M capital pledge) and OHS's Dec 10, 2025 CON conditions (rate growth caps, no hospital-based billing conversion for three years). https://hartfordbusiness.com/article/generational-moment-arrives-as-hhc-officially-acquires-manchester-rockville-hospitals/ ; https://portal.ct.gov/ohs/press-room/press-releases/2025-press-releases/office-of-health-strategy-approves-hartford-healthcare-acquisition-of-eastern-connecticut-hospital
+- Added FY2025 system operating revenue of $7.13B. https://hartfordbusiness.com/honoree/2026-power-25-healthcare-jeffrey-a-flaks/
+- (Proton-center CON point considered but dropped: no direct source retrieved in this pass.)
+- Two new red flags; redFlagCount 3 to 5.
+- Not verified: outcome of the Sept 14, 2026 class certification hearing; Hartford HealthCare FY2025 operating income; Jennings's compensation; Connecticut state lobbying totals.
 
 
 ## Power Map: capture-charity-bottomline

@@ -173,6 +173,7 @@
    "JD from Yale Law School; bachelor's degree in economics and organizational behavior from Brown University."
   ],
   "financial": [
+   "Advocate Health reported 2025 revenue of more than $38.9 billion, operating income of more than $1.5 billion (a 4.0% margin, up from 3.5%) and a $4.6 billion bottom line driven by about $3 billion in net investment income, with 283 days cash on hand.",
    "Advocate Health's FY2024 Form 990 reports $135,767 paid to Baker Richardson as board chair through related organizations, up from $131,433 in FY2023 as chair-elect.",
    "Advocate Aurora Health's Form 990s report her board pay at $90,966 (FY2018), $132,165 (FY2019), $126,333 (FY2020 and FY2021), $143,767 (FY2022) and $131,433 (FY2023).",
    "On the FY2024 Advocate Health Form 990 filed during her chairmanship, CEO Eugene Woods was reported at $22,870,197 in compensation from related organizations plus $2,911,078 in other compensation, about $25.8 million in total.",
@@ -194,20 +195,29 @@
   "homeSystemRecord": [
    "Advocate Health was formed by the December 2022 combination of Advocate Aurora Health and Atrium Health, creating one of the largest nonprofit systems in the country.",
    "The AHA credits her with guiding Advocate's board through COVID-19, FTC proceedings and workforce challenges and with integrating the merged organizations' cultures.",
-   "Advocate lists the 340B program as a lobbying issue in every 2025 and 2026 quarterly federal report reviewed, signaling a material stake in the program's drug discounts."
+   "Advocate lists the 340B program as a lobbying issue in every 2025 and 2026 quarterly federal report reviewed, signaling a material stake in the program's drug discounts.",
+   "Advocate now runs 69 hospitals and more than 1,000 sites of care in six states with about 167,000 employees, and CEO Eugene Woods credits the 2022 merger with $1.5 billion in annual operating savings.",
+   "Advocate's Atrium Health is taking over WakeMed in Raleigh: Wake County commissioners approved the deal 5-2 on September 21, 2026, with Atrium becoming sole member, funding $2 billion in capital and $150 million for a county health program, and capping rate increases at 1.5 times annual Medicare increases for only five years; it still needs North Carolina attorney general certification.",
+   "State Treasurer Brad Briner, who runs the state employee health plan, warned that the WakeMed deal would reduce competition and let the combined system negotiate higher prices."
   ],
   "litigation": [
-   "The AHA release references FTC proceedings during her board leadership but does not specify the matter; details of Advocate-specific litigation in 2025 and 2026 were not verified for this dossier."
+   "Wisconsin residents filed a class action in February 2024 in the Eastern District of Wisconsin alleging Advocate Aurora used acquisitions, all-or-nothing contracting and anti-steering terms to raise commercial prices from 231% to 253% of Medicare; Advocate calls the suit meritless, and its current status was not verified.",
+   "In June 2026 Advocate Aurora reached a settlement to end a proposed class action in the Northern District of Illinois alleging it charged workers an unlawful tobacco surcharge through its employee health plan; terms were not disclosed.",
+   "Advocate Aurora paid $12.225 million to settle class claims that Meta Pixel tracking on its websites exposed patient data, a settlement approved during Baker Richardson's board tenure.",
+   "Atrium Health (then Carolinas HealthCare System) settled the U.S. Justice Department and North Carolina antitrust suit filed in 2016 over anti-steering contract terms, agreeing in 2018 to stop blocking insurers from steering patients to lower-cost rivals.",
+   "The AHA release references FTC proceedings during her board leadership without naming the matter."
   ],
   "redFlags": [
+   "Advocate made a $4.6 billion bottom line in 2025, mostly from about $3 billion in investment income, while keeping tax-exempt status and lobbying to protect 340B program discounts.",
    "Baker Richardson chaired the board that oversaw a reported $25.8 million package for CEO Eugene Woods in FY2024, a 39% jump from FY2023.",
    "She has collected more than $880,000 in Advocate board fees from FY2018 through FY2024 as a director of a tax-exempt system.",
    "Advocate Health spent about $2.7 million on federal lobbying in 2025 counting outside firms ($2.02 million in-house plus $640,000 to BGR, Venable and McDermott+), with the 340B program and site-neutral payment among its top issues.",
    "Her AHA seat comes from her governance role at a mega-merger system, not from running a hospital, adding another voice for consolidated systems to the trade group's board.",
-   "She steered the board of a system built by a multistate mega-merger, the consolidation model that free-market critics say reduces competition and raises prices for employers and patients."
+   "She steered the board of a system built by a multistate mega-merger, the consolidation model that free-market critics say reduces competition and raises prices for employers and patients.",
+   "Advocate's Atrium unit is absorbing WakeMed with a price cap that expires after five years, over the state treasurer's warning that it will raise prices, and Advocate Aurora faces a pending Wisconsin antitrust class action alleging prices rose to 253% of Medicare."
   ],
-  "patternSummary": "Baker Richardson is a professional board director whose path to the AHA runs through chairing Advocate Health, the mega-system created by the Advocate Aurora-Atrium merger. Her board approved pay of roughly $25.8 million for its CEO while Advocate spent millions lobbying to protect the 340B program and hospital payment rates. Her trustee seat adds a consolidation-era governance voice to an AHA board already dominated by large systems.",
-  "redFlagCount": 5,
+  "patternSummary": "Baker Richardson is a professional board director whose path to the AHA runs through chairing Advocate Health, the mega-system created by the Advocate Aurora-Atrium merger. Her board approved pay of roughly $25.8 million for its CEO, booked a $4.6 billion 2025 bottom line on investment gains and kept expanding, with Atrium now absorbing WakeMed over price warnings from North Carolina's treasurer, while facing an antitrust class action in Wisconsin. Her trustee seat adds a consolidation-era governance voice to an AHA board already dominated by large systems.",
+  "redFlagCount": 7,
   "sources": [
    "https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board",
    "https://projects.propublica.org/nonprofits/organizations/884157429",
@@ -215,7 +225,14 @@
    "https://lda.gov/api/v1/filings/?client_name=Advocate%20Health&filing_year=2025",
    "https://lda.gov/api/v1/filings/?client_name=Advocate%20Health&filing_year=2026",
    "https://lda.gov/filings/public/filing/3a1e2128-d2f8-4f6a-b47b-c91a2af05e45/print/",
-   "https://lda.gov/filings/public/filing/c1425521-e0e4-43a3-8a89-56a9de0a66f5/print/"
+   "https://lda.gov/filings/public/filing/c1425521-e0e4-43a3-8a89-56a9de0a66f5/print/",
+   "https://www.fiercehealthcare.com/providers/advocate-health-improves-4-operating-margin-46b-bottom-line-across-2025",
+   "https://www.healthcaredive.com/news/advocate-aurora-class-action-lawsuit-eye-watering-prices/707213/",
+   "https://law360.com/articles/2491033",
+   "https://www.beckershospitalreview.com/healthcare-information-technology/advocate-aurora-settles-pixel-suit-for-12m.html",
+   "https://kffhealthnews.org/morning-breakout/north-carolina-based-hospital-system-atrium-health-settles-antitrust-lawsuit-with-justice-department",
+   "https://www.wfae.org/business/2026-09-28/wrinkles-remain-in-atrium-takeover-of-wakemed",
+   "https://www.wfae.org/2026-08-17/wake-county-wakemed-atrium-merger-public-comment"
   ],
   "lastVerified": "2026-11-04"
  },
@@ -1139,6 +1156,8 @@
    "HCA Healthcare is publicly traded and files no Form 990; Gressle is not a named executive officer in its proxy, so his personal pay is not publicly disclosed.",
    "HCA reported 2025 revenue of $75.6 billion, up from $70.6 billion in 2024, and net income of $6.8 billion, up 17.8%.",
    "HCA guided 2026 net income of $6.5 billion to $7 billion on $76.5 billion to $80 billion in revenue, with $5 billion to $5.5 billion in capital spending excluding acquisitions.",
+   "On July 14, 2026 HCA cut its 2026 guidance, lowering net income to $6.3 billion to $6.7 billion from $6.495 billion to $7.035 billion, after uninsured volume from patients losing exchange coverage cost about $400 million in second-quarter pretax income; it raised its full-year exchange headwind estimate to $1.0 billion to $1.2 billion.",
+   "In the same quarter HCA booked about $400 million in incremental net benefit from Medicaid supplemental payment programs, mainly related to Florida, and raised its 2026 estimate for those programs to $300 million to $500 million from a $50 million to $250 million loss.",
    "CEO Sam Hazen received $26,456,606 in total compensation for 2025; COO Jon Foster received $10,992,786 and CFO Mike Marks $10,355,111.",
    "HCA operated 190 hospitals and about 2,500 ambulatory sites in 19 states and the United Kingdom at the end of 2025, with Florida among its largest markets.",
    "Division-level financial results for East Florida are not separately reported by HCA."
@@ -1165,17 +1184,20 @@
    "HCA and Mission settled antitrust-related claims brought by North Carolina counties and cities, agreeing to a $1 million charity fund and to keep Transylvania Regional Hospital open three more years; HCA denies the allegations.",
    "A federal court in the Western District of North Carolina granted preliminary approval in 2026 to a $1.563 million wage-and-hour settlement for hourly workers at HCA's North Carolina facilities.",
    "The class action over HCA's 2023 data breach was settled; the settlement fund amount was not disclosed, with plaintiffs' counsel eligible for up to $3.1 million in fees.",
-   "No Florida-specific enforcement actions against the East Florida Division in 2025 or 2026 were found in available reporting."
+   "In February 2026 nurse Leelamma Lal sued HCA Florida Palms West Hospital in Palm Beach County, HCA and security contractor Allied Universal, alleging negligent security after a Baker Act patient beat her on February 18, 2025; the complaint cites a history of violence at the hospital, and HCA says two regulators found no deficiencies.",
+   "After HCA's July 14, 2026 guidance cut sent its stock down about 6% to 7%, several plaintiffs' firms opened securities investigations covering shareholders who bought between October 24, 2025 and July 13, 2026; no filed complaint was confirmed."
   ],
   "redFlags": [
    "Gressle's employer earned $6.8 billion in 2025 and paid its CEO $26.5 million, putting a profit-maximizing chain on the board of the trade group that defends nonprofit tax exemptions.",
    "HCA's federal lobbying reached about $5.17 million in the first nine months of 2026, close to its 2025 total of $5.4 million.",
+   "HCA's 2026 numbers were propped up by about $400 million in a single quarter from Medicaid supplemental payments, mainly in Florida, Gressle's home market, so a for-profit chain is leaning on the same government money the AHA lobbies to protect.",
    "Quality reporting on HCA's South Florida hospitals has shown low CMS star ratings and state sanctions at HCA Florida JFK.",
    "HCA remains in litigation with North Carolina's attorney general over broken commitments from its Mission Health acquisition.",
-   "Gressle's division strategy has leaned on freestanding emergency rooms, a facility type tied to high facility fees for insured patients."
+   "Gressle's division strategy has leaned on freestanding emergency rooms, a facility type tied to high facility fees for insured patients.",
+   "A Palm Beach County nurse's 2026 negligence suit alleges HCA Florida Palms West ran thin security despite a record of violence before a patient beat her in 2025."
   ],
-  "patternSummary": "Charles Gressle is a career HCA operator who has run the chain's East Florida Division since 2019 and joins the AHA board in 2027. He represents a for-profit company that earned $6.8 billion in 2025, paid its CEO $26.5 million and spends more than $5 million a year on federal lobbying. HCA's record includes the unresolved North Carolina attorney general suit over Mission Health and quality concerns at South Florida hospitals. His seat shows how far AHA's interests now line up with the largest investor-owned chains.",
-  "redFlagCount": 5,
+  "patternSummary": "Charles Gressle is a career HCA operator who has run the chain's East Florida Division since 2019 and joins the AHA board in 2027. He represents a for-profit company that earned $6.8 billion in 2025, paid its CEO $26.5 million, spends more than $5 million a year on federal lobbying and, in mid-2026, offset exchange-coverage losses with about $400 million of mostly Florida Medicaid supplemental payments. HCA's record includes the unresolved North Carolina attorney general suit over Mission Health, a 2026 negligent-security suit at Palms West and quality concerns at South Florida hospitals. His seat shows how closely AHA's subsidy agenda now tracks the interests of the largest investor-owned chains.",
+  "redFlagCount": 7,
   "sources": [
    "https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board",
    "https://beckershospitalreview.com/hospital-executive-moves/hca-selects-charles-gressle-as-east-florida-division-president.html",
@@ -1189,7 +1211,11 @@
    "https://wptv.com/news/treasure-coast/quality-of-care-a-concern-for-patients-at-hca-hospitals-in-palm-beach-county-treasure-coast",
    "https://projects.propublica.org/itemizer/committee/C00067231/2026",
    "https://lda.senate.gov/api/v1/filings/?client_name=HCA&filing_year=2025",
-   "https://lda.senate.gov/api/v1/filings/?client_name=HCA&filing_year=2026"
+   "https://lda.senate.gov/api/v1/filings/?client_name=HCA&filing_year=2026",
+   "https://www.sec.gov/Archives/edgar/data/0000860730/000119312526302539/hca-ex99_1.htm",
+   "https://www.quiverquant.com/news/HCA+Falls+After+2026+Guidance+Cut+Tied+to+Exchange+Coverage+Losses",
+   "https://www.ktmc.com/?p=17287",
+   "https://www.wflx.com/2026/02/18/nurse-sues-hca-florida-palms-west-hospital-security-company-1-year-after-brutal-patient-attack/"
   ],
   "lastVerified": "2026-11-04"
  },
@@ -1624,15 +1650,17 @@
    "Elected an AHA trustee in July 2026 for a three-year term beginning January 1, 2027."
   ],
   "financial": [
+   "Hartford HealthCare reported $7.13 billion in operating revenue for fiscal 2025, with seven hospitals and about 48,000 employees before adding Manchester and Rockville.",
    "SVMC Holdings, the St. Vincent's Medical Center parent he oversees, reported $616.3 million in revenue and $637.9 million in expenses on its tax year 2023 Form 990, a deficit of about $21.7 million.",
    "St. Vincent's expenses exceeded revenue in each of the three most recent years with extracted 990 data: by $20.3 million in 2021, $35.2 million in 2022 and $21.7 million in 2023.",
    "Hartford Hospital, the system's flagship, reported $2.58 billion in revenue and $2.46 billion in expenses on its tax year 2023 Form 990.",
    "Jennings's personal compensation from Schedule J was not found in available extracted 990 data; tax year 2024 filings for SVMC Holdings and Hartford Hospital had no extracted financials as of November 2026.",
-   "Hartford Hospital's revenue grew from $2.14 billion in tax year 2021 to $2.58 billion in tax year 2023 while St. Vincent's kept running deficits."
+   "Hartford Hospital's revenue grew from $2.14 billion in tax year 2021 to $2.58 billion in tax year 2023 while St. Vincent's kept running deficits.",
+   "Hartford HealthCare paid $86.1 million to buy Manchester Memorial and Rockville General hospitals out of Prospect Medical Holdings' bankruptcy, closing January 1, 2026, and committed about $227 million in capital over three years."
   ],
   "lobbying": [
    "No 2025 or 2026 federal lobbying filings under the client name Hartford HealthCare appear in the Senate LDA database, though the system has registered as a federal lobbying client in earlier years.",
-   "Hartford HealthCare's state lobbying in Connecticut and any PAC activity were not verified for this dossier."
+   "Hartford HealthCare's state lobbying in Connecticut and any PAC activity were not verified for this dossier; the system is a major participant in Connecticut's certificate-of-need process, which approved its Manchester Memorial acquisition in December 2025."
   ],
   "revolvingDoor": [
    "No government employment is publicly reported for Jennings.",
@@ -1641,18 +1669,25 @@
   "homeSystemRecord": [
    "St. Vincent's Medical Center posted operating deficits in every year with available 990 data (2021-2023), the period covering the start of Jennings's tenure.",
    "Bridgeport's two acute care hospitals, St. Vincent's and Yale's Bridgeport Hospital, are each controlled by one of Connecticut's two dominant systems, leaving the city with no independent hospital.",
+   "Connecticut's Office of Health Strategy approved the Manchester Memorial acquisition on December 10, 2025, with conditions that tie commercial rate growth to the state cost growth benchmark and CPI-U medical index, require separate rate negotiation for Manchester, and bar converting physician offices to hospital-based billing for three years.",
    "No charity care, price transparency or 340B program data specific to the Fairfield Region were verified for this dossier."
   ],
   "litigation": [
-   "No lawsuits, settlements or enforcement actions naming Jennings or the Fairfield Region in 2025 or 2026 were found in available reporting."
+   "Saint Francis Hospital (Trinity Health Of New England) sued Hartford HealthCare in federal court in January 2022, alleging it monopolized Hartford County through physician practice acquisitions and referral control; the case was dismissed with prejudice in January 2025 after a confidential settlement.",
+   "Seven insured Connecticut residents are suing Hartford HealthCare in Hartford Superior Court under the state antitrust and unfair trade practices acts, alleging all-or-nothing contracting and anti-tiering and anti-steering clauses raised prices; the state attorney general filed an amicus brief backing their standing in 2023, and a class certification hearing was set for September 14, 2026.",
+   "Estuary Transit District and the Teamsters 671 health plan filed a putative federal class action in June 2024 (D. Conn., No. 3:24-cv-01051) alleging monopolization and price fixing since at least June 2020, including anti-steering clauses and de facto exclusive physician deals through Integrated Care Partners; in April 2026 plaintiffs moved to compel 182 documents Hartford HealthCare withheld as privileged.",
+   "Hartford HealthCare denies the antitrust allegations in all three cases.",
+   "No lawsuits or enforcement actions naming Jennings personally or the Fairfield Region in 2025 or 2026 were found."
   ],
   "redFlags": [
    "St. Vincent's, the hospital Jennings runs, has spent more than it took in every year with available 990 data, about $77 million in combined deficits over 2021-2023.",
    "Jennings has led both sides of Bridgeport's two-system hospital market, first for Yale New Haven Health and now for Hartford HealthCare.",
-   "His personal compensation is not visible in extracted public filings, limiting accountability for a regional executive who will now help set AHA policy."
+   "His personal compensation is not visible in extracted public filings, limiting accountability for a regional executive who will now help set AHA policy.",
+   "Jennings's employer faces two pending antitrust suits, one federal and one in state court, accusing it of using must-have hospitals, anti-steering clauses and captive physician networks to inflate commercial prices in Connecticut; a third, by rival Saint Francis, ended in a confidential settlement in 2025.",
+   "Hartford HealthCare kept growing by acquisition, buying Manchester Memorial and Rockville General for $86.1 million in January 2026, with regulators imposing rate-growth caps that underline the pricing concerns."
   ],
-  "patternSummary": "William Jennings is a career hospital executive who has run both of Bridgeport's hospitals for the two systems that control Connecticut's market, first Yale's Bridgeport Hospital and since 2021 Hartford HealthCare's St. Vincent's. The hospital he oversees has run steady deficits, about $77 million over 2021-2023, while the system's flagship Hartford Hospital grew revenue from $2.14 billion in 2021 to $2.58 billion in 2023. Public data on his pay, Hartford HealthCare's current lobbying and his region's charity care is thin. He joins the AHA board in 2027 as a regional executive of a consolidating nonprofit system.",
-  "redFlagCount": 3,
+  "patternSummary": "William Jennings is a career hospital executive who has run both of Bridgeport's hospitals for the two systems that control Connecticut's market, first Yale's Bridgeport Hospital and since 2021 Hartford HealthCare's St. Vincent's, which ran about $77 million in deficits over 2021-2023. His employer, a $7.13 billion system, faces pending federal and state antitrust suits over anti-steering and all-or-nothing contracting and settled a rival's monopolization suit in 2025, even as it bought two more hospitals in January 2026. He joins the AHA board in 2027 as a regional executive of a consolidating system whose market power is being litigated.",
+  "redFlagCount": 5,
   "sources": [
    "https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board",
    "https://stvincents.org/about-us/leadership/executive-team/william-jennings",
@@ -1663,7 +1698,14 @@
    "https://projects.propublica.org/nonprofits/api/v2/organizations/60646668.json",
    "https://lda.senate.gov/api/v1/clients/?client_name=hartford",
    "https://lda.senate.gov/api/v1/filings/?client_name=Hartford%20HealthCare&filing_year=2025",
-   "https://lda.senate.gov/api/v1/filings/?client_name=Hartford%20HealthCare&filing_year=2026"
+   "https://lda.senate.gov/api/v1/filings/?client_name=Hartford%20HealthCare&filing_year=2026",
+   "https://hartfordbusiness.com/article/rival-healthcare-systems-antitrust-lawsuit-against-hartford-healthcare-reaches-settlement/",
+   "https://cohenmilstein.com/case-study/hartford-healthcare-litigation",
+   "https://law360.com/articles/2470408",
+   "https://ctmirror.org/2024/07/08/ct-hartford-healthcare-antitrust-lawsuits/",
+   "https://hartfordbusiness.com/article/generational-moment-arrives-as-hhc-officially-acquires-manchester-rockville-hospitals/",
+   "https://portal.ct.gov/ohs/press-room/press-releases/2025-press-releases/office-of-health-strategy-approves-hartford-healthcare-acquisition-of-eastern-connecticut-hospital",
+   "https://hartfordbusiness.com/honoree/2026-power-25-healthcare-jeffrey-a-flaks/"
   ],
   "lastVerified": "2026-11-04"
  },
@@ -1873,20 +1915,23 @@
    "Under Lewis, CRMC launched an internal medicine residency program and expanded outpatient services across the region.",
    "CRMC has earned national accreditations in cancer care, interventional cardiology and stroke readiness, and promotes bariatric, orthopedic and spine service lines.",
    "CRMC returned to profitability after FY2017 ($6.5 million loss) and FY2018 ($2.9 million loss) and has posted surpluses every year from FY2019 through FY2024, ranging from $1.1 million (FY2020) to $10.9 million (FY2021).",
-   "No public data was found on CRMC's 340B program participation, Lown fair share ranking or price transparency compliance."
+   "CRMC has been enrolled in the 340B program as a disproportionate share hospital (ID DSH110089) since April 1, 2007, with three registered child sites (Coffee Regional First Care, an outpatient infusion center and a wound care clinic).",
+   "HRSA's 340B database lists seven active contract pharmacy arrangements for CRMC, including a Walmart pharmacy and independent pharmacies in Douglas and Nicholls; a second Walmart arrangement in Hazlehurst and an earlier Nicholls contract were terminated in 2018.",
+   "No Lown fair-share ranking or price transparency compliance data for CRMC was found."
   ],
   "litigation": [
-   "No lawsuits, settlements, False Claims Act actions or state AG actions involving Coffee Regional Medical Center in 2025 or 2026 were found in available sources."
+   "No lawsuits, settlements, False Claims Act actions or state AG actions involving Coffee Regional Medical Center in 2025 or 2026 were found in available sources; local coverage through September 2026 was limited to service-line, residency and scholarship announcements."
   ],
   "redFlags": [
    "Lewis's pay rose 90% from FY2018 to FY2024, outpacing the hospital's 50% revenue growth, at a 98-bed rural hospital that leans on taxpayer-backed donations.",
    "CRMC solicits donations through Georgia HEART, a 100% state tax credit program that is a direct subsidy routed through private donors.",
+   "CRMC has drawn 340B program discounts since 2007 and routes them through seven active contract pharmacies, including Walmart, giving Lewis a direct stake in the 340B fight the AHA leads.",
    "CRMC's FY2021 federal single audit reported a material weakness in internal controls.",
    "Lewis now chairs the Georgia Hospital Association, which pays an outside federal lobbying firm $40,000 a quarter, and will sit on the AHA board, stacking state and national trade-group roles.",
    "She was named an AHA Grassroots Champion for lobbying elected officials, a sign she is valued for advocacy as much as operations."
   ],
   "patternSummary": "Lewis is the AHA board's rural community-hospital face, a nurse-trained executive who has run a 98-bed Georgia hospital since 2014 while climbing the Georgia Hospital Association and AHA advocacy ladder. Her pay has risen far faster than her hospital's revenue, and CRMC relies in part on Georgia's dollar-for-dollar HEART tax credit to raise money. Her seat gives the AHA a sympathetic rural story to tell in Washington, even as the trade group's agenda is driven by large systems.",
-  "redFlagCount": 5,
+  "redFlagCount": 6,
   "sources": [
    "https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board",
    "https://www.coffeeregional.org/coffee-regional-ceo-appointed-to-the-american-hospital-association-board-of-trustees/",
@@ -1896,7 +1941,10 @@
    "https://douglasnow.com/crmcs-vicki-lewis-elected-to-ahas-board-of-trustees/",
    "https://projects.propublica.org/nonprofits/organizations/650543088",
    "https://lda.gov/api/v1/filings/?client_name=Georgia%20Hospital%20Association&filing_year=2025",
-   "https://lda.gov/api/v1/filings/?client_name=Georgia%20Hospital%20Association&filing_year=2026"
+   "https://lda.gov/api/v1/filings/?client_name=Georgia%20Hospital%20Association&filing_year=2026",
+   "https://api.morvs.ai/340b/DSH110089",
+   "https://340bopais.hrsa.gov/contractpharmacydetails/99527",
+   "https://douglasnow.com/tag/crmc/"
   ],
   "lastVerified": "2026-11-04"
  },
@@ -2419,7 +2467,7 @@
   "state": "CT",
   "systemType": "Academic medical center",
   "affiliations": [
-   "Named Acting CEO of Yale New Haven Health System effective June 29, 2026, when CEO Christopher O'Connor left after 14 years; the board said it would run a national search for a permanent CEO over the following several months.",
+   "Named Acting CEO of Yale New Haven Health System effective June 29, 2026, when CEO Christopher O'Connor left after 14 years; the board launched a national search, and no permanent CEO had been announced in public reporting as of November 4, 2026.",
    "President of Yale New Haven Health since early 2024, after serving as EVP and Chief Operating Officer from 2022.",
    "Group Senior Vice President and COO of the Weill Cornell division of NewYork-Presbyterian Hospital (2019-2022).",
    "CEO of University of Virginia Medical Center (2014-2019), after 17 years in progressive operating roles at Duke University Health System beginning in 1997.",
@@ -2455,7 +2503,8 @@
    "A July 2025 voluntary retirement offer was accepted by about 600 employees; the system planned to rehire about 400, a net cut of roughly 200 positions, to save about $50 million.",
    "In October 2025 the CFO, general counsel, and Greenwich Hospital's COO and CFO departed, and a leadership restructuring affected about 38 management roles; a new CFO, Arnim Dontes, started April 1, 2026.",
    "In September 2025 Yale New Haven Health agreed to pay Prospect Medical Holdings $45 million to walk away from its $435 million agreement to buy Waterbury, Manchester Memorial and Rockville General hospitals; the bankruptcy court approved the deal.",
-   "In July 2025 the system largely stopped gender-transition care for patients under 19."
+   "In July 2025 the system largely stopped gender-transition care for patients under 19.",
+   "Rival Hartford HealthCare closed its $86.1 million purchase of Manchester Memorial and Rockville General on January 1, 2026, two of the three Prospect hospitals Yale New Haven Health had paid $45 million to walk away from."
   ],
   "litigation": [
    "The $18 million class settlement over the March 2025 data breach, which affected about 5.3 to 5.6 million people, received final approval on March 3, 2026; up to $6 million is earmarked for attorneys' fees and claimant payments began May 27, 2026.",
@@ -2495,7 +2544,8 @@
    "https://connecticut.news12.com/lawsuit-challenges-decision-of-major-ct-providers-to-end-transgender-care-for-younger-patients",
    "https://www.justice.gov/usao-ct/pr/hospital-owner-and-hospitalist-group-agree-pay-560k-settle-false-claims-act-allegations",
    "https://www.wshu.org/connecticut-news/2025-03-24/ct-ynhh-layoffs-northeast-medical-group",
-   "https://www.ctpublic.org/news/2024-03-28/ct-approves-prospect-medical-ynhh-deal-paving-the-way-for-sale"
+   "https://www.ctpublic.org/news/2024-03-28/ct-approves-prospect-medical-ynhh-deal-paving-the-way-for-sale",
+   "https://hartfordbusiness.com/article/generational-moment-arrives-as-hhc-officially-acquires-manchester-rockville-hospitals/"
   ],
   "lastVerified": "2026-11-04"
  },
@@ -2725,10 +2775,13 @@
    "UMC reported $11.97 million in 340B program savings and $16.4 million in community benefit spending for fiscal 2024.",
    "UMC's hospital board committee scored the fiscal 2025 organizational performance goals at 100% in July 2025, the same goals that feed executive incentive pay.",
    "UMC announced plans for a new hospital tower with groundbreaking targeted for 2026; cost and financing have not been publicly reported in sources reviewed.",
-   "UMC required emergency county support to make payroll around 2015 and projected a worst-case $200 million shortfall going into fiscal 2021 during COVID-19."
+   "UMC required emergency county support to make payroll around 2015 and projected a worst-case $200 million shortfall going into fiscal 2021 during COVID-19.",
+   "In January 2026 UMC became the first hospital in Nevada to earn ANCC Magnet nursing designation.",
+   "UMC is an investor in a $44 million, 34,000-square-foot laboratory and blood bank building in the Las Vegas Medical District, funded mainly by a $35 million state federal-pandemic-relief (ARPA) grant and a $9 million City of Las Vegas grant.",
+   "In August 2025 Clark County commissioners approved a lease of county land on East Lake Mead Boulevard for UMC to run a crisis stabilization behavioral health facility."
   ],
   "litigation": [
-   "No new major lawsuits, settlements or enforcement actions against UMC in 2025 or 2026 were found in this refresh.",
+   "No new major lawsuits, settlements or enforcement actions against UMC in 2025 or 2026 were found in this refresh, including a second pass of 2026 news.",
    "In 2018 a federal court ordered UMC to pay about $820,000 in sanctions for discovery violations in a class-action wage case brought by employees."
   ],
   "redFlags": [
@@ -2738,10 +2791,11 @@
    "Performance goals that drive his bonus were scored at 100% by a UMC board committee in the same year the hospital braced for $45.4 million in federal-policy losses.",
    "About 37% of UMC's net revenue comes from supplemental government payments, so its CEO has a direct personal and institutional stake in the federal payment policy the AHA board sets lobbying priorities on.",
    "A taxpayer-backed public hospital expanding Quick Care and primary care clinics into commercially insured markets competes against private providers with a government balance sheet behind it.",
-   "His safety-net credentials give AHA cover when it defends tax exemptions and 340B money that flow overwhelmingly to large private nonprofit systems that provide far less uncompensated care."
+   "His safety-net credentials give AHA cover when it defends tax exemptions and 340B money that flow overwhelmingly to large private nonprofit systems that provide far less uncompensated care.",
+   "UMC's newest lab project rides on $44 million of public money, $35 million in federal pandemic relief routed through the state plus $9 million from the city, extending a government-funded hospital's footprint."
   ],
   "patternSummary": "Van Houweling is a for-profit-trained operator who stabilized Las Vegas's county hospital and now draws more than $1 million a year as a public employee, with commissioners obligated by contract to pay his bonus even during job cuts and thin cash. UMC lives on Medicaid and supplemental government payments, so his AHA seat ties federal subsidy policy directly to his own hospital's survival and his own incentive pay. His public-hospital profile is useful cover for an association whose policy wins mostly benefit far wealthier private systems.",
-  "redFlagCount": 7,
+  "redFlagCount": 8,
   "sources": [
    "https://www.reviewjournal.com/?p=3483061",
    "https://thenevadaindependent.com/article/umc-nurses-feel-first-effects-of-federal-funding-cuts-as-ceo-gets-raise",
@@ -2752,7 +2806,10 @@
    "https://nevadacurrent.com/?p=189377",
    "https://963kklz.com/2025/05/21/umc-las-vegas-plans-new-hospital-tower-boosts-medical-training-programs/",
    "https://lasvegassun.com/news/2018/nov/12/us-court-says-vegas-hospital-must-pay-820k-in-wage/",
-   "https://www.reviewjournal.com/life/health/umc-mason-vanhouweling-agree-on-ceo-contract/"
+   "https://www.reviewjournal.com/life/health/umc-mason-vanhouweling-agree-on-ceo-contract/",
+   "https://business.mammothtimes.com/mammothtimes/article/gnwcq-2026-1-24-university-medical-center-southern-nevada-becomes-first-hospital-in-nevada-to-earn-magnet-recognition",
+   "https://www.reviewjournal.com/?p=3511493",
+   "https://cpo.soar.com/articles/6131154/Clark-County/Nevada/Board-approves-lease-with-UMC-for-crisis-stabilization-center-on-East-Lake-Mead-Boulevard"
   ],
   "lastVerified": "2026-11-04"
  },
