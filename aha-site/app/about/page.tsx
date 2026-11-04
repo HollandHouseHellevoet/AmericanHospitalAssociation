@@ -1,4 +1,7 @@
 import { Metadata } from "next";
+import profilesData from "@/data/profiles.json";
+
+const CURRENT_COUNT = (profilesData as { status?: string }[]).filter((p) => p.status !== "former").length;
 
 export const metadata: Metadata = {
   title: "About | AHA Intelligence | The Rojas Report",
@@ -33,7 +36,7 @@ export default function AboutPage() {
         <div className="border-l-4 border-orange pl-6 py-2 my-8"
           style={{ backgroundColor: "rgba(235,110,44,0.06)" }}>
           <p className="font-cormorant italic text-cream" style={{ fontSize: "1.25rem" }}>
-            27 individuals. Every affiliation, compensation figure, lobbying record, revolving door
+            {CURRENT_COUNT} individuals. Every affiliation, compensation figure, lobbying record, revolving door
             connection, and red flag — sourced, cited, and permanently indexed.
           </p>
         </div>

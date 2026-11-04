@@ -1,120 +1,194 @@
 # AHA Power Map
 
-## Section 1 — Lobbying Footprint
+*Updated November 4, 2026. Source notes and citations for each change: REFRESH-2026-11.md.*
 
-### Total Spend & 5-Year Trajectory
+# Section 1: Lobbying Footprint
 
-The American Hospital Association is one of the top 20 lobbying spenders in Washington. Its federal lobbying expenditures have climbed steadily over the past half-decade:
+> AHA has reported about $194 million in federal lobbying since 2018 and still blocks site-neutral, POH and 340B reform in Congress, but in 2025-26 it lost to CMS and the One Big Beautiful Bill Act on Medicaid, site-neutral rules and price transparency.
 
-| Year | Federal Lobbying Spend | Notable Context |
-|------|----------------------|-----------------|
-| 2018 | $22.5 million | 16% of total AHA expenses |
-| 2019 | $24.3 million (17.8% of expenses) | Pre-pandemic baseline |
-| 2022 | ~$27 million | Post-COVID advocacy surge |
-| 2023 | $28.8 million | AHA raised $145M total revenue |
-| 2024 | $29.0 million | Record annual spend |
-| Q1 2025 | $7.0 million (single quarter) | 32% above historical quarterly average of $5.31M |
+## Where the Fights Stand (November 2026)
 
-Annualized, Q1 2025 projects to ~$28M, but the quarterly spike signals an escalation tied to active legislative threats on site-neutral payment and physician-owned hospital deregulation.
+The status of every major law and rule AHA lobbies on, as of November 4, 2026.
 
-**PAC money:** AHAPAC raised $3.77 million in the 2023–2024 cycle, distributed $3.36 million in contributions, and spent $1.83 million in outside spending. AHA contributes to both parties — Biden, Pelosi, Schumer, McCarthy, McConnell, and both party senatorial/congressional campaign committees all receive funds.
+| Issue | Status | Date | What it means for hospitals |
+|-------|--------|------|-----------------------------|
+| Site-neutral: drug administration at off-campus HOPDs (CY2026 OPPS) | **Final rule, in effect** | Released Nov. 21, 2025; effective Jan. 1, 2026 | Physician-office rates for infusions at off-campus departments. $290M cut in 2026 |
+| Site-neutral: imaging without contrast (CY2027 OPPS) | **Proposed**; final rule not yet published | Proposed July 2, 2026 | About $190M more in Medicare cuts in 2027 if finalized; rural sole community hospitals exempt |
+| Site-neutral: off-campus HOPD NPI + attestation (CAA 2026, Sec. 6225) | **Enacted** | Signed Feb. 3, 2026; effective Jan. 1, 2028 | Each off-campus clinic must bill under its own NPI and attest to provider-based rules, or lose outpatient payment. Builds the data trail for future site-neutral cuts |
+| Site-neutral: broad statutory reform (LCMT Act of 2026, H.R. 9393) | **Pending**, not enacted | Ongoing; possible year-end vehicle | CBO-scale savings (~$170B over 10 years) still blocked in Congress |
+| Price transparency: Executive Order 14221 | **Signed** | Feb. 25, 2025 | Ordered actual prices, not estimates, and real enforcement |
+| Price transparency: CY2026 OPPS hospital rules | **Final rule** | Effective Jan. 1, 2026; enforced from Apr. 1, 2026 | Must post 10th/median/90th percentile allowed amounts and NPIs; senior official attests; 35% penalty discount for admitting violations |
+| Price transparency: insurer Transparency in Coverage update | **Final rule** | Published Oct. 6, 2026; effective Dec. 7, 2026 | Payer price files get more usable, so hospital rates are easier to compare |
+| Price transparency: CY2027 OPPS | **RFI only** | July 2, 2026 | No new hospital mandate yet; CMS is collecting input on standardizing files |
+| Price transparency legislation (Price Tags, Price Certainty, Prices on the Wall, LCMT) | **Pending**, not enacted | Committee-approved 2026 | Would write the rules into statute; AHA is lobbying on all of them |
+| 340B: 2025 rebate model pilot | **Blocked** (AHA win) | Injunction Dec. 29, 2025; HHS appeal dismissed Jan. 20, 2026; HHS said it would scrap the pilot Feb. 5, 2026; court vacated it Feb. 10, 2026 | Hospitals kept upfront 340B discounts in 2026 |
+| 340B: revised rebate model pilot (HRSA) | **Pending; challenged in court** (AHA filed a second suit in D. Me.) | Notice Aug. 3, 2026; AHA suit Oct. 9, 2026; targeted start Jan. 1, 2027 | Rebates instead of upfront discounts on selected drugs, with hospitals fronting the cash. Whether it launches depends on the Maine court |
+| 340B: manufacturer rebate authority (*Novartis v. Kennedy*, D.C. Cir.) | **Decided** | July 21, 2026 | Drugmakers need HHS approval for rebates; HHS's power to approve them confirmed |
+| 340B: Medicare drug payment cut (CY2027 OPPS) | **Proposed**; final rule not yet published | Proposed July 2, 2026 | 340B drugs paid at ASP minus 33.4% instead of ASP plus 6%: about a $4.85B shift, made budget neutral |
+| 340B: remedy clawback acceleration | **Proposed** | Proposed July 2, 2026 | Offset rises from 0.5% to 3% a year, about $2.3B in 2027 |
+| 340B legislation (PATIENTS, Access, SECURE, SUSTAIN; W&M reporting bill) | **Pending**, not enacted | W&M approved reporting bill July 1, 2026 | New reporting duties would expose where the money goes |
+| Physician-owned hospitals | **No change**; ban intact | As of Nov. 2026 | Physician-led competitors stay locked out; H.R. 2191 pending |
+| Antitrust: DOJ and Ohio v. OhioHealth | **Proposed final judgment** | Complaint Feb. 20, 2026; settlement June 16, 2026 | Anti-steering and anti-tiering contract terms voided; a template for other dominant systems |
+| Antitrust: FTC and Ascension/AmSurg | **Consent order (proposed)** | Published June 10, 2026 | $3.9B outpatient deal cleared only after 7 surgery-center divestitures |
+| Medicaid provider taxes (OBBBA Sec. 71115) | **Enacted**; implementing rules final and proposed | Signed July 4, 2025; threshold effective Oct. 1, 2026; phase-down FY2028–FY2032 | Freezes the tax-and-return financing loop; expansion-state safe harbor drops from 6% to 3.5% |
+| Medicaid state-directed payments (OBBBA Sec. 71116) | **Enacted**; CMS rule proposed | Signed July 4, 2025; rule proposed May 22, 2026; cuts from 2028 | Capped at 100% of Medicare (expansion) or 110% (non-expansion); grandfathered payments cut 10 points a year |
+| Medicaid work requirements (OBBBA Sec. 71119) | **IFR in effect; litigation pending** | IFR June 1, 2026; 23-state suit June 29, 2026; implementation by Jan. 1, 2027 | CMS projects 2.3M fewer enrollees in FY2027 |
+| Rural Health Transformation Program (OBBBA Sec. 71401) | **Enacted**, being implemented | Signed July 4, 2025 | $50B over FY2026–2030 to the 50 states; AHA now lobbying over how it reaches hospitals |
+| Enhanced ACA premium tax credits | **Expired** (AHA loss) | Dec. 31, 2025 | Not revived in the FY2026 omnibus; AHA still lobbying in Q3 2026 |
+| Medicaid DSH cuts (CAA 2026) | **Enacted** (AHA win) | Feb. 3, 2026 | Cut reduced from $24B to $8B and delayed to FY2029 |
+| Telehealth; low-volume and Medicare-dependent hospital payments (CAA 2026) | **Enacted** | Feb. 3, 2026 | Telehealth extended through Dec. 31, 2027; LVH and MDH through Dec. 31, 2026 |
+| FY2027 stopgap (P.L. 119-103) | **Enacted** | Sept. 2, 2026 | Government funded through Dec. 11, 2026; no hospital extenders, so LVH and MDH expire Dec. 31 unless the lame duck acts |
 
-**Coalition force multiplier:** AHA founded the Coalition to Strengthen America's Healthcare, a 501(c)(4) grassroots operation claiming 2.8 million advocates. In 2025 alone it drove 575,000+ letters to Congress opposing Medicare/Medicaid cuts.
-
-**Member hospital lobbying adds up:** Trinity Health spent $1.6 million on federal lobbying in 2024. Sanford Health went from $560K (2020) to $960K (2024) — a 71% increase. Corewell Health spent $750K in 2024. These are additive to AHA's own spending and often coordinated through AHA's advocacy infrastructure.
-
----
-
-### What AHA Has Killed, Delayed, or Weakened
-
-AHA's lobbying operation is best understood not by what it has passed, but by what it has stopped. Across five major policy fronts, AHA has successfully blocked or diluted reforms that independent analysts project would save taxpayers and patients hundreds of billions of dollars.
-
-#### 1. Site-Neutral Payment Reform — Blocked (so far)
-
-**AHA's single most important defensive priority.** Site-neutral reform would equalize Medicare reimbursement between hospital outpatient departments (HOPDs) and physician offices for the same services. Independent estimates put the savings at up to $140–180 billion.
-
-What AHA has done:
-- Opposed the **Lower Costs, More Transparency Act (H.R. 5378)**, which passed the House 320–71 with bipartisan support but included site-neutral provisions for drug administration services. AHA fought the Senate version to a standstill.
-- **Attacked the Hassan-Cassidy framework** (Sens. Maggie Hassan, D-NH, and Bill Cassidy, R-LA), which proposed extending site-neutral policy to all off-campus HOPDs by removing the 2015 Bipartisan Budget Act's grandfathering exception. AHA called it "irresponsible to think that clawing back up to $140 billion of Medicare spending for seniors won't destabilize access to care."
-- Ran **digital and television ad campaigns** warning "more hospitals could shut their doors" under site-neutrality.
-- Spent, by AHA's own admission, "the better part of the year educating members, Senate and House side as well as staff, on the real consequences of site-neutral proposals."
-- Launched a grassroots "Action Needed" campaign urging members to contact lawmakers.
-- Escalated Q1 2025 lobbying spending above historical averages in direct response to renewed congressional interest.
-
-Site-neutral cuts remain unrealized. AHA's position: "There is nothing 'neutral' about site-neutral policies." Critics note the policy protects a key driver of hospital acquisition of physician practices — HOPDs bill at higher rates precisely because hospitals acquired those practices.
-
-#### 2. Price Transparency Enforcement — Litigated, Lost, Then Slow-Walked
-
-AHA **sued twice** to block federal hospital price transparency rules — and **lost both times**.
-
-- In December 2019, AHA challenged the CMS price transparency final rule, arguing it exceeded statutory authority by requiring disclosure of privately negotiated insurer rates. U.S. District Judge Carl Nichols ruled for HHS. AHA appealed and lost again. The rule took effect January 1, 2021.
-- After losing in court, AHA pivoted to asking Congress to "review and streamline existing transparency policies to reduce patient confusion and regulatory burden" and to **refrain from advancing additional legislation** — effectively lobbying against enforcement of rules it failed to block.
-- AHA pushed Congress to **override HHS's crackdown on third-party web trackers** used by hospitals, seeking to weaken digital privacy and transparency enforcement.
-
-**The result on the ground:** A 2021 CMS assessment found only 27% of hospitals fully compliant. Houston Methodist, an AHA board-level institution, was noncompliant for 18+ months and as of April 2025 reported only 350 line items in its pricing file versus 5,313 at a comparable competitor. Maximum penalties remain a modest $5,500/day — a rounding error for systems generating billions in revenue.
-
-#### 3. 340B Drug Program Reform — Defended as Untouchable
-
-AHA treats the 340B program as sacrosanct. AHA's head of government relations identified protecting 340B as one of AHA's **"four most important issues."**
-
-- AHA won a **unanimous Supreme Court victory** in *American Hospital Association v. Becerra* (2022), overturning HHS's authority to cut 340B reimbursement rates.
-- AHA **filed a federal lawsuit** (District of Maine) to block HHS's 340B Rebate Model Pilot Program, securing a preliminary injunction halting the pilot.
-- AHA opposed 2023 House Energy & Commerce Committee legislation that would have added reporting requirements for 340B hospitals.
-- AHA submitted comments to MedPAC urging caution against recommending 340B payment cuts.
-
-**The uncomfortable math:** Government data shows a 22% jump in wholesale purchase discounts from 2021 to 2022 under 340B. Houston Methodist generated $50 million in profits in a single year through 340B by acquiring outpatient locations and billing chemotherapy through the program. An Intermountain Healthcare study co-authored by their own Delivery Institute found that **340B participation had limited impact on charity care nationally** — undermining the core justification for the program.
-
-#### 4. Physician-Owned Hospital (POH) Expansion — Banned for 15+ Years
-
-AHA has maintained a **15+ year lobbying campaign** to keep the Affordable Care Act's ban on new or expanded physician-owned hospitals.
-
-- AHA argues POHs "cherry-pick less complex, more profitable patients and provide limited or no emergency services."
-- At a **March 2026 House Energy & Commerce hearing**, AHA CEO Rick Pollack was the **only panelist among six** to advocate maintaining the POH ban.
-- AHA deploys its Chief Physician Executive to provide "physician imprimatur" for the position — allowing AHA to claim the anti-POH stance "isn't merely corporate protectionism but reflects physician leadership."
-
-Critics call the ban anti-competitive rent-seeking. Research contests AHA's cherry-picking claim. The ban protects incumbent health systems from competition by physician-led facilities that often deliver care at lower cost.
-
-#### 5. Antitrust Enforcement — Resisted at Every Turn
-
-AHA has systematically opposed FTC and congressional scrutiny of hospital mergers.
-
-- At a **2021 Senate Antitrust Subcommittee hearing**, AHA Board Chair Rod Hochman was the **only witness (out of six) to tout the benefits of consolidation**, while bipartisan senators and other experts focused on harms.
-- AHA has been "critical of the approach and framework the Federal Trade Commission (FTC) has employed to review hospital transactions."
-- Meanwhile, AHA member systems pursue serial consolidation: Sanford Health attempted four mergers in six years (one blocked by FTC for creating 75–85% market share, one killed by a state AG antitrust investigation, two collapsed). The FTC found the blocked Sanford deal would create "a near monopoly" likely leading to "higher reimbursement rates and higher premiums for consumers."
-- NorthShore's attempted merger with Advocate Health Care was blocked by FTC in 2017 for creating >50% market share in Chicago's northern suburbs.
-- Where mergers succeed (Spectrum-Beaumont, 2022), no financial commitments are extracted — Beaumont's $4 billion reserve was absorbed without restrictions.
+**Read it this way:** Congress still protects AHA on site-neutral pay, the POH ban, and 340B statute. CMS and reconciliation do not.
 
 ---
 
-### The Bottom Line
+## Total Spend & Trajectory
 
-AHA's $29 million annual lobbying machine — amplified by member system spending, PAC contributions to both parties, and a 2.8-million-person grassroots network — has successfully blocked or weakened reforms that could save Medicare $180 billion+ (site-neutral), forced transparency on hospital pricing (litigated and lost, then slow-walked compliance), preserved a drug discount program used as a profit center ($50M/year at a single system), maintained a 15-year ban on physician-owned competitors, and shielded member systems from antitrust scrutiny as they pursue market dominance. The spend is rising: Q1 2025's $7 million signals AHA sees the current Congress as a live threat and is spending accordingly.
+The American Hospital Association is one of Washington's largest lobbying spenders. The figures below come straight from AHA's own quarterly LD-2 filings with the Senate Office of Public Records. These are the expenses AHA reports for itself as the registrant, which already include the fees it pays its outside lobbying firms.
+
+| Year | AHA-Reported Federal Lobbying | Notable Context |
+|------|------------------------------|-----------------|
+| 2018 | $19.93 million | |
+| 2019 | $22.16 million | |
+| 2020 | $19.52 million | Pandemic year |
+| 2021 | $20.81 million | |
+| 2022 | $22.05 million | |
+| 2023 | $25.23 million | Q4 2023 alone: $8.09M |
+| 2024 | $24.11 million | Q2 first filed at $9.08M, then amended down to $6.08M |
+| 2025 | **$25.47 million** | Q1 $7.03M, Q2 $6.15M, Q3 $5.72M, Q4 $6.57M. The One Big Beautiful Bill Act fight |
+| 2026 (Q1–Q3) | **$14.39 million** | Q1 $6.08M, Q2 $4.47M, Q3 $3.84M |
+
+**Roughly $194 million since 2018.** That is what AHA has reported spending to lobby the federal government from 2018 through September 2026.
+
+**The 2026 pullback.** In-house spending for the first three quarters of 2026 is down 24% from the same period in 2025 ($14.39M vs. $18.90M). Q3 2026's $3.84 million is AHA's lowest quarter in any filing since at least 2018. The drop came after AHA lost the Medicaid reconciliation fight and while it was changing CEOs (Rick Pollack out, Steve Walsh in). It also came before the hardest fights of the year were settled: the CY2027 outpatient rule's 340B cut and the year-end appropriations deal.
+
+**Outside firms on retainer.** On top of its 28 in-house registered lobbyists, AHA pays five outside firms. In 2025 they were the Nickles Group ($360K), Red+Blue Strategies ($320K), Bockorny Group ($440K), the Smith-Free Group ($200K), and Morrison Public Affairs Group ($80K). Two more firms, O'Neill, Athy & Casey ($200K) and Plurus Strategies ($80K), had dropped off by 2026. That came to $1.68M in 2025 and $1.05M in Q1–Q3 2026. The Nickles Group was co-founded by former Sen. Don Nickles, whose chief of staff Stacey Hughes now runs AHA's lobbying shop.
+
+**Note on earlier figures.** Earlier versions of this page used aggregated totals ($28.8M for 2023, $29.0M for 2024) that do not match AHA's own LD-2 filings. The table above replaces them with the primary-source numbers.
+
+**PAC money:** For the 2025–2026 cycle (through October 14, 2026), AHAPAC raised $3.49 million and spent $4.22 million. That included $2.30 million in contributions to candidates and other committees and $1.26 million in independent expenditures. The PAC spent $727K more than it took in, and its cash on hand fell from $1.41M to $683K heading into the midterms (FEC). In the 2023–2024 cycle, AHAPAC raised $3.77 million. Its giving stays bipartisan.
+
+**Coalition force multiplier:** AHA founded the Coalition to Strengthen America's Healthcare, a 501(c)(4) grassroots operation that claims 2.8 million advocates. In 2025 it drove 575,000+ letters to Congress opposing Medicaid cuts. Those letters did not stop the cuts.
+
+**Member and ally lobbying adds up:** AHA's members and allies file their own reports. Trinity Health reported $1.08M in 2025 (LDA filings matched by client name). Corewell Health reported $830K, Sanford Health $800K, and Houston Methodist $200K. The Federation of American Hospitals, the investor-owned hospital lobby, reported $4.99M. All of this sits on top of AHA's own spending.
 
 ---
 
-*Sources: aha_intel_hughes.md, aha_intel_hrobsky.md, aha_intel_golder.md, aha_intel_pollack.md, aha_intel_boom.md, aha_intel_derienzo.md, aha_intel_hood.md, aha_intel_gassen.md, aha_intel_freesedecker.md, aha_intel_gallagher.md, aha_intel_allen.md, aha_intel_slubowski.md, aha_intel_shannon.md*
+## What AHA Fights: Status as of November 4, 2026
+
+The old story was that AHA blocks everything. The 2025–2026 record is mixed. **Congress** still has not touched site-neutral payment, physician-owned hospitals, or 340B in statute. **CMS and the reconciliation process** handed AHA its worst run of losses in a decade. AHA's wins came mostly in court and in appropriations riders that delayed cuts.
+
+### 1. Site-Neutral Payment: Losing on Regulation, Holding in Congress
+
+Site-neutral pay is still AHA's top defensive priority. It means equal Medicare rates for the same service, whether the hospital bills it or a physician office does. CBO has put full statutory site-neutral pay at about $170 billion over ten years.
+
+- **In Congress, AHA is still winning.** No site-neutral payment cut has passed. The Lower Costs, More Transparency Act passed the House 320–71 in December 2023, then died in the Senate. A 2026 version (H.R. 9393) is pending. HFMA called site-neutral "the most likely healthcare policy change to pass Congress this year" (August 2026). Whether it rides on the year-end spending package is the live question for the lame duck.
+- **The one enacted provision** is the off-campus department NPI and attestation requirement in the Consolidated Appropriations Act, 2026. Billing under one hospital number has hidden which off-campus clinics get which rates. Starting January 1, 2028, each one needs its own number or loses outpatient payment. The data it produces is the groundwork for the next site-neutral fight.
+- **At CMS, AHA is losing.** The CY2026 OPPS final rule (November 21, 2025) moved drug administration at off-campus departments to physician-office rates, a $290M cut in year one. TechTarget reported that CMS projects about $11B in savings over the decade from its off-campus and related policies. The CY2027 proposed rule would add imaging without contrast. On August 19, 2026, AHA sent out an action alert against the site-neutral and NPI provisions. The final CY2027 rule was not yet published as of November 4, 2026.
+
+AHA's line hasn't changed: "There is nothing 'neutral' about site-neutral policies." What it protects hasn't changed either: the facility-fee markup that makes buying physician practices pay.
+
+### 2. Price Transparency: Sued, Lost, Now Facing Tighter Rules
+
+AHA sued twice to block the original federal price transparency rules (2019–2020) and lost both times. The rules took effect January 1, 2021. The 2025–2026 cycle raised the bar further:
+
+- **Executive Order 14221** (February 25, 2025) ordered actual prices, not estimates, and real enforcement.
+- **The CY2026 OPPS final rule** carried it out. Hospitals must now post 10th-percentile, median, and 90th-percentile allowed amounts drawn from remittance data, along with their NPIs, and a senior official must attest to the file. Enforcement began April 1, 2026. CMS also offers a 35% discount on penalties to hospitals that admit violations and waive a hearing.
+- **Federal legislation is pending, not enacted.** AHA's Q3 2026 filing shows it lobbying on every major bill: the Patients Deserve Price Tags Act, the Health Care Price Certainty for All Americans Act, the Prices on the Wall Act of 2026, and the LCMT Act of 2026.
+
+**What it looks like on the ground:** CMS found only 27% of hospitals fully compliant in 2021. As of April 2025, Houston Methodist, whose CEO chairs AHA's board in 2026, posted 350 line items against a comparable competitor's 5,313. The maximum penalty is still only $5,500 a day for the largest hospitals.
+
+### 3. The 340B Program: AHA Won the Courtroom, Is Losing the Rate Fight
+
+AHA treats the 340B program as untouchable. The program has outgrown any "safety net" story. According to HRSA's own August 2026 notice, it reached **$100 billion in purchases at 340B prices in 2025**, across 15,249 covered entities and 49,214 associated sites. That is up from $53.7B in 2022.
+
+- **The rebate pilot.** AHA and other hospital groups sued in the District of Maine on December 1, 2025. They won a preliminary injunction on December 29, 2025. The First Circuit denied HHS a stay. HHS dropped its appeal (granted January 20, 2026), said on February 5, 2026 that it would scrap the pilot, and the court formally vacated it on February 10, 2026. **HRSA started over:** an RFI in February 2026, then a revised pilot notice on August 3, 2026, targeting January 1, 2027. **AHA sued again in the District of Maine on October 9, 2026**, and on October 21 it opposed the drug industry's bid to intervene. **Status: pending, in litigation.**
+- **Manufacturer rebates.** On July 21, 2026, the D.C. Circuit held in *Novartis v. Kennedy* that drugmakers cannot impose rebates without HHS approval. The ruling cuts both ways: it blocks unilateral rebates but confirms HHS's power to approve them.
+- **The rate cut.** CMS's CY2027 proposed rule would pay 340B-acquired drugs at ASP minus 33.4%, based on CMS's own hospital survey of acquisition costs. That is roughly a $4.85B cut, redistributed to all hospitals through an 8.44% increase in the non-drug conversion factor. CMS would also raise the annual remedy clawback from 0.5% to 3% (~$2.3B in 2027). AHA won *AHA v. Becerra* at the Supreme Court in 2022 because CMS cut rates without survey data. This time CMS ran the survey first. **Status: proposed; final rule pending.**
+- **Legislation.** AHA is lobbying against or trying to shape the 340B PATIENTS Act, the 340B Access Act, the SECURE 340B Act, the SUSTAIN Act, and a Senate discussion draft. Ways & Means approved a 340B reporting bill for nonprofit hospitals on July 1, 2026. **None has been enacted.**
+
+The program still has the same accountability gap. Houston Methodist made $50M in profit from 340B in a single year by acquiring outpatient sites. A study co-authored by Intermountain's own Delivery Institute found 340B participation had limited impact on charity care.
+
+### 4. Physician-Owned Hospitals: Ban Intact
+
+The ACA's ban on new or expanded physician-owned hospitals is **unchanged as of November 2026**. AHA's Q3 2026 filing lists the Physician Led and Rural Access to Quality Care Act (H.R. 2191), which would loosen the ban, as an active issue. That bill is **pending**. At a March 2026 House Energy & Commerce hearing, AHA was the lone voice among six panelists for keeping the ban. AHA's case is still that physician-owned hospitals "cherry-pick" patients. Its Chief Physician Executive supplies the "physician imprimatur." This is the purest piece of incumbent protection in AHA's portfolio, and Congress has left it alone for 16 years.
+
+### 5. Antitrust: Enforcement Shifts to Contracts and Outpatient Deals
+
+- **DOJ and Ohio v. OhioHealth** (complaint February 20, 2026). The suit alleged that a 16-hospital nonprofit system used contract terms to stop insurers from offering lower-cost tiered and steered plans in Columbus, in violation of Sherman Act §1. A proposed final judgment filed June 16, 2026 voids those terms. AHA's Q3 2026 filing lists "hospital mergers and acquisitions" as a lobbying issue.
+- **FTC and Ascension/AmSurg.** The FTC required divestiture of seven surgery centers in five metros as the price of Ascension's ~$3.9B purchase of AmSurg (consent order published June 10, 2026). Six went to an affiliate of UnitedHealth Group and one to a physician group.
+- **The history:** the FTC blocked Sanford-Mid Dakota (75–85% market share) and Advocate-NorthShore (2017), and a state AG investigation killed Sanford-Fairview. Sanford's CEO, Bill Gassen, chairs AHA's board in 2027.
+
+### 6. Medicaid: The Biggest Loss in a Decade, Plus a $50B Consolation Prize
+
+AHA reported $7.03M in Q1 2025, its biggest quarter of that year, and ran its grassroots machine at full volume. The One Big Beautiful Bill Act (signed July 4, 2025) passed anyway:
+
+- **Provider taxes (Sec. 71115):** frozen at July 4, 2025 levels. The new hold-harmless threshold took effect October 1, 2026. Starting in FY2028, the expansion-state safe harbor drops from 6% toward 3.5% by FY2032. CMS finalized a rule closing the managed-care-tax loophole (effective April 3, 2026) and proposed the threshold rule on July 23, 2026.
+- **State-directed payments (Sec. 71116):** capped at 100% of Medicare in expansion states and 110% in non-expansion states. Grandfathered payments shrink 10 percentage points a year starting with rating periods on or after January 1, 2028. CMS proposed its implementing rule May 22, 2026.
+- **Work requirements:** the interim final rule took effect June 1, 2026, and states must implement by January 1, 2027. CMS projects 2.3 million fewer enrollees in FY2027. Twenty-three states and D.C. sued on June 29, 2026.
+- **The consolation prize:** the **$50 billion Rural Health Transformation Program**, $10B a year from FY2026 to FY2030 for the 50 states. Half is split equally and half is allocated by CMS. AHA now lobbies on "how it is distributed to hospitals." Medicaid financing took a structural cut, and in exchange the industry got a new federal grant stream to fight over.
+
+### 7. Everything Else Enacted or Finalized in 2026
+
+- **Consolidated Appropriations Act, 2026** (P.L. 119-75, signed February 3, 2026): shrank the Medicaid DSH cut from $24B to $8B and delayed it to FY2029, a clear AHA win. It also extended telehealth through December 31, 2027, extended the low-volume and Medicare-dependent hospital payments through December 31, 2026, enacted the off-campus department NPI and attestation rule, and added PBM reforms.
+- **Enhanced ACA premium tax credits:** expired December 31, 2025, and were not revived. AHA was still lobbying for an extension in Q3 2026. Coverage losses mean more uncompensated care at the same hospitals that got the subsidy money.
+- **FY2027 IPPS final rule** (published August 4, 2026; effective October 1, 2026).
+- **Continuing Appropriations and Extensions Act, 2027** (P.L. 119-103, September 2, 2026): funds the government through December 11, 2026, with no Medicare hospital extenders. The low-volume and Medicare-dependent hospital programs expire December 31 unless the lame duck acts. That makes the year-end package the next big lobbying moment.
 
 ---
 
-## Section 2 — Command Structure: Who Runs the Machine
+## The Bottom Line
 
-### The Organization
-
-AHA is a 501(c)(3)/501(c)(6) hybrid with ~431 employees, $145 million in revenue (2023), and $300 million in net fund assets. It spent $169 million against $147 million in revenue in 2023 — a $22 million deficit funded from $435 million in reserves. The organization is burning through savings to sustain its lobbying and executive compensation apparatus.
-
-Total employee compensation: $78 million across 431 staff (average ~$181,000). But the distribution is radically skewed: the **top 16 executives collected $17 million** in 2023 — nearly 22% of the entire compensation pool. The top 10 executives over 2017–2023 collectively received **$62 million**.
-
-**Executive perks** (SVP and above): First-class air travel (CEO, 2 EVPs, 3 board members), companion/spousal travel (CEO-specific), discretionary spending accounts, and a **supplemental non-qualified deferred compensation plan** described by analysts as "extremely generous for a trade organization."
-
-AHA also controls **Health Forum LLC**, a for-profit subsidiary providing data products, market intelligence, and sponsorship services (estimated revenue $10–50 million). The EVP/COO simultaneously serves as Health Forum's CEO — merging AHA's nonprofit mission with its commercial revenue engine under one executive.
+AHA has reported about $194 million in federal lobbying since 2018, and it still holds the line in Congress. Site-neutral pay, the physician-owned hospital ban, and 340B are all untouched in statute. AHA also wins in court, as its 2025 rebate-pilot injunction showed, and it went back to court on October 9 against the revised pilot. But that defense has stopped working at CMS and in reconciliation. In 18 months AHA lost a structural Medicaid financing cut, the expiration of the enhanced subsidies, a regulatory site-neutral rule, and much tighter transparency enforcement. It now faces a proposed 340B rate cut of nearly 40%. Its in-house lobbying spend fell 24% in 2026 while its PAC spent more than it raised. A new CEO from the Massachusetts state-association world now inherits the year-end package, the CY2027 outpatient rule, and a 340B rebate pilot due to start January 1.
 
 ---
 
-### The C-Suite
+Sources: Senate LDA filings (lda.gov API, AHA registrant and client filings 2018–Q3 2026); FEC committee C00106146; Federal Register; govinfo.gov public laws; HFMA; Holland & Knight; King & Spalding; ArentFox Schiff; TechTarget; Bass Berry & Sims; JD Supra; Healthcare Dive; prior research files (aha_intel_*.md). Full URL list in powermap.lobbyingPacRevolvingDoor.changes.md.
 
-#### Rick Pollack — President & CEO (1982–2026; retiring end of 2026)
+# Section 2: PAC Architecture
 
-**43-year AHA veteran.** Career arc: Capitol Hill staffer → nurse-association lobbyist → AHA lobbyist → AHA EVP for Advocacy & Public Policy (1991–2015) → AHA CEO (2015–present). Registered federal lobbyist. Served as AHA's top lobbyist for nearly 25 years before becoming CEO.
+> New CEO Steve Walsh inherits a PAC that spent $727,000 more than it raised this cycle and a board chaired in 2027 by Sanford's Bill Gassen, who also sits on an insurer's board.
+
+## The Organization
+
+AHA is a 501(c)(3)/501(c)(6) hybrid. Its 2023 filings, the latest detailed figures in our files, show ~431 employees, $145 million in revenue, and $300 million in net fund assets. AHA spent $169 million against $147 million in revenue in 2023, a $22 million deficit covered from $435 million in reserves. It is spending down its savings to keep the lobbying and executive pay machine running.
+
+**The PAC is now spending down too.** For the 2025–2026 cycle (January 1, 2025 to October 14, 2026), AHAPAC reported to the FEC:
+
+| AHAPAC, 2025–26 cycle | Amount |
+|---|---|
+| Total receipts | $3.49 million |
+| Individual contributions (employees/executives of member hospitals) | $1.98 million |
+| Transfers from affiliated committees | $1.20 million |
+| Contributions to candidates and other committees | $2.30 million |
+| Independent expenditures | $1.26 million |
+| Total disbursements | $4.22 million |
+| Cash on hand: start of cycle to Oct. 14, 2026 | $1.41 million to $683,000 |
+
+AHAPAC spent $727,000 more than it raised and cut its cash in half heading into the 2026 midterms. In the 2023–2024 cycle, it raised $3.77 million. The money keeps flowing to both parties.
+
+**Pay at the top (2023 Form 990 data):** total compensation was $78 million across 431 staff, an average of about $181,000. The top 16 executives took $17 million, nearly 22% of the pool. The top 10 executives collectively received $62 million from 2017 to 2023.
+
+**Executive perks (SVP and above):** first-class air travel (CEO, two EVPs, three board members), companion travel for the CEO, discretionary spending accounts, and a supplemental non-qualified deferred compensation plan analysts call "extremely generous for a trade organization."
+
+**Health Forum LLC:** AHA's for-profit subsidiary sells data products, market intelligence, and sponsorships, with estimated revenue of $10–50 million. The EVP/COO also serves as Health Forum's CEO, so one executive runs both the nonprofit mission and the commercial revenue engine.
+
+---
+
+## The C-Suite (November 2026)
+
+### Steve Walsh: President & CEO (fall 2026 to present)
+
+**The new face of the hospital lobby.** The AHA board unanimously named Walsh on June 30, 2026, after a national search. He took over in early fall 2026; AHA has not announced an exact start date. Before AHA he was President & CEO of the Massachusetts Health & Hospital Association (since 2017). Before that he served six terms as a Massachusetts state representative, where he chaired the House Committee on Health Care Financing.
+
+**Revolving door, state edition:** Walsh wrote health care financing law as a legislator, then lobbied that legislature for the hospitals it funds, and now runs the national association. Massachusetts has the highest per-capita health spending in the country and is home to some of the most consolidated hospital markets anywhere, Mass General Brigham above all. That is the model he brings to Washington. Board Chair Marc Boom called him "a proven healthcare leader, innovator and accomplished advocate for healthcare improvement."
+
+**What he inherits:** a Medicaid financing structure that the One Big Beautiful Bill Act starts cutting in FY2028; a proposed 340B rate cut of nearly 40% in the CY2027 outpatient rule; a revised 340B rebate pilot due January 1, 2027 (AHA sued to block it on October 9); site-neutral as a possible pay-for in the year-end spending bill; in-house lobbying down 24% year over year; and a PAC that spent more than it raised. His AHA compensation has not been disclosed; the first Form 990 covering him will not be public until 2028.
+
+### Rick Pollack: Former President & CEO (CEO 2015–2026; at AHA 1982–2026)
+
+**Former.** Pollack announced his retirement in December 2025 and left when Walsh took over in fall 2026. He spent 43 years at AHA. Career arc: Capitol Hill staffer, then nurse-association lobbyist, then AHA lobbyist, then AHA EVP for Advocacy & Public Policy (1991–2015), then CEO (2015–2026). He was a registered federal lobbyist for most of that time. Pollack is not listed among AHA's registered lobbyists on any 2025 or 2026 LD-2.
 
 **Compensation trajectory:**
 
@@ -127,701 +201,515 @@ AHA also controls **Health Forum LLC**, a for-profit subsidiary providing data p
 | 2022 | President & CEO | $3.34M |
 | 2023 | President & CEO | $3.40M |
 
-Total over five recent years: **>$16 million.** Total over 2017–2023: **~$23 million.**
+That is about $23 million from 2017 to 2023. His final-year pay and any departure or deferred-compensation payout will show up on AHA's 2026 Form 990. Pollack called grassroots lobbying "absolutely king." His last cycle was a test of that idea: 575,000 coalition letters did not stop the Medicaid cuts in the One Big Beautiful Bill Act.
 
-Pollack calls grassroots lobbying "absolutely king" and has built one of the most effective influence operations in Washington health policy: AHAPAC, bipartisan giving, grassroots networks in every congressional district, multi-platform advertising, and personal relationships cultivated over 30+ years as a registered lobbyist.
+### Stacey Hughes: EVP, Government Relations & Public Policy (2021 to present)
 
-**Key vulnerability:** His $3.4M annual compensation is drawn from an organization funded by membership dues from hospitals — many of which are tax-exempt nonprofits claiming financial hardship and requesting public subsidies. The AHA board chairman's hospital was reported to have sued patients more than 8,000 times in a single year; Pollack issued no public statement. He retires with the title "President & CEO Emeritus."
+**The top lobbyist.** Still listed as a registered AHA lobbyist on the Q3 2026 LD-2 (filed October 20, 2026). She supervises all legislative, political, regulatory, grassroots, and legal advocacy. She replaced Tom Nickels, who had held the role since 1994.
 
-#### Stacey Hughes — EVP, Government Relations & Public Policy (2021–present)
+**Revolving door career:** 18 years as Senate staff, including Sen. Connie Mack III (R-FL), Sen. Don Nickles (R-OK), where she rose to Chief of Staff, and the Senate Republican Policy Committee. She then co-founded a lobbying firm with Nickles, lobbied for AHA from the outside, and was hired as AHA's top in-house lobbyist. **The Nickles Group is still on AHA's payroll:** $90,000 a quarter, $360,000 in 2025, in every quarterly filing through Q3 2026.
 
-**The top lobbyist.** Supervises all legislative, political, regulatory, grassroots, and legal advocacy. Replaced Tom Nickels, who held the role since 1994.
+Her description of the team: "They have all worked largely on Capitol Hill or they were deeply, deeply immersed in the issues."
 
-**Revolving door career:** 18 years as Senate staff spanning both parties → co-founded lobbying firm with former boss Sen. Don Nickles (R-OK) → lobbied on behalf of AHA → hired as AHA's top in-house lobbyist. OpenSecrets maintains a revolving door profile on her.
+### Michelle Hood: EVP & COO / President & CEO, Health Forum LLC (2020 to present)
 
-Prior Hill roles: Staff to Sen. Connie Mack III (R-FL), Sen. Don Nickles (R-OK) — rising to Chief of Staff — and the Senate Republican Policy Committee. She has also been registered as a lobbyist or foreign agent per LegiStorm records.
+The operational backbone. Over 40 years in health care: Emory University Hospital, Norton Healthcare, St. Vincent Healthcare, Sisters of Charity of Leavenworth Health System, Northern Light Health (CEO, $1.8B system, ~14 years), then AHA. She runs AHA operations and its for-profit subsidiary at the same time, which ties the nonprofit mission and the commercial franchise together under one person.
 
-Hughes's own description of the AHA lobbying team: "They have all worked largely on Capitol Hill or they were deeply, deeply immersed in the issues."
+### Chad Golder: SVP & General Counsel (2024 to present; at AHA since ~2018)
 
-Listed among AHA's most highly compensated employees on Form 990 filings.
+**The litigation strategist.** About eight years at DOJ on healthcare regulatory enforcement, then a partner at Munger, Tolles & Olson, then AHA Deputy GC, now GC. "People talk about the revolving door like it's necessarily a bad thing."
 
-#### Michelle Hood — EVP & COO / President & CEO, Health Forum LLC (2020–present)
+**His 2025–2026 scorecard:** AHA's biggest win of the cycle came from his shop. *AHA v. Kennedy* (D. Me.) won a preliminary injunction against HHS's 340B Rebate Model Pilot on December 29, 2025. The First Circuit denied a stay. HHS dropped its appeal (January 20, 2026) and said on February 5 that it would scrap the pilot, which the court vacated on February 10, 2026. HRSA reissued a revised pilot on August 3, 2026, and AHA filed a second suit against it on October 9, 2026. Golder previously won *AHA v. Becerra* (2022, unanimous) and lost both price transparency suits.
 
-**The operational backbone.** 40+ year healthcare career: Emory University Hospital → Norton Healthcare → St. Vincent Healthcare → Sisters of Charity of Leavenworth Health System → Northern Light Health (CEO, $1.8B system, ~14 years) → AHA.
+### Lisa Kidder Hrobsky: SVP, Federal Relations, Advocacy & Political Affairs (2021 to present)
 
-Simultaneously runs AHA operations and its for-profit subsidiary. Served on AHA Board of Trustees (Executive Committee, Operations Committee chair). Board service at three state hospital associations (chaired two). Vizient New England board member.
+**The registered lobbyist.** Still on the Q3 2026 LD-2. She directs legislative advocacy, grassroots mobilization, and AHAPAC political engagement. She has had a 17+ year AHA career across two stints. Path: Senate Special Committee on Aging staff, then America's Health Insurance Plans, then AHA, then Idaho Hospital Association (President & CEO), then back to AHA. She has been registered under the Lobbying Disclosure Act since at least 2002. She runs AHA's "grasstops" strategy: hospital CEOs and trustees calling their own delegations, using their weight as major local employers.
 
-Hood manages the tension between serving member hospitals (nonprofit mission) and extracting commercial value from those same relationships (for-profit mandate). AHA placed its #2 executive in the Health Forum CEO chair to maintain strategic control over the subsidiary.
+### Chris DeRienzo, M.D., MPP: SVP & Chief Physician Executive (2022 to present)
 
-#### Chad Golder — SVP & General Counsel (2024–present; at AHA since ~2018)
+**The physician shield.** A neonatologist who is also President of AHA's research arm, the Health Research & Educational Trust (HRET). He supplies the "physician imprimatur" for AHA's opposition to physician-owned hospitals and site-neutral pay. He has never owned or run an independent practice; his career has been inside hospital systems (WakeMed, Mission Health). As HRET President he oversees the research AHA cites in its lobbying, which closes the loop.
 
-**The litigation strategist.** Former DOJ attorney (~8+ years) specializing in healthcare regulatory enforcement, then Munger, Tolles & Olson partner, then AHA Deputy General Counsel, now General Counsel.
-
-**Revolving door:** Golder spent years at DOJ working healthcare regulatory enforcement, then pivoted to representing the regulated industry. His institutional knowledge of DOJ/HHS litigation strategy is his core asset. He is openly unapologetic: "People talk about the revolving door like it's necessarily a bad thing."
-
-Led or inherited AHA's litigation against price transparency rules (lost twice), the 340B Supreme Court case (won unanimously), and the 340B Rebate Model injunction (won preliminary). Predecessor Melinda Hatton retired November 2023.
-
-Estimated compensation: $800K–$1.5M+ based on trade association GC benchmarks and AHA's overall executive pay band.
-
-#### Lisa Kidder Hrobsky — SVP, Federal Relations, Advocacy & Political Affairs (2021–present)
-
-**The registered lobbyist.** Directs all legislative advocacy, grassroots mobilization, and AHAPAC political engagement. Member of AHA Executive Management Group reporting to CEO. 17+ year AHA veteran across two stints.
-
-**Revolving door:** Senate Special Committee on Aging staff → America's Health Insurance Plans (AHIP) → AHA → Idaho Hospital Association (President & CEO) → back to AHA at SVP level. "The revolving door is not incidental — it is the architecture of her career."
-
-Registered federal lobbyist under the Lobbying Disclosure Act since at least 2002. Filed with the Senate Office of Public Records on behalf of AHA. Personal political contributions: $16,486 in the 2022 cycle.
-
-Oversees AHA's "grasstops" strategy — activating hospital CEOs and board members to contact their congressional delegations, leveraging their status as prominent local employers.
-
-#### Chris DeRienzo, M.D., MPP — SVP & Chief Physician Executive (2022–present)
-
-**The physician shield.** Board-certified neonatologist with a Duke public policy degree. Also serves as President of the Health Research & Educational Trust (HRET), AHA's research arm.
-
-**Structural role:** DeRienzo exists to solve a specific PR problem — the optics of a hospital trade association lobbying against physician interests. He provides the "physician imprimatur" for AHA's anti-POH stance and opposition to site-neutral payments. He is given visible responsibility for non-controversial topics (patient safety, physician wellness, clinical leadership) while the contentious lobbying is handled by non-physician executives.
-
-DeRienzo has **never owned or operated an independent medical practice.** His entire career has been within hospital systems (WakeMed, Mission Health) or hospital-aligned organizations. He has no firsthand experience with independent physician practice economics — yet holds the title implying he speaks for physicians nationally.
-
-**Closed loop:** As both Chief Physician Executive and HRET President, DeRienzo controls the research pipeline AHA cites in its lobbying — the same person who provides clinical credibility also oversees the studies used to justify AHA's positions.
-
-Listed among top 10 most highly compensated AHA employees. Estimated range: $500K–$1M+, well above the median neonatologist salary (~$350K).
+**Staff status check:** Hughes and Hrobsky are confirmed in role by AHA's Q3 2026 lobbying filing. Hood, Golder, and DeRienzo are listed as current in the November 2026 dossier refresh. We found no announced departures under Walsh.
 
 ---
 
-### The Board: Governance as Influence Architecture
+## The Board: Governance as Influence Architecture
 
-AHA's Board of Trustees is populated overwhelmingly by CEOs, system presidents, and board chairs of member institutions. Board members have direct financial stakes in the policies AHA advocates — and no recusal requirements.
+AHA's Board of Trustees is made up mostly of CEOs, system presidents, and board chairs of member institutions. Members have direct financial stakes in the policies AHA lobbies for, and there is no published recusal requirement.
 
-#### 2026 Board Chair: Marc Boom, M.D. — CEO, Houston Methodist
+### 2027 Officers
 
-Chair-Elect Designate 2024 → Chair-Elect 2025 → Chair 2026. Past Chair, Texas Hospital Association. Also holds a **Federal Reserve board seat**.
+| Role | Trustee | System |
+|---|---|---|
+| **Chair** | Bill Gassen | Sanford Health |
+| **Chair-elect** (2028 Chair) | Laura Kaiser | SSM Health |
+| **Immediate Past Chair** | Marc Boom, M.D. | Houston Methodist |
 
-Houston Methodist under Boom: charged facility fees at hospital-based outpatient clinics (the exact practice site-neutral reform targets); was noncompliant with price transparency for 18+ months; generated $50M in one-year 340B profits through outpatient acquisitions; reported only 350 pricing line items versus 5,313 at a comparable competitor. Boom now chairs the organization that opposes reforming all of these practices.
+**Bill Gassen (2027 Chair).** He also chairs AHA's 501(c)(4) lobbying arm, has sat on a federal CMS/HHS advisory committee, and holds an insurer board seat at Oscar Health. Under Gassen, Sanford tried four mergers in six years: the FTC blocked one (75–85% market share), a state AG investigation killed another, and two collapsed. Sanford's own federal lobbying ran $800K in 2025 (LDA). Starting in January, the hospital lobby is chaired by a man advising the government on hospital payment while sitting on an insurer's board.
 
-This is not a revolving door — it is "regulatory capture by organizational design."
+**Marc Boom (2026 Chair, 2027 Immediate Past Chair).** He also sits on the board of the Houston Branch of the Federal Reserve Bank of Dallas. Houston Methodist charges facility fees at hospital-based outpatient clinics, which is exactly what site-neutral reform targets. It was out of compliance with price transparency for 18+ months, made $50M in one year from 340B through outpatient acquisitions, and posted 350 pricing line items against a competitor's 5,313. Boom chaired the search that picked Walsh.
 
-#### 2027 Chair-Elect Designate: Bill Gassen — President & CEO, Sanford Health
+**Laura Kaiser (2027 Chair-elect).** Named Chair-elect Designate on July 12, 2026. She will chair AHA in 2028.
 
-Elected July 2025. Will become 2027 AHA Board Chair. **Simultaneously** chairs AHA's 501(c)(4) lobbying arm, sits on a federal CMS/HHS Healthcare Advisory Committee, and holds an insurer board seat (Oscar Health).
+### Turnover
 
-Sanford under Gassen: attempted four mergers in six years (one blocked by FTC for 75–85% market concentration, one killed by state AG antitrust investigation). Federal lobbying up 71% from 2020 to 2024.
+- **Joining January 1, 2027 (three-year terms):** Charles Gressle (President, East Florida Division, HCA Healthcare), William Jennings (President, Fairfield Region, Hartford HealthCare), J. Stephen Jones, M.D. (President & CEO, Inova Health), Vicki Lewis (President & CEO, Coffee Regional Medical Center, Douglas, GA), and Michele Baker Richardson (President & CEO, HEA Consultants).
+- **Leaving December 31, 2026:** Tina Freese Decker (Corewell Health; 2025 Chair), Kurt Barwis (Bristol Health), and Robert Trestman, M.D. (Carilion Clinic).
 
-The incoming chair of the hospital lobby is advising the federal government on the very payment programs that fund hospitals, while sitting on an insurer board. "This is not a revolving door — it is concurrent occupation of positions on multiple sides of the regulatory table."
+**Notable:** HCA's East Florida division president now gets a seat. That puts the largest investor-owned chain, which also funds the Federation of American Hospitals ($4.99M in federal lobbying in 2025), directly inside AHA's governance as well.
 
-#### 2025 Immediate Past Chair: Tina Freese Decker — President & CEO, Corewell Health
+### Board Composition Patterns
 
-Chaired AHA's Price Transparency Task Force at Spectrum Health before becoming AHA Chair — then presided over AHA's opposition to enhanced CMS price transparency enforcement. FTC issued an unusual "second request" for the Spectrum-Beaumont merger; ultimately allowed it to proceed without conditions.
+- **Large-system CEOs** dominate the agenda, the revenue, and the institutional weight.
+- **Small and rural hospital CEOs** add geographic and size diversity, and may function as easily managed votes for the large-system agenda. Vicki Lewis (Coffee Regional) joins that bloc in 2027.
+- **Strategic appointments shield exposed institutions.** NYU Langone placed its CNO, not its CEO, who was paid $22.8M.
+- **Distressed institutions have held seats.** Bristol Health's Barwis joined months after a going-concern audit and was a registered Connecticut lobbyist at the same time. His term ends December 31, 2026.
+- **The Vizient-to-AHA pipeline** keeps the board stocked with executives tied to the GPO-hospital complex.
+- **Dual state-federal roles** multiply influence (Vissers/Colorado, Hirsch/NJHA HealthPAC, Glasgo/Iowa). The new CEO is the ultimate example: Walsh comes directly from running a state hospital association.
 
-#### Board Composition Patterns
+### The Conflict of Interest Structure
 
-The board is designed to look representative while concentrating power:
-
-- **Large-system CEOs dominate** the agenda, revenue, and institutional weight.
-- **Small/rural hospital CEOs** (Fish/Schneck, Glasgo/UnityPoint, Vissers/Boulder Community) provide geographic and size diversity — but may function as "easily managed votes for the larger system-dominated agenda."
-- **Strategic appointments shield vulnerable institutions:** NYU Langone placed its CNO (Debra Albert) rather than its CEO ($22.8M compensation) or its billionaire board chair (Kenneth Langone) — "a far more sympathetic face for an institution under scrutiny for charity care deficits." A CNO lacks authority to commit institutional resources, giving NYU Langone influence without C-suite accountability.
-- **Financially distressed institutions get seats:** Bristol Health CEO Kurt Barwis joined the board in January 2024, months after a going-concern audit. He is also a registered lobbyist in Connecticut — simultaneously lobbying the CT legislature, influencing AHA federal policy, and benefiting from AHA's $29M lobbying spend.
-- **Specialty representation serves institutional cover:** Robert Trestman (psychiatrist/Carilion Clinic EVP) provides behavioral health expertise while Carilion faces scrutiny for monopoly pricing and mass patient litigation.
-- **The Vizient-to-AHA pipeline:** Vizient GPO governance is a well-known stepping stone to AHA Board service, ensuring the board is populated by executives aligned with the GPO-hospital complex.
-- **Dual state-federal roles multiply influence:** Multiple board members simultaneously chair state hospital associations (Vissers/Colorado, Hirsch/NJHA HealthPAC, Glasgo/Iowa), creating state-to-federal advocacy pipelines.
-
-#### The Conflict of Interest Structure
-
-AHA board member Mary Hancock (CFO, Sentara Health) is the person who "literally models the P&L impact of these policies at Sentara and then sits on the board that lobbies to shape them." The board is *designed* to be populated by executives with direct financial stakes — but no conflict-of-interest recusal mechanism exists. Whether Hancock "recuses herself from policy votes that directly affect Sentara's revenue, or whether she participates without acknowledgment of the conflict" — the expected pattern is the latter.
+Trustee Melinda Hancock (Chief Administrative and Financial Officer, Sentara Health) "literally models the P&L impact of these policies at Sentara and then sits on the board that lobbies to shape them." In 2026 those policies include state-directed payment caps, the provider-tax freeze, and the 340B rate cut. No public conflict-of-interest recusal mechanism exists.
 
 ---
 
-### The Revolving Door Map
+## The Revolving Door Map
 
-AHA's influence operation runs on a systematic pipeline between Capitol Hill, federal agencies, and K Street:
+| Person | Government Background | AHA Role (Nov. 2026) |
+|--------|----------------------|----------------------|
+| **Steve Walsh** | Six-term Massachusetts state rep; chaired House Committee on Health Care Financing; then CEO, Massachusetts Health & Hospital Association (2017–2026) | **President & CEO** (fall 2026 to present) |
+| ~~Rick Pollack~~ | Capitol Hill staffer | **Former** President & CEO (2015–2026); retired fall 2026 |
+| Stacey Hughes | 18 years Senate staff (Mack, Nickles; Chief of Staff to Nickles); co-founded lobbying firm with Nickles | EVP, Government Relations (registered lobbyist, Q3 2026) |
+| Lisa Kidder Hrobsky | Senate Special Committee on Aging staff; AHIP | SVP, Federal Relations (registered lobbyist since 2002; Q3 2026) |
+| Chad Golder | ~8 years DOJ (healthcare regulatory enforcement) | SVP & General Counsel |
+| Eduardo Sacasa | Legislative Assistant to Sen. Deb Fischer (R-NE), 2019 to Jan. 5, 2026; Sen. Marco Rubio staff, 2012–2019 | Registered AHA lobbyist (new, Q1 2026) |
+| Thifeen Waheeddeen | Policy Advisor to Sen. Peter Welch (D-VT), 2023 to Jan. 16, 2026; Rep. Welch staff, 2019–2022 | Registered AHA lobbyist (new, Q1 2026) |
+| Devin Gerzof | House Ways & Means Health Subcommittee Republican staff (~5 years) | Registered AHA lobbyist, federal relations (joined 2022) |
+| Chris DeRienzo | No government background | Chief Physician Executive (physician-credentialing role) |
+| Michelle Hood | No government background | EVP & COO (operational and commercial role) |
 
-| Executive | Government Background | AHA Role |
-|-----------|----------------------|----------|
-| Rick Pollack | Capitol Hill staffer | CEO (registered lobbyist) |
-| Stacey Hughes | 18 years Senate staff (Mack, Nickles); co-founded lobbying firm | EVP, Government Relations |
-| Lisa Kidder Hrobsky | Senate Special Committee on Aging staff; AHIP | SVP, Federal Relations (registered lobbyist since 2002) |
-| Chad Golder | ~8+ years DOJ (healthcare regulatory enforcement) | SVP & General Counsel |
-| Chris DeRienzo | No government background | Chief Physician Executive (physician credentialing role) |
-| Michelle Hood | No government background | EVP & COO (operational/commercial role) |
-
-Hughes describes the team: "They have all worked largely on Capitol Hill." The revolving door is not a side effect — it is the staffing model. Each hire brings institutional knowledge of how Congress and federal agencies operate, personal relationships with sitting members and staff, and the ability to navigate regulatory processes from the inside.
-
----
-
-*Sources: aha_intel_pollack.md, aha_intel_hughes.md, aha_intel_hood.md, aha_intel_golder.md, aha_intel_hrobsky.md, aha_intel_derienzo.md, aha_intel_boom.md, aha_intel_gassen.md, aha_intel_freesedecker.md, aha_intel_hancock.md, aha_intel_albert.md, aha_intel_barwis.md, aha_intel_fish.md, aha_intel_glasgo.md, aha_intel_vissers.md, aha_intel_hirsch.md, aha_intel_trestman.md, aha_intel_gallagher.md, aha_intel_coffman.md, aha_intel_ozuah.md*
+AHA hired two Senate aides, one Republican and one Democrat, and registered them as lobbyists within days of their leaving the Hill in January 2026. Its outside firms run the same play. In 2026 the Nickles Group added a former House Oversight Committee deputy general counsel, and Red+Blue Strategies added a former Senate Veterans' Affairs Committee counsel to the AHA account. Each hire brings knowledge of how Congress and federal agencies work, personal relationships with sitting members and staff, and the ability to work regulatory processes from the inside. The revolving door is not a side effect. It is the staffing model.
 
 ---
 
-## Section 3 — The Charity Care Gap: What AHA's Members Actually Do
+Sources: Senate LDA filings (lda.gov); FEC committee C00106146; Healthcare Dive (July 1, 2026); LegiStorm; Federal Register (340B Rebate Model Pilot notice, Aug. 3, 2026); prior research files aha_intel_pollack.md, aha_intel_hughes.md, aha_intel_hood.md, aha_intel_golder.md, aha_intel_hrobsky.md, aha_intel_derienzo.md, aha_intel_boom.md, aha_intel_gassen.md, aha_intel_freesedecker.md, aha_intel_hancock.md, aha_intel_albert.md, aha_intel_barwis.md, aha_intel_fish.md, aha_intel_glasgo.md, aha_intel_vissers.md, aha_intel_hirsch.md, aha_intel_trestman.md. Full URL list in powermap.lobbyingPacRevolvingDoor.changes.md.
 
-AHA's public narrative rests on the claim that nonprofit hospitals are "cornerstones of their communities," returning far more in community benefit than they receive in tax exemptions. The data from AHA board members' own institutions tells a different story.
+# Section 3: Revolving Door Map
 
-### The Fair Share Deficit Scoreboard
+> AHA hired a Republican Senate aide and a Democratic Senate aide in January 2026, registered both as lobbyists within weeks, and replaced a 43-year Washington insider with a former state lawmaker turned state hospital lobbyist.
 
-The Lown Institute calculates "fair share deficits" — the gap between the estimated value of a hospital's tax exemptions and its actual community benefit spending. AHA board members lead systems with some of the largest deficits in the country:
+AHA's influence operation runs on a steady pipeline between Capitol Hill, state legislatures, federal agencies, and K Street. Under its new CEO, the pipeline now starts in a state house.
 
-| Board Member | System | Fair Share Deficit | Lown Grade/Rank |
-|-------------|--------|-------------------|-----------------|
-| Marc Boom (2026 Chair) | Houston Methodist | **-$222 million** | D equity; ranked 3,724 of 3,764 nationally |
-| Debra Albert | NYU Langone Health | **-$222 million** | #3 worst nationally |
-| Gerald Gallagher | Endeavor Health | **-$152 million/yr** | Evanston Hospital = #1 deficit in Illinois |
-| Michael Slubowski | Trinity Health | **-$784 million** | Top 10 nationally |
+| Person | Government Background | AHA Role (Nov. 2026) |
+|--------|----------------------|----------------------|
+| **Steve Walsh** | Six-term Massachusetts state rep; chaired House Committee on Health Care Financing; then CEO, Massachusetts Health & Hospital Association (2017–2026) | **President & CEO** (fall 2026 to present) |
+| ~~Rick Pollack~~ | Capitol Hill staffer | **Former** President & CEO (2015–2026); retired fall 2026 |
+| Stacey Hughes | 18 years Senate staff (Mack, Nickles; Chief of Staff to Nickles); co-founded lobbying firm with Nickles | EVP, Government Relations (registered lobbyist, Q3 2026) |
+| Lisa Kidder Hrobsky | Senate Special Committee on Aging staff; AHIP | SVP, Federal Relations (registered lobbyist since 2002; Q3 2026) |
+| Chad Golder | ~8 years DOJ (healthcare regulatory enforcement) | SVP & General Counsel |
+| Eduardo Sacasa | Legislative Assistant to Sen. Deb Fischer (R-NE), 2019 to Jan. 5, 2026; Sen. Marco Rubio staff, 2012–2019 | Registered AHA lobbyist (new, Q1 2026) |
+| Thifeen Waheeddeen | Policy Advisor to Sen. Peter Welch (D-VT), 2023 to Jan. 16, 2026; Rep. Welch staff, 2019–2022 | Registered AHA lobbyist (new, Q1 2026) |
+| Devin Gerzof | House Ways & Means Health Subcommittee Republican staff (~5 years) | Registered AHA lobbyist, federal relations (joined 2022) |
+| Chris DeRienzo | No government background | Chief Physician Executive (physician-credentialing role) |
+| Michelle Hood | No government background | EVP & COO (operational and commercial role) |
 
-Trinity's $784 million deficit places it alongside fellow Catholic systems Providence (-$1B), CommonSpirit (-$923M), and Ascension (-$614M). Michigan — home to Corewell Health (Freese Decker, immediate past chair) — is among the worst-performing states: 97%+ of Michigan hospitals have a fair share deficit, collectively averaging $605 million/year from 2020–2022.
+**The 2026 hires.** AHA hired two Senate aides in January 2026, one from a Republican office (Fischer) and one from a Democratic office (Welch), and registered both as AHA lobbyists in its first-quarter filing. Sacasa left Fischer's office on January 5 and Waheeddeen left Welch's on January 16. The bipartisan pairing is deliberate.
+
+**The outside bench.** AHA keeps five outside firms on retainer: the Nickles Group, Red+Blue Strategies, Bockorny Group, the Smith-Free Group, and Morrison Public Affairs Group. Together they cost $1.05M in Q1–Q3 2026. The Nickles Group, co-founded by the former senator Hughes once served as chief of staff, has billed AHA $90,000 every quarter. In 2026 it added a former House Oversight Committee deputy general counsel to the AHA account. Red+Blue added a former Senate Veterans' Affairs Committee counsel.
+
+**The new CEO's door swings at the state level.** Walsh wrote Massachusetts health care financing law as a legislator, then spent nine years lobbying that same legislature as head of the state hospital association, and now runs the national one. That is the template AHA chose to replace a 43-year Washington lifer.
+
+Hughes describes the team: "They have all worked largely on Capitol Hill." The revolving door is not a side effect. It is the staffing model. Each hire brings knowledge of how Congress and federal agencies work, personal relationships with sitting members and staff, and the ability to work regulatory processes from the inside.
+
+**Staff status:** Hughes and Hrobsky are confirmed by the Q3 2026 LD-2. Hood, Golder, and DeRienzo are current per the November 2026 dossier refresh. We found no announced departures under Walsh.
+
+---
+
+Sources: Senate LDA filings, AHA Q1–Q3 2026 LD-2 lobbyist covered-position disclosures (lda.gov); Healthcare Dive (July 1, 2026); LegiStorm (Sept. 15, 2022); prior research files aha_intel_pollack.md, aha_intel_hughes.md, aha_intel_hood.md, aha_intel_golder.md, aha_intel_hrobsky.md, aha_intel_derienzo.md.
+
+# Section 4: Institutional Capture
+
+> In 2027 the AHA gavel passes to Sanford's Bill Gassen, whose system has an FTC-blocked deal and an AG-killed merger on its record, while HCA and Hartford HealthCare join the board as DOJ sues dominant systems over all-or-nothing contracts.
+
+AHA's lobbying operation does not merely protect existing revenue. It underwrites a consolidation strategy that concentrates market power in the systems whose executives sit on its board. The pattern is consistent: acquire competitors, absorb physician practices, use Certificate of Need laws to block new entrants, collect facility fees from converted sites, and run AHA's $29 million-a-year lobbying operation against every form of oversight. In 2027 the board gets a new chair, a new CEO and some new members. It keeps the same playbook.
+
+### The 2027 Board: Who Now Holds the Wheel
+
+- **Chair:** Bill Gassen (Sanford Health), a serial acquirer. **Chair-elect:** Laura Kaiser (SSM Health). **Immediate past chair:** Marc Boom (Houston Methodist).
+- **President & CEO:** Steve Walsh, named June 30, 2026. He ran the Massachusetts Health & Hospital Association and is a former Massachusetts state representative. He succeeds Rick Pollack.
+- **New trustees from Jan. 1, 2027:** Charles Gressle (HCA Healthcare, East Florida Division), William Jennings (Hartford HealthCare), J. Stephen Jones, MD (Inova Health), Vicki Lewis (Coffee Regional Medical Center) and Michele Baker Richardson (HEA Consultants).
+- **Leaving Dec. 31, 2026:** Tina Freese Decker (Corewell), Kurt Barwis (Bristol Health) and Robert Trestman (Carilion Clinic).
+
+The new class does not dilute the incumbent tilt. It sharpens it:
+
+- **HCA's seat.** HCA is the largest hospital operator in the country. Its CEO was the for-profit witness at the April 28, 2026 Ways and Means hearing, where Rep. Adrian Smith asked why HCA charges commercial insurers more than three times the Medicare rate.
+- **Hartford HealthCare's seat.** Hartford is the other half of Connecticut's hospital duopoly, alongside Yale New Haven.
+
+### The Merger Scoreboard
+
+#### Sanford Health (Bill Gassen, 2027 AHA Chair)
+
+The most persistent acquirer on the board. Six deals are on the record:
+
+| Target | Year | Outcome |
+|--------|------|---------|
+| Mid Dakota Clinic (Bismarck) | 2017 | **Blocked by FTC.** Would have created 75–85% market share in four physician specialties |
+| UnityPoint Health (Iowa) | 2019 | Collapsed |
+| Intermountain Health | 2020 | Collapsed |
+| Fairview Health (Minnesota) | 2023 | **Killed** by the Minnesota AG's antitrust review (3,500+ public comments). The legislature then gave the AG power to enjoin or unwind healthcare transactions |
+| Prairie Lakes Healthcare | 2024 | Completed |
+| Marshfield Clinic Health System | 2025 | Completed |
+
+The FTC found the Mid Dakota deal would create "a near monopoly provider of physician services in the Bismarck-Mandan area," likely leading to "higher reimbursement rates and higher premiums for consumers." After Fairview collapsed, Gassen cited a lack of "support from certain Minnesota stakeholders" and did not address the AG's antitrust concerns. On Jan. 1, 2027 he becomes chair of the organization that sets national hospital policy on competition.
+
+#### Yale New Haven Health (Pamela Sutton-Wallace, trustee; Acting CEO since June 29, 2026)
+
+Connecticut's dominant system ran a deliberate consolidation strategy until the money ran out.
+
+- **Lawrence + Memorial:** YNHHS absorbed L+M (New London) in 2016, then added Westerly Hospital in Rhode Island.
+- **Prospect Medical:** the deal unwound. In September 2025, YNHHS agreed to pay Prospect $45 million to walk away from its $435 million purchase of Waterbury, Manchester Memorial and Rockville General. The bankruptcy court approved the exit in October 2025.
+- **Losses:**
+  - FY2025: a **$197 million operating loss** (-2.6%) on $7.6 billion in revenue.
+  - FY2024: a $46.2 million surplus, driven largely by a one-time ~$100 million 340B program remedy settlement.
+  - S&P moved its outlook to negative. The CFO and general counsel left in October 2025. About 150 Northeast Medical Group layoffs came in March 2025 and about 600 voluntary retirements followed.
+- **Facility fees:** health system fees at Connecticut hospitals more than doubled, from about $748 million (FY2017) to $1.6 billion+ (FY2024). The driver is practice acquisitions and the reclassification of physician offices as hospital outpatient departments.
+
+The lesson: scale bought pricing power, not operating discipline. And Hartford HealthCare, the duopoly partner, now gets its own AHA board seat.
+
+#### Endeavor Health (J.P. Gallagher, trustee)
+
+Gallagher's system has one antitrust run-in after another:
+
+- **Evanston–Highland Park (2000):** in 2007 the FTC ruled the merger anticompetitive. It led to a **$55 million class-action settlement** for overcharging consumers.
+- **NorthShore–Advocate (2017):** blocked. It would have created >50% inpatient share in Chicago's northern suburbs.
+- **NorthShore–Edward-Elmhurst (2022):** approved, creating Illinois' third-largest system.
+
+Gallagher led the last two attempts. Evanston Hospital now carries the **sixth-largest fair share deficit in the country** (-$152 million a year, Lown 2025).
+
+#### Montefiore Einstein (Philip Ozuah, trustee)
+
+- Montefiore grew from 4 hospitals in 2010 to 11 by 2019, plus 250 ambulatory sites, a nursing home and a home care agency. It holds a near-monopoly position in the Bronx.
+- Nurses call the result a "two-tier health system": capital flowed to Westchester while Bronx emergency departments overflowed.
+- The bill came due in 2026:
+  - **Strike:** a 15,000-nurse NYSNA strike across three systems ran Jan. 12 to Feb. 9, 2026.
+  - **Losses:** a $120.9 million operating loss in 2025, then -4.5% in Q1 2026.
+  - **Credit:** KBRA cut its outlook.
+- Ozuah's FY2024 pay was **$16.69 million**.
+
+#### Corewell Health (Tina Freese Decker, leaves the board Dec. 31, 2026)
+
+- Spectrum + Beaumont (2022) created Michigan's largest system: 21 hospitals and ~$11.5 billion in revenue.
+- The FTC issued a rare second request for a cross-market deal, then let it close with no conditions. Beaumont's ~$4 billion in reserves came over unrestricted.
+- Former Beaumont CEO John Fox left with a $10.2 million package.
+
+Freese Decker chaired AHA in 2025 and served as past chair in 2026. Her exit ends Corewell's officer-level run, but Michigan keeps two seats: Trinity's Slubowski and MHA's Brian Peters.
+
+#### Trinity Health (Michael Slubowski, trustee)
+
+- **MercyOne:** absorbed 16 medical centers and 400+ sites of care in Iowa, adding about $3 billion in revenue.
+- **Reproductive care:** when Trinity buys a community's only hospital, the Ethical and Religious Directives eliminate sterilization and contraception services that patients cannot get elsewhere locally.
+
+#### Intermountain Health (Rob Allen, trustee)
+
+- The SCL Health merger (2022) built a 33-hospital system across Utah, Colorado, Montana and Kansas.
+- Intermountain owns SelectHealth (~1 million members). It is insurer and provider at once, which gives it "significant leverage in contract negotiations with employers and other payers."
+- Intermountain publicly opposed the 2021 executive order on hospital consolidation, in line with AHA.
+
+### Antitrust Enforcement Reaches the Big Systems
+
+Federal enforcers moved against dominant-system contracting in 2026. Neither target sits on the AHA board, but both run on the model the board defends:
+
+- **February 2026:** DOJ and the Ohio attorney general sued OhioHealth over contract terms that blocked insurers from offering tiered and steered plans; a proposed final judgment filed June 16, 2026 voids those terms.
+
+In the House, the Healthy Competition for Better Care Act would ban anti-steering, anti-tiering and all-or-nothing clauses. CBO reportedly scores it at nearly $5 billion in savings.
+
+At the same hearing, Chairman Jason Smith cited about 2,000 hospital mergers and said about 90% of beds now sit inside systems. His verdict on hospital prices: "borderline extortion."
+
+AHA's long-standing line is to criticize "the approach and framework the Federal Trade Commission has employed to review hospital transactions."
+
+### Certificate of Need: Incumbent Protection
+
+Certificate of Need (CON) laws require state permission before anyone can build or expand a healthcare facility. Board members' systems use CON as a moat and defend it through the state hospital associations that feed AHA's regional policy boards.
+
+#### Connecticut (Yale New Haven and, from 2027, Hartford HealthCare)
+
+- **Proton therapy:** a proposed Danbury proton center was denied under CON. Meanwhile YNHHS and Hartford HealthCare won approval for their own joint facility in Wallingford, "effectively blocking a competitor while securing the same service for themselves."
+- **Reform stalled:** CON reform "dissolved in the final weeks of the 2024 CT legislative session."
+- **Who wins:** State Sen. Ryan Fazio: "The Yale New Havens of the world are going to have the administrative, the legal, the lobbying capacity to manage that."
+- **Both beneficiaries on the board:** with Jennings joining, both systems that co-own the proton franchise will sit on the AHA board in 2027.
+
+#### Virginia (Carilion Clinic; Trestman leaves the board Dec. 31, 2026)
+
+- Virginia's Certificate of Public Need (COPN) program protects Carilion's position in Roanoke.
+- **FTC, 2008–09:** after Carilion bought two low-cost independent outpatient centers, the FTC forced it to divest them.
+- **DOJ, 1989:** an antitrust suit against Carilion failed.
+- **The result:** a regional monopoly with documented monopolistic pricing and 33,000 court judgments against patients.
+
+Trestman's exit removes Carilion from the board. The new class adds Northern Virginia's Inova, which operates under the same COPN regime.
+
+#### Louisiana (Joan Coffman, trustee and RPB 7 Chair)
+
+- Louisiana adopted CON in 1991, after the federal mandate was repealed and other states were abandoning theirs.
+- The Louisiana Hospital Association has historically opposed CON reform. Coffman sits on both the LHA board and the AHA board.
+
+*CON changes in the 2025–2026 state sessions could not be verified for this update. See the changes file.*
+
+### The GPO-to-AHA Pipeline
+
+Vizient, the largest hospital group purchasing organization, works as a feeder for AHA governance:
+
+- **Joan Coffman:** Vizient Southern States Board Chair, then AHA trustee.
+- **Rob Vissers (Boulder Community Health):** Vizient board chair, then AHA trustee.
+- **Michelle Hood:** AHA EVP/COO and a Vizient New England board member.
+
+GPOs collect administrative fees (typically 1–3% of contract value) from vendors. Member-specific rebate arrangements are "generally not publicly transparent." Coffman's stack shows how the roles reinforce each other: AHA Board, RPB 7 Chair, Vizient Southern States Past Chair, LHA Board and Ochsner Health Network Board. Since January 2026, Ochsner CEO Pete November has also sat on the AHA board.
+
+### Vertical Integration: The Full-Stack Hospital
+
+| System | Board Member (2027) | Hospitals | Ambulatory | Insurance Arm | Notes |
+|--------|-------------|-----------|-------------------|---------------|-------|
+| Intermountain | Allen | 33 | 385+ clinics | SelectHealth (~1M) | Payer-provider |
+| Houston Methodist | Boom (Immediate Past Chair) | 8 | Expanding | — | $1.15B tax-exempt real estate |
+| Montefiore Einstein | Ozuah | 11+ | 250+ | — | $16.69M CEO pay (FY2024) |
+| Yale New Haven | Sutton-Wallace | 5+ | Growing | — | $197M FY2025 operating loss |
+| Trinity | Slubowski | 90+ | 400+ (Iowa alone) | — | ~$3B added via MercyOne |
+| HCA (new seat) | Gressle | 190 | 2,500+ sites | — | Largest operator in U.S. |
+
+**The acquisition-to-facility-fee pipeline:**
+
+1. Buy an independent practice.
+2. Reclassify it as a hospital outpatient department.
+3. Collect a facility fee on top of the professional fee.
+
+Smith's examples from April 28: an ultrasound costs $164 in a physician office and $339 in a hospital outpatient department. A biopsy costs about $150 versus $800.
+
+The House Energy & Commerce memo for the March 18, 2026 hearing, at which Pollack testified, cited GAO data: at least 47% of physicians were employed by or affiliated with hospital systems in 2024, up from under 30% in 2012. That is why AHA fights site-neutral payment. Site-neutral pay would remove the arbitrage that pays for the acquisitions.
+
+### The Pricing Power Payoff
+
+- **Houston Methodist:** charges more than 2x peer institutions for comparable services. The Baker Institute found it omitted major insurer prices from its transparency file.
+- **Endeavor (NorthShore):** the FTC-condemned Evanston merger produced a $55 million overcharge settlement.
+- **Yale New Haven:** Connecticut system fees doubled to $1.6 billion+ as YNHHS consolidated.
+- **Sanford:** the FTC said the blocked Mid Dakota deal would mean "higher reimbursement rates and higher premiums."
+- **Carilion:** a 2008 Wall Street Journal investigation documented monopoly pricing in Roanoke.
+
+The E&C memo cites research tying horizontal hospital consolidation to higher prices "without a discernible change in quality."
+
+### How It All Connects
+
+1. **Acquire:** hospitals, physician practices, ambulatory and outpatient sites.
+2. **Reclassify:** convert independent sites to hospital outpatient departments.
+3. **Extract:** facility fees, 340B program margins, negotiated-rate leverage.
+4. **Protect:** CON to block entrants, AHA to fight site-neutral pay and antitrust.
+5. **Govern:** seat system CEOs on the AHA board to set the agenda.
+6. **Repeat:** use reserves and market position to fund the next deal.
+
+The 2027 transition proves the point. The chair passes from Houston Methodist to Sanford, the board's most aggressive acquirer, and the new class adds HCA and Hartford HealthCare. Every policy AHA opposes threatens a different spoke of this wheel: site-neutral payment, price transparency, all-or-nothing contracting bans, CON repeal and 340B accountability. The conflicts are not incidental. They are the design.
+
+---
+
+Sources: https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board ; https://www.chiefhealthcareexecutive.com/view/hospital-ceos-pressed-on-prices-by-congress ; https://waysandmeans.house.gov/?p=20051 ; https://legis1.com/news/hospital-pricing-extortion-ceos-face-fire-over ; https://www.realclearhealth.com/2026/04/27/the_monopoly_tax_on_your_health_insurance_1179221.html ; https://d1dth6e84htgma.cloudfront.net/03_18_2026_HE_Hearing_Memorandum_0a8170f092.pdf ; https://www.fiercehealthcare.com/providers/prospect-medical-holdings-asks-bankruptcy-judge-preserve-yale-new-haven-healths-435m ; https://www.beckershospitalreview.com/finance/connecticut-health-system-without-cfo-posts-197m-operating-loss ; https://hartfordbusiness.com/article/yale-new-haven-health-ceo-oconnor-details-tough-year-restructuring-and-plans-for-recovery/ ; https://www.ynhhs.org/news/yale-new-haven-health-system-announces-leadership-changes ; https://www.beckershospitalreview.com/finance/montefiore-posts-1-4-operating-margin-in-2025/ ; https://projects.propublica.org/nonprofits/organizations/131740114 ; https://www.healthbeat.org/newyork/2026/02/09/nurses-strike-agreement-hospitals ; https://www.beckershospitalreview.com/finance/hospital-community-investment-vs-tax-breaks-9-things-to-know ; https://www.aha.org/node/707122 ; prior research files aha_intel_gassen.md, aha_intel_suttonwallace.md, aha_intel_gallagher.md, aha_intel_ozuah.md, aha_intel_freesedecker.md, aha_intel_slubowski.md, aha_intel_allen.md, aha_intel_boom.md, aha_intel_trestman.md, aha_intel_coffman.md, aha_intel_vissers.md, aha_intel_hood.md
+
+---
+
+# Section 5: Charity Care Gap
+
+> AHA claims $11 in community benefit for every $1 of tax exemption, but on narrow measures hospitals take about $28 billion in tax breaks and give back about $16 billion in charity care.
+
+AHA's public story is that nonprofit hospitals are "cornerstones of their communities," returning far more in community benefit than they receive in tax breaks. In January 2026 it repeated the claim in round numbers: **$149 billion in community benefit against $13.2 billion in federal tax exemptions in 2022, about $11 for every $1.** Independent estimates tell a different story, and so does the record of AHA board members' own institutions. In 2026, so did the chairman of the House tax-writing committee.
+
+### Two Ledgers
+
+| Measure | AHA / EY (2022) | Independent estimates |
+|---|---|---|
+| Value of tax exemption | $13.2B (federal only) | $28B (KFF, 2020); $37.4B federal + state + local (academic estimate, 2021) |
+| What hospitals give back | $149B "community benefit" | $16B charity care (KFF, 2020); $15.7B charity care, 17% of $94B reported community benefit (CRS, 2021) |
+| Result | ~$11 per $1 | $11.5B/yr fair share deficit across ~1,800 hospitals in 20 states (Lown, 2020–2022) |
+
+The gap is definitional. AHA's number counts Medicaid shortfalls, unreimbursed Medicare, research and education. The Congressional Research Service found unreimbursed Medicare alone was about 45% of reported community benefit spending in 2021. It also found that 80% of hospitals spent less on community benefit than their tax breaks were worth.
+
+On April 28, 2026, Ways and Means Chairman Jason Smith used the narrow numbers: **about $28 billion in tax breaks against about $16 billion in charity care**. He said the difference goes to real estate and stadium naming rights. Before the hearing, he called nonprofit systems "hedge funds with hospital beds."
+
+### The Fair Share Scoreboard (Lown Institute, 2025 report, 2020–2022 data)
+
+The Lown Institute's latest fair share report was published in April 2025. It is the most recent edition; Lown has not released one in 2026. The 2025 edition found:
+
+- **Tax breaks:** $26 billion a year.
+- **Community investment:** $22.4 billion a year.
+- **Deficit:** $11.5 billion a year across the 54% of hospitals that fell short.
+- **Large deficits:** 12 hospitals each had a deficit above $100 million.
+
+AHA board members' institutions appear on both sides of the ledger:
+
+| Board Member (2027 role) | Institution | Lown fair share result |
+|---|---|---|
+| J.P. Gallagher (trustee) | Evanston Hospital (Endeavor) | **-$152M/yr**, 6th-largest deficit in the country |
+| Debra Albert (trustee) | NYU Langone: Tisch Hospital | **-$93M/yr** (2025 report); NYU Langone Hospitals -$222M, 3rd worst nationally (2024 report, 2021 data) |
+| Michael Slubowski (trustee) | Trinity Health (Michigan hospitals) | **-$86M/yr** system-wide in Michigan; Trinity Ann Arbor -$33M, Grand Rapids -$23M. The 2024 report put Trinity's national deficit at -$784M, 4th among systems |
+| Tina Freese Decker (leaves Dec. 31, 2026) | Corewell Butterworth (Grand Rapids) | **-$37M/yr**, Michigan's largest hospital deficit; 75% of Michigan hospitals ran deficits totaling $605M/yr |
+| Marc Boom (Immediate Past Chair) | Houston Methodist Hospital | **+$37M/yr surplus**; Baytown +$55M, Willowbrook +$26M |
+| Michael Ugwueke (trustee) | Methodist University Hospital (Memphis) | **+$63M/yr surplus** |
+| Philip Ozuah (trustee) | Montefiore Medical Center | +$76M surplus (2019 data) |
+
+*Correction:* earlier versions of this page gave Houston Methodist a -$222 million deficit. That figure belongs to NYU Langone. Lown's 2025 data shows Houston Methodist's main hospital in surplus. Houston Methodist's weak marks come elsewhere: a D grade for equity on the Lown Hospitals Index, ranking 3,724 of 3,764 hospitals.
+
+AHA's response to the 2025 report came from Rick Pollack. He called such reports "distractions" built on "methodology that directly omits essential information." AHA and the Catholic Health Association released their own community benefit report one week before Lown's.
 
 ### The Community Benefit Shell Game
 
-AHA's flagship claim — that nonprofit hospitals return $10+ in community benefit for every $1 in tax exemption — relies on self-reported Form 990 Schedule H data. The numbers look impressive until you examine what counts as "community benefit":
+- **Intermountain Health (Allen):** claims $1.3 billion in community benefit (2023), mostly Medicaid shortfalls, education, research and "community building." Had it been for-profit, it would have owed an estimated $362 million more in taxes. Narrowly defined charity care is a fraction of the headline.
+- **Methodist Le Bonheur (Ugwueke):** claims $293 million in community benefit (2023). Free care to uninsured patients, as a share of revenue and tax-exemption value, has never been transparently broken out.
+- **Allina Health (Shannon):** reported $608 million in community benefit (2022), but actual charity care was under 0.5% of expenses (2020), against a ~2% national average.
+- **UnityPoint Health (Glasgo):** claims $1.3 billion using the same padded methodology.
+- **The witness table, April 28, 2026:** nonprofit systems cited community benefit of $5.2 billion (CommonSpirit) and $2.4 billion (NewYork-Presbyterian) to justify their exemptions.
 
-**Intermountain Health** (Allen, board member): Claims $1.3 billion in community benefit (2023). This includes Medicaid shortfalls, health professions education, research, and broad "community building activities." Had Intermountain been for-profit, it would have owed an additional $362 million in taxes. The $1.3B figure is designed to dwarf the $362M gap — but the narrowly defined charity care (free or discounted care to uninsured/underinsured patients) is a fraction of the headline number.
-
-**Methodist Le Bonheur Healthcare** (Ugwueke, board member): Claims $293 million in community benefit (2023). "The actual free charity care to uninsured poor patients, as a percentage of MLH's total revenue and tax exemption value, has never been transparently broken out."
-
-**Allina Health** (Shannon, board member): Reports $608 million in community benefit (2022). Actual charity care spending (2020): **<0.5% of total expenses** — well below the ~2% national average.
-
-**UnityPoint Health** (Glasgo, board member): Claims $1.3 billion in community benefit using the same inflated methodology — Medicaid shortfalls, education, and research padded into a number that "substantially exceeds actual free care to uninsured patients."
-
-Senate investigators have noted that Medicaid shortfalls and bad debt — which many health policy experts do not consider genuine community benefit — dominate these figures. AHA opposes any change to the reporting methodology.
+At the September 16, 2025 Ways and Means Oversight hearing, Subcommittee Chair David Schweikert signaled support for expanded Schedule H disclosure and facility-level reporting. Large systems currently report only at the system level, which hides which hospitals carry the charity load. AHA opposes changing the methodology.
 
 ### Suing the Poor: The Collections Machine
 
-While AHA lobbies Congress to protect its members' tax-exempt status, board members lead systems that aggressively pursue the patients those exemptions are supposed to help.
+#### Methodist Le Bonheur Healthcare (Michael Ugwueke, trustee; re-elected to a full term from 2027)
 
-#### Methodist Le Bonheur Healthcare (Michael Ugwueke, board member)
+- 8,300+ lawsuits against patients (2014–2018), more than all but one creditor in Shelby County.
+- Wages garnished in 46% of cases, against 36% at Regional One and 20% at Baptist.
+- **It sued its own employees.** A housekeeper earning $16,000 a year was sued for $23,000, and the system garnished the wages of 70+ workers.
+- Patient Carrie Barrett, first sued in 2010, had interest added seven times and her paycheck garnished 15 times. Her debt reached $33,000.
+- MLH owns its own collection agency.
+- Of 977,000+ patients with bills at least 30 days past due, only 1% received financial assistance during collections.
 
-The most documented case of patient litigation by an AHA board member's system:
+AHA re-elected its CEO to a full three-year board term in July 2026.
 
-- **8,300+ lawsuits** filed against patients (2014–2018) — more than all but one creditor in Shelby County.
-- **Wage garnishment in 46% of cases** — the most aggressive rate among Memphis hospital systems (vs. 36% at Regional One, 20% at Baptist).
-- **Sued its own employees:** Dozens of MLH workers sued for unpaid medical bills. A hospital housekeeper making $16,000/year was sued for $23,000. MLH garnished wages of 70+ of its own employees.
-- **Decade-long pursuit:** Patient Carrie Barrett was sued in 2010. Methodist added interest seven times and garnished her paycheck 15 times. Her debt ballooned to $33,000 — more than twice her annual income.
-- **Owns its own collection agency** — an unusual vertical integration that allows the system to profit from the debt cycle rather than merely outsourcing collections.
-- Of 977,000+ patients with bills at least 30 days past due, **only 1% received any financial assistance** during the collections process.
+#### Carilion Clinic (Robert Trestman, leaves the board Dec. 31, 2026)
 
-This is the same institution whose CEO sits on the AHA Board of Trustees. Under Pollack, AHA issued no public statement.
+- 33,000 court judgments against patients in Roanoke small claims court (2003–2008), 40% of that court's entire caseload.
 
-#### Carilion Clinic (Robert Trestman, board member)
+#### Allina Health (Lisa Shannon, trustee)
 
-- **33,000 court judgments** obtained against patients in Roanoke's small claims court (2003–2008) — accounting for **40% of the court's entire casebase**.
-- Garnished wages of patients who "could not afford basic necessities, including a house painter too poor to own a telephone."
+- Canceled appointments for patients with more than $4,500 in debt, including patients with chronic conditions. The New York Times exposed the policy, prompting a Minnesota AG inquiry (2023).
 
-#### Allina Health (Lisa Shannon, board member)
+#### Yale New Haven (Sutton-Wallace, trustee)
 
-- Maintained a policy of **canceling appointments for patients with >$4,500 in debt**, including patients with chronic conditions requiring ongoing care.
-- Exposed by the New York Times, leading to a Minnesota AG investigation (2023).
+- A long-running class action over inflated charges, liens and wage garnishment against uninsured patients remains part of the system's record.
 
 ### Executive Compensation vs. Charity Care
 
-The ratio between what AHA board members pay themselves and what their institutions spend on charity care reveals priorities:
-
-| Board Member | System | CEO Compensation | Charity Care Context |
+| Board Member (2027 role) | System | CEO Compensation | Context |
 |-------------|--------|-----------------|---------------------|
-| Philip Ozuah | Montefiore | **$16.36M** (2023) | 94x a Congressman's salary; nurses struck over staffing |
-| Tina Freese Decker | Corewell Health | **$6.73M** (2023) | $31M cumulative; 10,000 nurses voted to authorize strike |
-| Gerald Gallagher | Endeavor Health | **$6.3M** (2023) | $24M cumulative; $152M/yr fair share deficit |
-| Michael Slubowski | Trinity Health | **$5.34M** (2023) | $19M cumulative; $784M fair share deficit |
-| Bill Gassen | Sanford Health | **$3.3M** (2021) | $20.25M False Claims Act settlement |
-| Lisa Shannon | Allina Health | **$3.08M** (2023) | <0.5% of expenses on charity care |
-| Michael Ugwueke | Methodist Le Bonheur | **$2.8M** (2022) | 38.2x average staff pay; 8,300+ patient lawsuits |
+| Philip Ozuah | Montefiore Einstein | **$16.69M** (FY2024) | Up 68% in two years; 2025 operating loss of $120.9M; 15,000-nurse strike in 2026 |
+| Tina Freese Decker (departing) | Corewell Health | $6.73M (2023) | 10,000 nurses voted to authorize a strike |
+| J.P. Gallagher | Endeavor Health | $6.3M (2023) | -$152M/yr fair share deficit at its flagship |
+| Michael Slubowski | Trinity Health | $5.34M (2023) | -$784M national fair share deficit (2024 report) |
+| Bill Gassen (2027 Chair) | Sanford Health | $3.3M (2021) | $20.25M False Claims Act settlement |
+| Lisa Shannon | Allina Health | $3.08M (2023) | <0.5% of expenses on charity care |
+| Michael Ugwueke | Methodist Le Bonheur | $2.8M (2022) | 38.2x average staff pay; 8,300+ patient lawsuits |
+| Pamela Sutton-Wallace | Yale New Haven | $1.67M (2023) | Now Acting CEO; $197M FY2025 operating loss |
 
-**NYU Langone** (Albert, board member): Former CEO Robert Grossman earned $22.8M in 2023. Total executive compensation of $41.9M represents **39% of the system's entire charity care budget** of $108M. One executive earned 21% of all charity spending.
+- **NYU Langone (Albert):** former CEO Robert Grossman earned $22.8 million in 2023. Total executive compensation of $41.9 million equaled 39% of the system's $108 million charity care budget.
+- **Sentara Health (Hancock):** holds $6 billion in net assets, "partly because it pays no taxes." The Checks and Balances Project filed an IRS complaint alleging Sentara charges uninsured patients more than insured ones.
 
-**Montefiore** (Ozuah, board member): Nine executives combined for $32M+ in 2023 while nurses struck over unsafe staffing ratios, overcrowded emergency departments, and patients on hallway stretchers. Residents described themselves as "exploited."
-
-**Sentara Health** (Hancock, board member): Amassed $6 billion in net assets — "partly because it pays no taxes." The Checks and Balances Project filed a formal IRS complaint alleging Sentara charges uninsured patients higher rates than insured patients.
-
-### False Claims Act Settlements: The Compliance Record
-
-AHA board members lead systems with a pattern of federal fraud settlements:
+### False Claims Act: The Compliance Record
 
 | System | Board Member | Settlement | Allegations |
 |--------|-------------|------------|-------------|
-| Beaumont/Corewell | Freese Decker | **$84.5M** | Improper physician financial relationships (Anti-Kickback/Stark, 2004–2012) |
-| Sanford Health | Gassen | **$20.25M** | Anti-Kickback violations, medically unnecessary spinal surgeries |
-| Houston Methodist | Boom | **$9.99M** | Inflated charges for Medicare outlier payments |
-| Yale New Haven | Sutton-Wallace | Undisclosed | Billing at physician rates for work done by nurses/PAs |
-| Methodist Le Bonheur | Ugwueke | **Active DOJ suit** | False Claims Act litigation ongoing |
+| Beaumont/Corewell | Freese Decker (departing) | $84.5M | Improper physician financial relationships (Anti-Kickback/Stark, 2004–2012) |
+| Sanford Health | Gassen (2027 Chair) | $20.25M + $625K (2013) | Anti-Kickback violations, medically unnecessary spinal surgeries; Corporate Integrity Agreement |
+| Houston Methodist | Boom | $9.99M | Inflated charges to obtain Medicare outlier payments (2001–2003) |
+| Methodist Le Bonheur | Ugwueke | **$7.25M (Jan. 4, 2024)** | Alleged kickbacks to West Clinic disguised as a management affiliation (2011–2019) |
+| Yale New Haven | Sutton-Wallace | $560,718 (May 2023) | Bridgeport hospitalist billing, 2014–2020 |
 
-Sanford's settlement is particularly striking: a 111-page complaint alleged the executive team received "numerous warnings" from physician whistleblowers about a neurosurgeon running an unnecessary-surgery kickback scheme and "repeatedly failed to take corrective measures." Sanford had already paid $625,000 in 2013 to settle earlier false claims from the same surgeon.
+*Correction:* earlier versions listed the Methodist Le Bonheur case as "active DOJ litigation." It settled in January 2024 for $7.25 million with no admission of liability. Methodist said the amount was under 3% of what the government originally sought.
+
+Sanford's case is the starkest. A 111-page complaint alleged executives received "numerous warnings" from physician whistleblowers about a neurosurgeon's kickback and unnecessary-surgery scheme and "repeatedly failed to take corrective measures." Sanford had already paid $625,000 in 2013 over the same surgeon. Its CEO takes the AHA chair on Jan. 1, 2027.
+
+*No new 2025–2026 False Claims Act settlements involving board members' systems were found in this update. That covers the incoming trustees' systems (HCA, Hartford, Inova) only as far as the search budget allowed.*
 
 ### Labor: Strikes, Layoffs, and Offshoring
 
-While AHA's public messaging emphasizes the "healthcare heroes" narrative, board members' systems face serial labor conflicts:
-
-**Strikes and near-strikes:**
-- **Montefiore** (Ozuah): ~15,000 NYSNA nurses walked off the job. Nurses accused management of "corporate greed" and "Bronx disinvestment."
-- **Corewell Health** (Freese Decker): ~10,000 nurses voted ~90% to authorize a strike over safe staffing ratios — the third-largest hospital union organizing effort nationally since 2019. Corewell eliminated premium pay for unit reassignment and canceled student loan repayment programs.
-- **Allina Health** (Shannon): A 41-day nurses' strike in 2016 (one of the longest in U.S. healthcare history). A 2022 Minnesota-wide strike affecting Allina facilities. And in 2025, 600+ physicians held the first physician strike in Minnesota history.
-- **Endeavor Health** (Gallagher): Federal lawsuit alleging FLSA violations — unpaid pre-shift duties, forced work through breaks, uncompensated overtime. Complaint cites "deliberate understaffing to cut costs" and 55 patient falls reported at three hospitals in 2024.
-
-**Offshoring:**
-- **Corewell Health** (Freese Decker): ~186 billing/finance employees fired via Zoom call with one day's notice; work outsourced to India. Despite prior assurances their jobs were safe. Five weeks' severance offered.
-
-**Layoffs:**
-- **Bristol Health** (Barwis): Eliminated 60 FTE positions while CEO earned ~$800K — at a system under going-concern audit doubt.
-- **Corewell Health**: Additional rounds of 400+ management cuts post-merger.
+- **Montefiore (Ozuah):** about 15,000 NYSNA nurses at Montefiore, Mount Sinai and NewYork-Presbyterian struck from **Jan. 12 to Feb. 9, 2026**. It was the largest and longest nurses' strike in New York City history, and Gov. Hochul declared a state of emergency. The settlement added $15,000 to base pay over three years. The three systems spent about $100 million on replacement nurses. In May 2026, Montefiore told 12 utilization-review nurses their jobs would be replaced by AI software.
+- **Yale New Haven (Sutton-Wallace):** about 150 Northeast Medical Group layoff notices (March 2025), about 600 voluntary retirements with a net cut of roughly 200 positions (July 2025), and about 38 management roles restructured (October 2025).
+- **Corewell Health (Freese Decker):** about 10,000 nurses voted ~90% to authorize a strike over staffing ratios. Corewell eliminated unit-reassignment premium pay and canceled student loan repayment. About 186 billing employees were fired over Zoom and their work outsourced to India.
+- **Allina Health (Shannon):** a 41-day nurses' strike (2016), a statewide strike (2022), and in 2025 a strike by 600+ physicians, PAs and NPs, the first physician strike in Minnesota history.
+- **Endeavor Health (Gallagher):** a federal FLSA suit alleges unpaid pre-shift work and "deliberate understaffing to cut costs," citing 55 patient falls at three hospitals in 2024.
+- **Bristol Health (Barwis, departing):** cut 60 FTE positions while the CEO earned about $800,000, at a system under going-concern audit doubt.
 
 ### Facility Fees: The Revenue Model AHA Protects
 
-AHA's opposition to site-neutral payment reform protects a specific revenue extraction mechanism — facility fees charged on outpatient visits at hospital-owned locations:
+- **Houston Methodist (Boom):** charges facility fees at transplant, wound care, radiation oncology and infusion clinics. One patient was billed $6,151.56 for what was described as a 30-minute conversation with a PA.
+- **NYU Langone (Albert):** two bills per visit, one for the physician and one for the "facility." The fees spread with every retail site reclassified as a hospital outpatient department.
+- **Yale New Haven (Sutton-Wallace):** Connecticut system fees more than doubled, from about $748 million (FY2017) to $1.6 billion+ (FY2024).
+- **Endeavor (Gallagher):** did not respond to NBC Chicago's facility-fee investigation.
 
-- **Houston Methodist** (Boom, AHA Chair): Confirmed charging facility fees at transplant, wound care, radiation oncology, and infusion clinics. One patient reported being charged $6,151.56 for what was described as a 30-minute conversation with a PA outside the hospital lobby.
-- **NYU Langone** (Albert): Charges facility fees on outpatient services. Patients receive two bills for a single visit — one for the physician, one for the facility. As NYU Langone expands into suburban and retail-converted ambulatory sites, facility fee revenue grows with each site classified as a hospital outpatient department.
-- **Yale New Haven Health System** (Sutton-Wallace): Health system fees at Connecticut hospitals more than doubled from ~$748M (FY2017) to $1.6B+ (FY2024). YNHHS is a primary driver.
-- **Endeavor Health** (Gallagher): Did not respond to NBC Chicago's investigation into facility-fee practices.
+Washington's numbers make the stakes plain:
 
-This is the revenue stream site-neutral payment reform would equalize. AHA's $29 million lobbying operation exists, in significant part, to ensure these fees remain untouched.
+- **Price gaps:** Smith's examples from April 28, 2026: an ultrasound costs $164 in a physician office and $339 in a hospital outpatient department. A biopsy costs about $150 versus $800.
+- **Savings:** CBO's site-neutral option is cited at more than $170 billion over 10 years.
+- **Concession:** CommonSpirit's CEO conceded under questioning that "there might be opportunities for modifications to the current site-neutral process."
+
+*State facility-fee legislation in 2025–2026 could not be verified for this update.*
+
+### Pressure Points (November 2026)
+
+**IRS**
+- The IRS announced 35 tax-exempt hospital examinations in 2024.
+- In May 2025 it revoked a governmental hospital organization's 501(c)(3) status for failing the Section 501(r) community health needs assessment rules (Letter 202521025).
+- The 2025–2026 Treasury/IRS Priority Guidance Plan includes Section 4960 excise-tax guidance on executive pay above $1 million. A revised Form 990 with more Schedule H transparency is expected within one to three years.
+
+**Congress**
+- **January 2025:** a Ways and Means menu floated eliminating nonprofit status for hospitals, a ~$260 billion, 10-year revenue raiser. It was left out of the final reconciliation law.
+- **September 16, 2025:** the Ways and Means Oversight Subcommittee held a hearing on whether tax-exempt hospitals earn their exemption.
+- **January 28, 2026:** Smith and Schweikert opened an organ transplant inquiry into Montefiore, Ozuah's system, and UChicago Medicine. Smith said hospitals that prioritized foreign nationals "should have their tax-exempt status terminated." No resolution had been reported as of November 2026.
+- **March 18, 2026:** at an Energy & Commerce Health Subcommittee hearing, Pollack testified for AHA on the "provider landscape."
+- **March 30, 2026:** a CRS report laid out minimum charity care requirements, tougher IRS oversight and taxes on hospital assets as options.
+- **April 28, 2026:** the full Ways and Means Committee questioned the CEOs of HCA, CommonSpirit, NewYork-Presbyterian and ECU Health.
+- **Pending legislation:** H.R. 3019 would tie a charity care floor to the value of each hospital's exemption.
+
+**State attorneys general**
+- **Minnesota:** the Sanford–Fairview review produced a law letting the AG enjoin or unwind healthcare deals.
+- **Ohio:** the AG joined DOJ's February 2026 suit against OhioHealth.
+- **Texas:** in October 2025, AG Ken Paxton warned Boom about transplant access for unvaccinated patients. Houston Methodist denied having such a policy.
+
+**Post-Chevron litigation**
+- *Loper Bright* (2024) set off what Bloomberg Tax called a barrage: hundreds of hospitals in dozens of suits against Medicare payment rules.
+- AHA filed an amicus brief in the Medicare DSH case *Advocate Christ*, claiming HHS's reading cost hospitals more than $1 billion a year. The Supreme Court decided the case in 2025 without relying on *Loper Bright*.
+- AHA's own scorecard: it lost twice on price transparency, won unanimously on 340B program reimbursement (2022), and won a preliminary injunction against HHS's 340B rebate pilot.
 
 ---
 
 ### The Pattern
 
 AHA board members lead institutions that:
-1. **Claim billions in community benefit** using inflated methodology that counts Medicaid shortfalls and education as charity
-2. **Carry hundreds of millions in fair share deficits** — receiving more in tax exemptions than they return
-3. **Sue thousands of patients**, garnish wages of their own employees, and cancel appointments for patients in debt
-4. **Pay executives $3–16 million** while claiming financial hardship to oppose payment reform
-5. **Settle federal fraud cases** for tens of millions while lobbying against enhanced oversight
-6. **Face serial labor conflicts** over unsafe staffing while offshoring jobs and cutting frontline pay
-7. **Charge facility fees** that double the cost of outpatient visits — the exact practice their $29M lobbying operation protects
 
-These are not outliers. They are the institutions whose leaders sit on the AHA Board of Trustees, set national policy, and direct the lobbying machine. The gap between AHA's public mission ("advancing health in America") and its members' documented behavior is not rhetorical — it is measurable in billions of dollars, thousands of lawsuits, and tens of thousands of garnished paychecks.
+1. Claim $149 billion in "community benefit" using a definition that counts Medicaid shortfalls and Medicare losses. On narrow measures, the charity care is about $16 billion, against $28 billion or more in tax breaks.
+2. Include hospitals with some of the country's largest fair share deficits, including Evanston at -$152 million a year.
+3. Sue thousands of patients, garnish their own employees' wages and cancel appointments over debt.
+4. Pay CEOs $1.7 million to $16.7 million while posting operating losses and pleading hardship.
+5. Settle federal fraud cases ranging from $560,000 to $84.5 million. The 2027 chair's system has a Corporate Integrity Agreement on its record.
+6. Face the largest nurses' strike in New York City history, physician strikes, layoffs and offshoring.
+7. Charge facility fees that double or quadruple the price of the same service, the practice AHA's lobbying exists to protect.
 
----
-
-*Sources: aha_intel_boom.md, aha_intel_albert.md, aha_intel_gallagher.md, aha_intel_slubowski.md, aha_intel_allen.md, aha_intel_ugwueke.md, aha_intel_shannon.md, aha_intel_hancock.md, aha_intel_freesedecker.md, aha_intel_ozuah.md, aha_intel_trestman.md, aha_intel_gassen.md, aha_intel_glasgo.md, aha_intel_barwis.md, aha_intel_suttonwallace.md, aha_intel_hirsch.md, aha_intel_pollack.md*
+AHA's response to all of this has not changed under its new chief executive: dispute the methodology and defend the exemption. In 2027 it re-seats the CEO whose system sued 8,300 patients and hands the gavel to the CEO whose system paid $20.25 million to settle kickback allegations.
 
 ---
 
-## Section 4 — The Consolidation Machine: How AHA Members Build Market Power
-
-AHA's lobbying operation does not merely protect existing revenue — it enables a consolidation strategy that concentrates market power in the hands of its board members' systems. The pattern is consistent: acquire competitors, absorb physician practices, leverage Certificate of Need laws to block new entrants, extract facility fees from converted sites, and use AHA's $29 million lobbying apparatus to resist every form of oversight.
-
-### The Merger Scoreboard
-
-AHA board members lead systems with aggressive acquisition records:
-
-#### Sanford Health (Bill Gassen — 2027 AHA Chair)
-
-The most prolific serial acquirer on the AHA board. Four merger attempts in six years:
-
-| Target | Year | Outcome |
-|--------|------|---------|
-| Mid Dakota Clinic (Bismarck) | 2017 | **Blocked by FTC** — would create 75–85% market share in four physician specialties |
-| UnityPoint Health (Iowa) | 2019 | Collapsed |
-| Intermountain Health | 2020 | Collapsed |
-| Fairview Health (Minnesota) | 2023 | **Killed by MN AG** antitrust investigation (3,500+ public comments); MN legislature enacted new law giving AG power to enjoin/unwind healthcare transactions |
-| Prairie Lakes Healthcare | 2024 | Completed |
-| Marshfield Clinic Health System | 2025 | Completed |
-
-The FTC found the blocked Mid Dakota deal would create "a near monopoly provider of physician services in the Bismarck-Mandan area" likely leading to "higher reimbursement rates and higher premiums for consumers." Gassen's response to the Fairview collapse — citing lack of "support from certain Minnesota stakeholders" — did not acknowledge the AG's antitrust concerns. He proceeded to become AHA's incoming chair.
-
-#### Yale New Haven Health System (Pamela Sutton-Wallace — board member)
-
-Connecticut's dominant system, executing a methodical consolidation strategy:
-
-- **Lawrence + Memorial Hospital acquisition:** YNHHS grew from **14% to 83% market share** in L+M's primary service area post-acquisition.
-- **Prospect Medical Holdings acquisition (2024):** Added Waterbury Hospital (357 beds), Manchester Memorial (249 beds), and Rockville General (102 beds). If completed, YNHHS would control **~35% of all CT hospital operating revenue.**
-- **Overall:** If all proposed mergers statewide completed, more than **80% of Connecticut's patients** would receive care from hospitals owned by large multi-hospital systems. YNHHS and Hartford HealthCare are the two dominant players.
-
-**The facility fee payoff:** Health system fees at Connecticut hospitals more than doubled from ~$748M (FY2017) to **$1.6B+ (FY2024)**. YNHHS is a primary driver. These fees are "a direct consequence of physician practice acquisitions and facility reclassification" — converting community-based care into hospital-outpatient-department billing at higher reimbursement rates.
-
-The $6M community benefit commitment attached to the Prospect acquisition represents roughly **0.04% of annual system revenue**.
-
-#### Endeavor Health (Gerald Gallagher — board member)
-
-A case study in persistent consolidation through serial antitrust encounters:
-
-- **Evanston–Highland Park merger (2000):** FTC and an administrative law judge found the merger **anticompetitive and in violation of federal antitrust law** (2007 ruling). Led to a **$55 million class-action settlement** for overcharging consumers.
-- **NorthShore–Advocate merger (blocked 2017):** Would have created >50% inpatient market share in northern Chicago suburbs.
-- **NorthShore–Edward-Elmhurst merger (2022):** Approved, creating Illinois' third-largest system. Research consistently shows hospital prices rise after mergers, especially between close competitors.
-
-Gallagher led the last two merger attempts. "The pattern is one of persistent consolidation pursuit."
-
-#### Montefiore Medicine (Philip Ozuah — board member)
-
-- Grew from **4 hospitals in 2010 to 11 by 2019** plus 250 ambulatory centers, a nursing home, and a home care agency.
-- Creates a **near-monopoly dynamic in the Bronx** — serving a population with few alternatives.
-- Acquisition strategy redirected capital investment from the Bronx toward wealthier Westchester communities. Nurses call it a "two-tier health system."
-- Congressional oversight hearing specifically focused on Montefiore's "anticompetitive behavior through provider consolidation."
-
-#### Corewell Health (Tina Freese Decker — immediate past chair)
-
-- Spectrum Health + Beaumont Health merger (2022): Created Michigan's largest health system (21 hospitals, 60,000+ employees, ~$11.5B revenue).
-- FTC issued an unusual "second request" for additional information — significant for a cross-market merger with no local overlap. A former FTC official called it "significant."
-- FTC ultimately allowed the merger to proceed. **No financial commitments extracted** — Beaumont's $4 billion reserve was absorbed without restrictions.
-- Former Beaumont CEO John Fox received a **$10.2 million departure package** (~$50M over his seven-year tenure).
-
-#### Trinity Health (Michael Slubowski — board member)
-
-- **MercyOne acquisition:** Absorbed 16 medical centers and 400+ sites of care in Iowa, adding $3 billion in revenue.
-- When Trinity acquires a community's sole hospital, patients lose access to reproductive health services (sterilization, contraception) with no local alternative — driven by the Ethical and Religious Directives governing Catholic health systems.
-- Case study: A Michigan patient sought sterilization surgery, was refused by Trinity, went to an independent hospital — which Trinity then acquired, eliminating the alternative.
-- 43% of 2025 healthcare M&A transactions involved financially distressed parties — giving acquirers like Trinity significant leverage.
-
-#### Intermountain Health (Robert Allen — board member)
-
-- **SCL Health merger (April 2022):** Created a 33-hospital system expanding into Colorado, Montana, and Kansas.
-- **Vertical integration:** Operates SelectHealth insurance (~1 million members in Utah and Idaho), creating a payer-provider model where the system is both the insurer and the care provider. Same structural concerns raised about Kaiser Permanente.
-- **Dominant in Utah** by hospital count, clinic footprint, and insurance enrollment. Vertical integration gives "significant leverage in contract negotiations with employers and other payers."
-- Intermountain publicly pushed back on the Biden administration's 2021 executive order targeting hospital consolidation — directly aligned with AHA's position.
-
-### Certificate of Need: The Incumbent Protection Racket
-
-Certificate of Need (CON) laws require state approval before new healthcare facilities can be built or expanded. AHA board members' systems use CON as a barrier to entry — then lobby to preserve the framework through state hospital associations that feed into AHA's regional policy boards.
-
-#### Yale New Haven Health System (Connecticut)
-
-- YNHHS is "a dominant player in Connecticut's CON process." The system's "administrative, legal, and lobbying capacity gives it an outsized advantage in navigating CON requirements" that smaller organizations cannot match.
-- **Proton therapy case:** A proposed Danbury proton therapy center was denied through the CON process, while YNHHS and Hartford HealthCare lobbied successfully for approval of their own joint facility in Wallingford — "effectively blocking a competitor while securing the same service for themselves."
-- Connecticut's CON program has been characterized as "favoring large incumbent systems." CON reform efforts "dissolved in the final weeks of the 2024 CT legislative session" — a result that benefits incumbents.
-- State Senator Ryan Fazio: "The Yale New Havens of the world are going to have the administrative, the legal, the lobbying capacity to manage that."
-
-#### Carilion Clinic (Virginia — Robert Trestman, board member)
-
-- Virginia operates a Certificate of Public Need (COPN) program. Carilion actively lobbies on COPN laws — "the very regulatory framework that protects its monopoly status."
-- COPN laws "have historically been criticized as tools that protect incumbent hospital monopolies by blocking new competitors from entering the market."
-- The FTC brought an administrative complaint in 2008–2009 after Carilion acquired two outpatient clinics (Odyssey Imaging) that had been marketed as low-cost, independent alternatives. FTC ruled the acquisitions were illegal and anti-competitive; Carilion was forced to divest but retained its broader monopoly position.
-- DOJ's 1989 antitrust suit against Carilion failed, allowing further consolidation. The result: a rural hospital monopoly with documented monopolistic pricing and 33,000 court judgments against patients.
-
-#### Louisiana (Joan Coffman — board member, RPB 7 Chair)
-
-- Louisiana adopted its CON program in **1991** — *after* the federal mandate was repealed in 1986 and other states were abandoning theirs.
-- The Louisiana Hospital Association "has historically opposed CON reform efforts that would open markets to new competitors" — a position directly benefiting incumbent hospitals like Coffman's St. Tammany Health System.
-- Coffman simultaneously sits on the LHA Board (which lobbies to preserve CON) and the AHA Board (which shapes national policy on competition). The circularity is structural.
-
-### The GPO-to-AHA Pipeline
-
-Vizient, the nation's largest hospital group purchasing organization, functions as a governance feeder system for AHA board positions:
-
-- **Joan Coffman** (St. Tammany): Vizient Southern States Board Chair → AHA Board Trustee.
-- **Robert Vissers** (Boulder Community): Vizient Board of Directors Chairman → AHA Board.
-- **Michelle Hood** (AHA EVP/COO): Vizient New England Board member.
-
-The Vizient chair role "signals peer CEO credibility and signals alignment with the GPO-hospital complex that drives industry economics." GPOs earn administrative fees (typically 1–3% of contract value) from vendors. Member hospitals that participate in GPO governance "may receive preferential contract terms, early access to pricing, or enhanced rebate structures." Fee structures and member-specific rebate arrangements are "generally not publicly transparent."
-
-Coffman's overlapping roles illustrate the density: AHA Board + AHA RPB 7 Chair + Vizient Southern States Past Chair + LHA Board + Ochsner Health Network Board. "Each role amplifies the others — AHA Board status elevates her in LHA deliberations; LHA influence feeds into AHA regional policy; Vizient relationships support Ochsner network negotiations."
-
-### Vertical Integration: The Full-Stack Hospital
-
-AHA's most powerful members are not just hospital operators — they are vertically integrated enterprises controlling multiple layers of the healthcare value chain:
-
-| System | Board Member | Hospitals | Ambulatory Sites | Insurance Arm | Other |
-|--------|-------------|-----------|-------------------|---------------|-------|
-| Intermountain | Allen | 33 | 385+ clinics | SelectHealth (~1M members) | Pharmacy |
-| Houston Methodist | Boom (Chair) | 8 | Expanding network | — | $1.15B real estate, Federal Reserve board |
-| Montefiore | Ozuah | 13 | 250+ centers | — | Nursing home, home care |
-| Yale New Haven | Sutton-Wallace | 7+ | Growing | — | 35% of CT hospital revenue |
-| Corewell | Freese Decker | 21 | Extensive | Priority Health | 60,000 employees |
-| Trinity | Slubowski | 92 | 400+ sites | — | $23.9B revenue |
-
-**The acquisition-to-facility-fee pipeline:** When a system acquires an independent physician practice or outpatient clinic and reclassifies it as a hospital outpatient department (HOPD), Medicare reimbursement increases and facility fees become chargeable. This is why AHA opposes site-neutral payment reform — it would eliminate the financial incentive for the acquisition strategy that drives consolidation.
-
-Houston Methodist exemplifies the loop: acquire outpatient locations → reclassify as HOPDs → bill chemotherapy through 340B → generate $50 million in profits in one year → charge facility fees on top → use AHA lobbying to block site-neutral reform that would end the arbitrage.
-
-### The Pricing Power Payoff
-
-Consolidation produces measurable pricing power:
-
-- **Houston Methodist:** Charges **more than 2x peer institutions** for comparable services. Baker Institute found Methodist omitted major insurer prices (BCBSTX, UHC PPO) from its transparency file.
-- **Carilion Clinic:** A 2008 Wall Street Journal investigation exposed monopolistic pricing in the Roanoke market — prices far exceeding comparable services in competitive markets.
-- **Endeavor Health (NorthShore):** The Evanston–Highland Park merger led to a $55 million class-action settlement for **overcharging consumers** — the FTC found the merger was anticompetitive.
-- **Yale New Haven:** System fees at CT hospitals doubled to $1.6B+ as YNHHS consolidated. Research cited by Connecticut Public "suggests consolidation drives up healthcare spending without producing significant patient benefits."
-- **Sanford Health:** The FTC explicitly found the blocked Mid Dakota deal would lead to "higher reimbursement rates and higher premiums for consumers."
-
-Academic research consistently shows hospital prices rise after mergers, especially between close competitors. AHA's response: criticize "the approach and framework the Federal Trade Commission has employed to review hospital transactions."
-
-### How It All Connects
-
-The consolidation machine is a closed loop:
-
-1. **Acquire** — hospitals, physician practices, ambulatory sites, outpatient clinics
-2. **Reclassify** — convert independent sites to hospital outpatient departments
-3. **Extract** — charge facility fees, bill through 340B, leverage market power for higher negotiated rates
-4. **Protect** — use CON laws to block competitors, lobby AHA to fight site-neutral reform and antitrust scrutiny
-5. **Govern** — place system CEOs on AHA board, where they set the lobbying agenda that protects the model
-6. **Repeat** — use accumulated reserves and market position to fund the next acquisition
-
-AHA's $29 million lobbying operation exists to keep this flywheel spinning. Every policy it opposes — site-neutral payment, price transparency, enhanced antitrust review, CON reform, 340B accountability — threatens a different spoke of the wheel. The board members who direct the lobbying are the same executives running the systems that benefit from the consolidation. The conflicts are not incidental. They are the design.
+Sources: https://www.aha.org/news/blog/2026-01-08-hospital-benefits-communities-far-outweigh-tax-exemptions-closer-look-numbers ; https://lownhospitalsindex.org/wp-content/uploads/2025/04/fair-share-2025-national-report-20250409.pdf ; https://lownhospitalsindex.org/?p=15735 ; https://lownhospitalsindex.org/wp-content/uploads/2025/04/Texas_state-report.pdf ; https://lownhospitalsindex.org/wp-content/uploads/2025/04/Michigan_state-report.pdf ; https://www.beckershospitalreview.com/finance/hospital-community-investment-vs-tax-breaks-9-things-to-know ; https://beckershospitalreview.com/rankings-and-ratings/10-hospitals-health-systems-where-charity-care-lags-behind-tax-breaks.html ; https://www.aha.org/press-releases/2025-04-16-aha-statement-lown-institute-fair-share-report ; https://www.everycrsreport.com/reports/IF13192.html ; https://www.pwc.com/us/en/services/tax/library/continued-scrutiny-of-nonprofit-hospital-tax-exempt-status.html ; https://www.hfma.org/accounting-and-financial-reporting/the-hospital-tax-exemption-comes-under-scrutiny-in-congress/ ; https://www.withum.com/?p=132042 ; https://news.bloombergtax.com/daily-tax-report/ways-and-means-chair-hits-hospital-tax-exempt-status-bgov-tax ; https://waysandmeans.house.gov/?p=20051 ; https://legis1.com/news/hospital-pricing-extortion-ceos-face-fire-over ; https://essentialhospitals.org/on-the-hill-dhs-shutdown-ends-health-system-ceos-face-congress/ ; https://www.pulse.bot/healthcare/news/site-neutral-payment-debate-intensifies-in-hospital-affordability-hearing-af161b2a-cd17-48f3-9eca-4fb41624986d/ ; https://d1dth6e84htgma.cloudfront.net/03_18_2026_HE_Hearing_Memorandum_0a8170f092.pdf ; https://ahiporg-production.s3.amazonaws.com/documents/FINAL-03.18.26-AHIP_EC_Hearing_Statement_Examination_of_the_Provider_Landscape.pdf ; https://taxnews.ey.com/news/2025-1237-irs-revokes-tax-exempt-status-of-government-hospital-organization-that-failed-to-meet-the-community-health-needs-assessment-requirements-of-irc-section-501r ; https://www.justice.gov/usao-mdtn/pr/memphis-based-methodist-le-bonheur-healthcare-and-methodist-healthcare-memphis ; https://www.localmemphis.com/article/news/health/methodist-le-bonheur-healthcare-settlement-federal-lawsuit-partnership-west-clinic-memphis/522-40096c1c-873b-4a0c-9cf4-c58432505ae9 ; https://www.justice.gov/usao-ct/pr/hospital-owner-and-hospitalist-group-agree-pay-560k-settle-false-claims-act-allegations ; https://oig.hhs.gov/fraud/enforcement/sanford-health-entities-to-pay-2025-million-to-settle-false-claims-act-allegations-regarding-kickbacks-and-unnecessary-spinal-surgeries ; https://news.bloombergtax.com/social-justice/medicare-faces-barrage-of-hospital-pay-cases-after-chevrons-end ; https://www.yalejreg.com/wp-content/uploads/Gluck-et-al.-Bulletin.-Healthcare-Law-in-the-First-Year-After-Loper-Bright.pdf ; https://www.realclearhealth.com/2026/04/27/the_monopoly_tax_on_your_health_insurance_1179221.html ; https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board ; https://projects.propublica.org/nonprofits/organizations/131740114 ; https://www.healthbeat.org/newyork/2026/02/09/nurses-strike-agreement-hospitals ; https://waysandmeans.house.gov/2026/01/28/smith-schweikert-investigate-allegations-of-foreign-nationals-jumping-u-s-organ-transplant-line/ ; https://www.beckershospitalreview.com/finance/montefiore-posts-1-4-operating-margin-in-2025/ ; https://www.wshu.org/connecticut-news/2025-03-24/ct-ynhh-layoffs-northeast-medical-group ; https://siviq.co/nonprofits/people/pamela-sutton-wallace ; prior research files aha_intel_boom.md, aha_intel_albert.md, aha_intel_gallagher.md, aha_intel_slubowski.md, aha_intel_allen.md, aha_intel_ugwueke.md, aha_intel_shannon.md, aha_intel_hancock.md, aha_intel_freesedecker.md, aha_intel_trestman.md, aha_intel_gassen.md, aha_intel_glasgo.md, aha_intel_barwis.md
 
 ---
 
-*Sources: aha_intel_gassen.md, aha_intel_suttonwallace.md, aha_intel_gallagher.md, aha_intel_ozuah.md, aha_intel_freesedecker.md, aha_intel_slubowski.md, aha_intel_allen.md, aha_intel_boom.md, aha_intel_trestman.md, aha_intel_coffman.md, aha_intel_vissers.md, aha_intel_hood.md, aha_intel_pollack.md, aha_intel_hughes.md, aha_intel_barwis.md*
+# Section 6: Bottom Line
+
+> New CEO, new chair, same agenda: protect the exemption, the facility fees and the consolidation that pays for both.
+
+AHA's $29 million-a-year lobbying machine is backed by member-system spending, PAC money to both parties and a 2.8-million-person grassroots network. With it, AHA has delayed site-neutral payment, which CBO estimates would save more than $170 billion over 10 years. It sued twice to stop hospital price transparency and lost both times. It defends the 340B program as a profit center: $50 million in a single year at one board member's system. It has kept the ban on physician-owned competitors in place for 15 years, and it fights antitrust scrutiny while its board members' systems buy their way to market dominance. All of this rests on a tax exemption worth an estimated $28 billion a year, against roughly $16 billion in actual charity care.
+
+The machine is now under its heaviest fire in a generation:
+
+- **Congress:** Ways and Means Chairman Jason Smith called hospital prices "borderline extortion." His committee floated ending nonprofit status for hospitals (about $260 billion over 10 years) and, on April 28, 2026, put health system CEOs under oath.
+- **Antitrust:** DOJ and Ohio forced OhioHealth to drop contract terms that blocked insurers from steering patients to cheaper care (proposed final judgment, June 2026).
+- **The IRS:** it has started revoking exemptions under Section 501(r).
+
+AHA's answer for 2027 is a new CEO, Steve Walsh, a former state lobbyist and legislator, and a board chaired by Sanford's Bill Gassen, the board's most aggressive acquirer. Whatever the new faces say, the agenda is the old one. Protect the exemption, the facility fees and the consolidation that pays for both.
 
 ---
 
-## Section 5 — Pressure Points & Vulnerabilities
-
-AHA projects invincibility — $29 million in lobbying, bipartisan PAC reach, 2.8 million grassroots advocates. But the machine has structural cracks. A 34-year healthcare policy veteran told AHA leadership: "The environment and the attitude about hospitals is probably the worst I've ever seen it, period." Here is where the pressure is building.
-
-### 1. IRS Enforcement: The Tax-Exempt Reckoning
-
-In June 2024, the IRS announced **35 planned examinations of tax-exempt hospitals** — the first targeted compliance initiative of its kind. The agency added a compliance strategy focused on whether tax-exempt hospitals meet their statutory obligations.
-
-**Why this matters for AHA:** The board members' institutions are among the most exposed:
-
-- **NYU Langone** (Albert): -$222M fair share deficit, #3 worst nationally. "As one of the largest fair share deficit hospitals, is a likely candidate for scrutiny."
-- **Houston Methodist** (Boom, Chair): -$222M deficit, Lown D grade, $1.15B in tax-exempt real estate, 1.2% charity care spending (vs. 2.6% national average).
-- **Sentara Health** (Hancock): The Checks and Balances Project filed a **formal IRS complaint (Form 13909)** alleging Sentara's financial assistance policies are unclear and that it charges uninsured patients higher rates than insured patients. "If the IRS determined the violations were egregious, Sentara could face loss of tax-exempt status and potential back-tax liability that could consume a significant portion of its $6 billion in reserves."
-- **Allina Health** (Shannon): <0.5% of expenses on charity care vs. ~2% national average.
-
-AHA's flagship defense — that nonprofit hospitals return $10+ in community benefit for every $1 in tax exemption — relies on self-reported Schedule H data that counts Medicaid shortfalls and education costs. If the IRS examinations establish that actual charity care is a fraction of claimed community benefit, the entire sector's tax-exempt rationale is vulnerable.
-
-Historical precedent exists: In **1985, the Utah Supreme Court reversed Intermountain Health Care's property tax exemption**, finding the exemption was not constitutionally permissible because the system's policy was to charge patients "whenever possible." In 1990, the Texas AG sued Methodist Hospital for insufficient charity care. The legal ground has been broken before.
-
-### 2. Congressional Scrutiny: Multiple Active Investigations
-
-AHA board members' institutions face escalating congressional attention:
-
-**House Ways and Means Committee — Nonprofit Hospital Accountability**
-- Oversight subcommittee hearing focused on tax-exempt hospitals' community spending, executive compensation, and "anticompetitive behavior through provider consolidation."
-- **Montefiore was specifically cited** as an example of the pattern under investigation — while its CEO (Ozuah, $16.36M compensation) sits on the AHA Board.
-
-**House Ways and Means — Montefiore Organ Transplant Investigation (2026)**
-- A targeted congressional investigation into Montefiore's organ transplant practices, with potential to challenge the system's 501(c)(3) status. "This is not a routine regulatory inquiry — it is a targeted congressional investigation with potential to challenge Montefiore's 501(c)(3) status."
-- Montefiore is now subject to **two active lines of congressional investigation** — while its CEO serves on the AHA Board.
-
-**Senate Finance Committee — Methodist Le Bonheur (2019)**
-- Sen. Chuck Grassley formally inquired into MLH's charity care and collection practices. "Congressional scrutiny of a nonprofit hospital's compliance with the conditions of its tax exemption is rare and signals serious concern at the federal level."
-
-**House Energy & Commerce Committee — $880B Threat**
-- AHA EVP Hughes warned of the committee's potential $880 billion in funding cuts via budget reconciliation. AHA's $7M Q1 2025 lobbying spike is a direct response to this threat.
-
-**March 2026 House Energy & Commerce Hearing — POH Ban**
-- AHA CEO Pollack was **the only panelist among six** to advocate maintaining the physician-owned hospital ban. When the industry's top representative stands alone against bipartisan consensus, the political isolation is visible.
-
-### 3. State AG Actions: A Second Front
-
-State attorneys general have emerged as an independent enforcement channel that AHA cannot control through federal lobbying:
-
-- **Minnesota AG Keith Ellison:** Investigated the Sanford-Fairview merger, received 3,500+ public comments, and triggered new state legislation giving the AG power to enjoin and unwind healthcare transactions. Separately investigated Allina Health's billing practices after a New York Times exposé.
-- **Michigan AG Dana Nessel:** Engaged with FTC staff on the Spectrum-Beaumont merger, though ultimately did not block it. FOIA communications showed extensive but heavily redacted back-and-forth between FTC staffers and the AG's office.
-- **Connecticut AG:** Reviewed the Intermountain-SCL Health merger. Connecticut passed SB 811 (2015) requiring cost and market analysis prior to regulatory action on hospital mergers.
-- **Texas AG:** Sued Methodist Hospital in 1990 for insufficient charity care relative to tax-exempt status.
-
-The Minnesota model — where an AG investigation killed a merger and produced new legislation — is replicable. AHA's federal lobbying apparatus has no jurisdiction over state enforcement.
-
-### 4. Post-Chevron Litigation: A Double-Edged Sword
-
-The Supreme Court's overturning of Chevron deference in *Loper Bright* (2024) has emboldened AHA's legal strategy. General Counsel Chad Golder has "publicly discussed AHA's strategic pivot: without Chevron, courts no longer must defer to agency interpretations, opening new litigation avenues against CMS rules AHA opposes."
-
-AHA explicitly treats its legal department as an "advocacy practice" — litigation is "a strategic tool to delay, block, or overturn regulations AHA's hospital members oppose. Win or lose in court, the litigation creates delay and shapes the regulatory negotiating environment."
-
-**The vulnerability:** Post-Chevron cuts both ways. If courts no longer defer to agency interpretations favorable to hospitals, they also won't defer to interpretations AHA has relied on. And AHA's track record in court is mixed: it **lost twice** on price transparency, while winning on 340B. Every litigation loss is a public record of AHA's position being rejected by federal judges. The more aggressively AHA litigates, the more it exposes the gap between its public-interest rhetoric and its revenue-protection agenda.
-
-### 5. AHA's Financial Model: Deficit Spending on Borrowed Time
-
-AHA is spending down its reserves to sustain the lobbying and compensation apparatus:
-
-- **2023:** Spent $169M against $147M in revenue — a **$22 million deficit**.
-- **Net fund assets:** ~$300–435M (varying by reporting year).
-- **Lobbying:** $29M/year and rising (Q1 2025 annualizes above trend).
-- **Executive compensation:** Top 16 executives took $17M in 2023; top 10 took $62M over 2017–2023.
-
-AHA is funded by membership dues from hospitals — many of which are themselves claiming financial hardship. The top-10 executive compensation alone represents ~10% of revenue and ~13% of member dues collected. If member hospitals face genuine financial pressure (from site-neutral reform, 340B cuts, or reduced Medicaid), the dues revenue that funds AHA's operation will contract — potentially forcing difficult choices between lobbying spend and executive compensation.
-
-### 6. The Rural Credibility Gap
-
-AHA's political narrative relies heavily on rural hospitals — closures, access, community lifelines. But the board and agenda are dominated by multi-billion-dollar urban and suburban systems:
-
-- AHA "advocates for rural hospital independence while its member systems pursue consolidation strategies that reduce rural hospital autonomy."
-- **UnityPoint Health** (Glasgo, board member): AHA's rural advocacy positions benefit "the consolidated system, not the independent rural hospitals AHA's rhetoric invokes." UnityPoint's Fort Dodge and Sioux City hospitals "function as referral feeders for the system's higher-margin urban facilities."
-- **Bristol Health** (Barwis, board member): Under going-concern audit doubt with ~$800K CEO compensation during sustained operating losses — a small hospital whose financial distress undermines AHA's narrative that the sector is well-managed.
-- **Boulder Community Health** (Vissers, board member): A single-site community hospital "on an AHA board that includes CEOs of systems with dozens of hospitals and tens of billions in revenue." His presence may be "more symbolic than substantive" — providing representational cover for a large-system-dominated agenda.
-
-The tension is structural: policies that protect large-system revenue (site-neutral opposition, 340B defense, antitrust resistance) do not necessarily benefit small rural hospitals. In some cases, consolidation directly threatens them.
-
-### 7. Reputational Time Bombs on the Board
-
-Several AHA board members carry institutional liabilities that could detonate at any time:
-
-- **Endeavor Health** (Gallagher): A **$453 million Ortega sexual-abuse settlement** exposes deep institutional oversight failures predating but continuing through Gallagher's CEO tenure.
-- **Montefiore** (Ozuah): Two active congressional investigations, $16.36M CEO compensation during a nurses' strike, residents describing themselves as "exploited."
-- **Sanford Health** (Gassen, incoming chair): System namesake T. Denny Sanford was **investigated for child pornography** in 2020 (reported by ProPublica). South Dakota DCI obtained search warrants; case referred to federal authorities and expanded to California and Arizona.
-- **Corewell Health** (Freese Decker, immediate past chair): Two major data breaches affecting **1 million+ Michigan patients** (2023). AG Nessel publicly announced the second breach. $5.48M settlement fund established.
-- **Methodist Le Bonheur** (Ugwueke): Active DOJ False Claims Act litigation while CEO serves on AHA Board.
-
-Any one of these could generate headlines that force AHA into a defensive posture on governance and vetting.
-
-### 8. The Foreign Agent Registration Question
-
-AHA's top lobbyist, EVP Stacey Hughes, has been "registered as a lobbyist or foreign agent" per LegiStorm records. "The foreign agent registration aspect requires further investigation — unusual for a domestic hospital trade association executive." If substantiated, this raises questions about whether foreign interests have influenced AHA's domestic healthcare lobbying agenda. This is an unexplored but potentially significant vulnerability.
-
-### 9. The Bipartisan Consensus Against AHA
-
-On multiple fronts, AHA finds itself opposing bipartisan consensus:
-
-- **Site-neutral payment:** The Lower Costs, More Transparency Act passed the House **320–71** — overwhelming bipartisan support. Sens. Hassan (D-NH) and Cassidy (R-LA) led the Senate framework. AHA opposes both.
-- **Price transparency:** AHA sued twice and lost. The rules were upheld by courts appointed by presidents of both parties.
-- **Physician-owned hospitals:** At the March 2026 hearing, Pollack was the **only panelist among six** defending the ban. Bipartisan support for lifting it is growing.
-- **Antitrust:** At the 2021 Senate hearing, AHA's board chair was the **only witness among six** defending consolidation. Both parties' senators focused on harms.
-- **Hospital accountability:** Sens. Warren and Sanders have written to the IRS about charity care gaps. Sen. Grassley (R-IA) launched the MLH inquiry. The criticism spans the political spectrum.
-
-When AHA stands alone on issue after issue — opposing measures that pass 320–71, losing unanimously at the Supreme Court, standing as the sole defender at congressional hearings — the political isolation signals that the lobbying machine's $29 million buys delay, not permanent victory.
-
-### 10. The Structural Contradiction
-
-AHA's deepest vulnerability is the contradiction between its public mission and its operational reality:
-
-**AHA says:** Nonprofit hospitals are community cornerstones returning billions in benefit.
-**The data shows:** Board members' systems carry $222M–$784M fair share deficits, spend <0.5–1.2% on charity care, and sue thousands of patients.
-
-**AHA says:** Consolidation improves care and efficiency.
-**The data shows:** Prices rise after mergers. Staffing worsens. Executive pay grows. Patient lawsuits continue.
-
-**AHA says:** Hospital financing is fragile and cuts would close facilities.
-**The data shows:** Board members' systems hold billions in reserves, pay CEOs $3–16 million, and are spending AHA itself into deficit to sustain the lobbying operation.
-
-**AHA says:** It represents all hospitals.
-**The data shows:** The board is dominated by multi-billion-dollar systems. Rural and community hospitals provide representational cover for an agenda that primarily serves consolidated systems.
-
-This contradiction is not a messaging problem. It is a structural feature. Every dollar AHA spends defending it widens the gap between claim and evidence — and the evidence is now being compiled by congressional investigators, state AGs, IRS examiners, and journalists. The $29 million lobbying machine can delay the reckoning. It cannot prevent it.
+Sources: https://ahiporg-production.s3.amazonaws.com/documents/FINAL-03.18.26-AHIP_EC_Hearing_Statement_Examination_of_the_Provider_Landscape.pdf ; https://waysandmeans.house.gov/?p=20051 ; https://www.hfma.org/accounting-and-financial-reporting/the-hospital-tax-exemption-comes-under-scrutiny-in-congress/ ; https://www.realclearhealth.com/2026/04/27/the_monopoly_tax_on_your_health_insurance_1179221.html ; https://taxnews.ey.com/news/2025-1237-irs-revokes-tax-exempt-status-of-government-hospital-organization-that-failed-to-meet-the-community-health-needs-assessment-requirements-of-irc-section-501r ; https://www.aha.org/press-releases/2026-07-31-aha-names-new-trustees-board ; prior research files aha_intel_hughes.md, aha_intel_hrobsky.md, aha_intel_golder.md, aha_intel_pollack.md, aha_intel_boom.md, aha_intel_gassen.md
 
 ---
-
-*Sources: aha_intel_albert.md, aha_intel_hancock.md, aha_intel_pollack.md, aha_intel_boom.md, aha_intel_ozuah.md, aha_intel_ugwueke.md, aha_intel_hughes.md, aha_intel_derienzo.md, aha_intel_golder.md, aha_intel_gassen.md, aha_intel_shannon.md, aha_intel_freesedecker.md, aha_intel_gallagher.md, aha_intel_glasgo.md, aha_intel_vissers.md, aha_intel_barwis.md, aha_intel_hood.md, aha_intel_allen.md, aha_intel_trestman.md, aha_intel_suttonwallace.md, aha_intel_coffman.md, aha_intel_peters.md, aha_intel_hrobsky.md*
-
----
-
-## Section 6 — Strategic Summary: The AHA Influence Network at a Glance
-
-### The Money Flow
-
-```
-MEMBER HOSPITALS ($145M in dues/revenue)
-        │
-        ▼
-   AHA NATIONAL ($431 employees, $300M+ reserves)
-        │
-        ├──► FEDERAL LOBBYING ($29M/yr, rising)
-        │         │
-        │         ├── Stacey Hughes (EVP) — 18 yrs Senate staff
-        │         ├── Lisa Kidder Hrobsky (SVP) — registered lobbyist since 2002
-        │         └── Chad Golder (GC) — litigation-as-lobbying, post-Chevron strategy
-        │
-        ├──► AHAPAC ($3.77M raised, $3.36M distributed, bipartisan)
-        │         └── Both parties: Biden, Pelosi, Schumer, McCarthy, McConnell
-        │
-        ├──► COALITION TO STRENGTHEN AMERICA'S HEALTHCARE (501(c)(4))
-        │         ├── 2.8M advocates
-        │         ├── 575,000+ letters to Congress (2025)
-        │         └── Chaired by Bill Gassen (incoming AHA chair)
-        │
-        ├──► HEALTH FORUM LLC (for-profit subsidiary)
-        │         └── Monetizes member data, brand, relationships ($10-50M est. revenue)
-        │
-        ├──► HEALTH RESEARCH & EDUCATIONAL TRUST (HRET)
-        │         └── Produces research AHA cites in lobbying (run by DeRienzo)
-        │
-        └──► EXECUTIVE COMPENSATION ($17M for top 16; CEO $3.4M)
-```
-
-### The Board Power Map
-
-```
-2026 CHAIR: Marc Boom ─── Houston Methodist ($3.9B, -$222M fair share deficit)
-                          Fed Reserve board │ Vizient CEO board │ 2x+ peer pricing
-                                            │
-2027 CHAIR: Bill Gassen ── Sanford Health ($11B, 4 mergers in 6 yrs)
-                           CMS Advisory Cmte │ Oscar Health board │ 501(c)(4) chair
-                                             │
-PAST CHAIR: Tina Freese Decker ── Corewell ($11.5B, $84.5M FCA settlement)
-                                   Fed Reserve board │ Priority Health (1.3M members)
-                                                     │
-CEO: Rick Pollack ──────── AHA ($3.4M comp, 43 yrs, retiring 2026)
-                           Registered lobbyist │ Hill staffer origin
-```
-
-### What AHA Protects — and What It Costs
-
-| Policy AHA Blocks | Estimated Savings | Who Benefits from Blocking | Who Pays |
-|-------------------|-------------------|---------------------------|----------|
-| Site-neutral payment | $140–180B | Systems billing facility fees at HOPDs | Medicare/taxpayers |
-| Price transparency enforcement | Unquantified | Systems charging 2x+ peers, omitting payer rates | Patients/employers |
-| 340B reform | Billions annually | Systems using 340B as profit center ($50M/yr at one system) | Drug manufacturers/taxpayers |
-| POH expansion (ban maintained) | N/A — competition blocked | Incumbent systems facing no physician-owned competition | Patients seeking lower-cost alternatives |
-| Antitrust enforcement | Unquantified | Systems pursuing serial mergers (75–85% market share) | Consumers paying post-merger price increases |
-
-### The Five Biggest Targets on the AHA Board
-
-Ranked by combined institutional exposure — active investigations, litigation, fair share deficits, and reputational risk:
-
-**1. Philip Ozuah — Montefiore Medicine**
-- $16.36M compensation (94x a Congressman's salary)
-- Two active congressional investigations (organ transplants + nonprofit accountability)
-- 15,000-nurse strike; residents describing themselves as "exploited"
-- Near-monopoly in the Bronx; acquisition strategy redirecting investment from poor to affluent communities
-
-**2. Bill Gassen — Sanford Health (incoming 2027 chair)**
-- Concurrent AHA chair + CMS advisory committee + insurer board + 501(c)(4) chair
-- $20.25M False Claims Act settlement (ignored kickback warnings)
-- FTC-blocked merger (75–85% market share); AG-killed merger
-- System namesake investigated for child pornography (ProPublica, 2020)
-
-**3. Tina Freese Decker — Corewell Health (immediate past chair)**
-- $6.73M compensation; $31M cumulative
-- $84.5M False Claims Act settlement (Beaumont predecessor)
-- 10,000 nurses authorized strike; 186 jobs offshored via Zoom
-- 1M+ patient data breaches; $5.48M settlement
-
-**4. Marc Boom — Houston Methodist (2026 chair)**
-- Lown D grade for equity (3,724 of 3,764 nationally)
-- -$222M fair share deficit; 1.2% charity care (vs. 2.6% average)
-- $9.99M Medicare fraud settlement
-- Noncompliant with price transparency 18+ months; charges 2x+ peers
-- $50M/yr 340B profit extraction
-
-**5. Michael Ugwueke — Methodist Le Bonheur Healthcare**
-- 8,300+ patient lawsuits; wage garnishment of own employees
-- Active DOJ False Claims Act litigation
-- Senate Finance Committee inquiry (Grassley, 2019)
-- Owns its own collection agency; only 1% of patients in collections received financial assistance
-
-### AHA's Defensive Priorities (2025–2027)
-
-Based on Q1 2025 lobbying spike and documented activity:
-
-1. **Block site-neutral payment** in budget reconciliation — existential threat to facility fee revenue model
-2. **Defend 340B** against manufacturer pushback and congressional reporting requirements
-3. **Maintain POH ban** as physician-ownership momentum builds in Congress
-4. **Resist IRS enforcement** of tax-exempt hospital accountability (35 planned examinations)
-5. **Manage CEO transition** — Pollack retiring end of 2026; successor will inherit rising political hostility
-6. **Exploit post-Chevron landscape** — aggressively litigate CMS rules without deference protection
-7. **Contain state AG actions** — Minnesota model spreading; no federal lobbying lever against state enforcement
-
-### The Succession Question
-
-Rick Pollack retires at the end of 2026 after 43 years at AHA — the last decade as CEO. His successor inherits:
-
-- A $29M/yr lobbying operation under bipartisan scrutiny
-- A board populated by executives under congressional investigation, DOJ litigation, and IRS audit risk
-- A financial model running $22M annual deficits funded from reserves
-- An industry reputation described by a 34-year policy veteran as "the worst I've ever seen"
-- A political environment where AHA stands alone on issue after issue — site-neutral (320–71 House vote against), POH ban (sole defender at hearing), consolidation (sole defender at Senate hearing)
-
-The next CEO will either accelerate the confrontation or attempt to negotiate from a position of weakening leverage. The $29 million lobbying machine buys time. It does not buy outcomes.
-
----
-
-### Key Metrics Summary
-
-| Category | Figure |
-|----------|--------|
-| AHA federal lobbying (2024) | $29.0 million |
-| AHA Q1 2025 lobbying | $7.0 million (32% above quarterly average) |
-| AHAPAC contributions (2023–24 cycle) | $3.36 million |
-| Coalition grassroots letters (2025) | 575,000+ |
-| AHA CEO compensation (2023) | $3.4 million |
-| AHA top 16 executives (2023) | $17 million combined |
-| AHA top 10 executives (2017–2023) | $62 million combined |
-| AHA annual deficit (2023) | -$22 million |
-| Estimated site-neutral savings blocked | $140–180 billion |
-| Board member fair share deficits | $222M–$784M per system |
-| Patient lawsuits (MLH alone, 2014–18) | 8,300+ |
-| False Claims settlements (board members) | $84.5M + $20.25M + $9.99M |
-| Hospitals facing IRS examination | 35 announced |
-| Active congressional investigations of board members' systems | 2+ (Montefiore) |
-| AHA employees | 431 |
-| Member hospitals represented | ~5,000 |
-
----
-
-*This document synthesizes intelligence from 27 individual dossiers (aha_intel_*.md) covering AHA executive leadership, board members, and institutional practices. All figures are sourced from IRS Form 990 filings, OpenSecrets lobbying disclosures, Senate LDA filings, FTC/DOJ enforcement records, Lown Institute analysis, congressional hearing transcripts, and investigative journalism as cited in the underlying dossiers. Research compiled March 2026.*
