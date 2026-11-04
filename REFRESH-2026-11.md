@@ -139,6 +139,8 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 ## Synced from Rojas Report 340B Intelligence (2026-11-04)
 - Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for NYU Langone Health.
 
+- NYU Langone system-level pay (FY2025, all returns combined) synced from Rojas Report 340B Intelligence: Grossman $30.29M ($19.68M bonus), Lhota $14.04M, Brotman $10.96M. https://projects.propublica.org/nonprofits/organizations/472613531
+
 
 ## Eric D. Fish, MD, MBA, FACOG (Trustee, term 2027-2029)
 
