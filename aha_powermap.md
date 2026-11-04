@@ -1,6 +1,6 @@
 # AHA Power Map
 
-*Updated November 4, 2026. Source notes and citations for each change: REFRESH-2026-11.md.*
+*Updated November 4, 2026. Source notes for each change: REFRESH-2026-11.md.*
 
 # Section 1: Lobbying Footprint
 
@@ -64,8 +64,6 @@ The American Hospital Association is one of Washington's largest lobbying spende
 **The 2026 pullback.** In-house spending for the first three quarters of 2026 is down 24% from the same period in 2025 ($14.39M vs. $18.90M). Q3 2026's $3.84 million is AHA's lowest quarter in any filing since at least 2018. The drop came after AHA lost the Medicaid reconciliation fight and while it was changing CEOs (Rick Pollack out, Steve Walsh in). It also came before the hardest fights of the year were settled: the CY2027 outpatient rule's 340B cut and the year-end appropriations deal.
 
 **Outside firms on retainer.** On top of its 28 in-house registered lobbyists, AHA pays five outside firms. In 2025 they were the Nickles Group ($360K), Red+Blue Strategies ($320K), Bockorny Group ($440K), the Smith-Free Group ($200K), and Morrison Public Affairs Group ($80K). Two more firms, O'Neill, Athy & Casey ($200K) and Plurus Strategies ($80K), had dropped off by 2026. That came to $1.68M in 2025 and $1.05M in Q1–Q3 2026. The Nickles Group was co-founded by former Sen. Don Nickles, whose chief of staff Stacey Hughes now runs AHA's lobbying shop.
-
-**Note on earlier figures.** Earlier versions of this page used aggregated totals ($28.8M for 2023, $29.0M for 2024) that do not match AHA's own LD-2 filings. The table above replaces them with the primary-source numbers.
 
 **PAC money:** For the 2025–2026 cycle (through October 14, 2026), AHAPAC raised $3.49 million and spent $4.22 million. That included $2.30 million in contributions to candidates and other committees and $1.26 million in independent expenditures. The PAC spent $727K more than it took in, and its cash on hand fell from $1.41M to $683K heading into the midterms (FEC). In the 2023–2024 cycle, AHAPAC raised $3.77 million. Its giving stays bipartisan.
 
@@ -331,7 +329,7 @@ Sources: Senate LDA filings, AHA Q1–Q3 2026 LD-2 lobbyist covered-position dis
 
 > In 2027 the AHA gavel passes to Sanford's Bill Gassen, whose system has an FTC-blocked deal and an AG-killed merger on its record, while HCA and Hartford HealthCare join the board as DOJ sues dominant systems over all-or-nothing contracts.
 
-AHA's lobbying operation does not merely protect existing revenue. It underwrites a consolidation strategy that concentrates market power in the systems whose executives sit on its board. The pattern is consistent: acquire competitors, absorb physician practices, use Certificate of Need laws to block new entrants, collect facility fees from converted sites, and run AHA's $29 million-a-year lobbying operation against every form of oversight. In 2027 the board gets a new chair, a new CEO and some new members. It keeps the same playbook.
+AHA's lobbying operation does not merely protect existing revenue. It underwrites a consolidation strategy that concentrates market power in the systems whose executives sit on its board. The pattern is consistent: acquire competitors, absorb physician practices, use Certificate of Need laws to block new entrants, collect facility fees from converted sites, and run AHA's $25 million-a-year lobbying operation against every form of oversight. In 2027 the board gets a new chair, a new CEO and some new members. It keeps the same playbook.
 
 ### The 2027 Board: Who Now Holds the Wheel
 
@@ -551,7 +549,7 @@ AHA board members' institutions appear on both sides of the ledger:
 | Michael Ugwueke (trustee) | Methodist University Hospital (Memphis) | **+$63M/yr surplus** |
 | Philip Ozuah (trustee) | Montefiore Medical Center | +$76M surplus (2019 data) |
 
-*Correction:* earlier versions of this page gave Houston Methodist a -$222 million deficit. That figure belongs to NYU Langone. Lown's 2025 data shows Houston Methodist's main hospital in surplus. Houston Methodist's weak marks come elsewhere: a D grade for equity on the Lown Hospitals Index, ranking 3,724 of 3,764 hospitals.
+Lown's 2025 data shows Houston Methodist's main hospital in surplus. Houston Methodist's weak marks come elsewhere: a D grade for equity on the Lown Hospitals Index, ranking 3,724 of 3,764 hospitals.
 
 AHA's response to the 2025 report came from Rick Pollack. He called such reports "distractions" built on "methodology that directly omits essential information." AHA and the Catholic Health Association released their own community benefit report one week before Lown's.
 
@@ -616,7 +614,7 @@ AHA re-elected its CEO to a full three-year board term in July 2026.
 | Methodist Le Bonheur | Ugwueke | **$7.25M (Jan. 4, 2024)** | Alleged kickbacks to West Clinic disguised as a management affiliation (2011–2019) |
 | Yale New Haven | Sutton-Wallace | $560,718 (May 2023) | Bridgeport hospitalist billing, 2014–2020 |
 
-*Correction:* earlier versions listed the Methodist Le Bonheur case as "active DOJ litigation." It settled in January 2024 for $7.25 million with no admission of liability. Methodist said the amount was under 3% of what the government originally sought.
+The Methodist Le Bonheur case settled in January 2024 for $7.25 million with no admission of liability. Methodist said the amount was under 3% of what the government originally sought.
 
 Sanford's case is the starkest. A 111-page complaint alleged executives received "numerous warnings" from physician whistleblowers about a neurosurgeon's kickback and unnecessary-surgery scheme and "repeatedly failed to take corrective measures." Sanford had already paid $625,000 in 2013 over the same surgeon. Its CEO takes the AHA chair on Jan. 1, 2027.
 
@@ -698,7 +696,7 @@ Sources: https://www.aha.org/news/blog/2026-01-08-hospital-benefits-communities-
 
 > New CEO, new chair, same agenda: protect the exemption, the facility fees and the consolidation that pays for both.
 
-AHA's $29 million-a-year lobbying machine is backed by member-system spending, PAC money to both parties and a 2.8-million-person grassroots network. With it, AHA has delayed site-neutral payment, which CBO estimates would save more than $170 billion over 10 years. It sued twice to stop hospital price transparency and lost both times. It defends the 340B program as a profit center: $50 million in a single year at one board member's system. It has kept the ban on physician-owned competitors in place for 15 years, and it fights antitrust scrutiny while its board members' systems buy their way to market dominance. All of this rests on a tax exemption worth an estimated $28 billion a year, against roughly $16 billion in actual charity care.
+AHA's $25 million-a-year lobbying machine is backed by member-system spending, PAC money to both parties and a 2.8-million-person grassroots network. With it, AHA has delayed site-neutral payment, which CBO estimates would save more than $170 billion over 10 years. It sued twice to stop hospital price transparency and lost both times. It defends the 340B program as a profit center: $50 million in a single year at one board member's system. It has kept the ban on physician-owned competitors in place for 15 years, and it fights antitrust scrutiny while its board members' systems buy their way to market dominance. All of this rests on a tax exemption worth an estimated $28 billion a year, against roughly $16 billion in actual charity care.
 
 The machine is now under its heaviest fire in a generation:
 
