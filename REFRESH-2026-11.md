@@ -24,11 +24,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Still unverified: no 2025-2026 Sanford credit rating action was found.
 
 
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $5.00M, bonus $1.62M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/453791176
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Sanford Health.
-
-
 ## Brian Peters (Trustee, term 2025-2027)
 
 # Brian Peters: changes vs. prior file
@@ -113,11 +108,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Still unverified: the allegations in Collins v. Corewell (W.D. Mich. 1:26-cv-00324), and any 2025-2026 Corewell credit rating action.
 
 
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $6.95M, bonus $2.73M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/383382353, https://projects.propublica.org/nonprofits/organizations/611740292
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Corewell Health.
-
-
 ## Debra Albert, DNP, RN (Trustee, term 2026-2028)
 
 - CONFIRMED role and term: she is still CNO & SVP Patient Care Services at NYU Langone (2026 AHA roster), and her three-year AHA term began Jan. 1, 2026 (through 2028). The organization field is cleaned up (it was "Patient Care Services - NYU Langone Health"). https://www.aha.org/node/11986 ; https://www.aha.org/news/headline/2025-08-07-aha-elects-9-trustees-2026
@@ -134,12 +124,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - VERIFIED DSH suit: NYU Langone and nine other centers sued HHS and RFK Jr. in November 2025 (not December) over the 2023 Part C rule applied back to 2004, for its Brooklyn campus. No ruling has been reported. https://nyunews.com/news/2025/12/04/rfk-lawsuit-langone-health/
 - Labor: the NYU Langone-Brooklyn strike notice of February 2025 was called off, and NYU Langone was not part of the January-February 2026 NYC nurses strike. https://www.beckershospitalreview.com/hr/nurses-call-off-strike-at-nyu-langone-hospital/ ; https://en.wikipedia.org/wiki/2026_New_York_City_nurses_strike
 - REMOVED: the unverified charity care figure ($108M / 1.2%), the NY Academy of Medicine trustee claim, the $75M Julia Koch Palm Beach detail, the $596,473 OpenSecrets figure and the employee disability-suit item, none of which could be re-sourced. All "per prior research" labels are gone.
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for NYU Langone Health.
-
-- NYU Langone system-level pay (FY2025, all returns combined) synced from Rojas Report 340B Intelligence: Grossman $30.29M ($19.68M bonus), Lhota $14.04M, Brotman $10.96M. https://projects.propublica.org/nonprofits/organizations/472613531
 
 
 ## Eric D. Fish, MD, MBA, FACOG (Trustee, term 2027-2029)
@@ -167,11 +151,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Moody's downgraded Providence to A3 on July 1, 2025. https://www.beckershospitalreview.com/?p=298480
 - Proposed $42.7M ERISA 401(k) settlement filed February 13, 2026. https://www.catholicworldreport.com/2026/02/19/catholic-health-provider-agrees-to-42-million-settlement-in-class-action-retirement-lawsuit/
 - Federal lobbying: $800,000 in 2025 and $690,000 in Q1-Q3 2026 (Senate LDA). https://lda.senate.gov/api/v1/filings/?client_name=Providence&filing_year=2026
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $9.13M, bonus $6.17M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/811244422
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Providence.
 
 
 ## Gerald "J.P." Gallagher (Trustee, term 2026-2028)
@@ -245,11 +224,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Added the 2025 class settlements: the Meta-pixel MyChart privacy case (preliminary approval September 2, 2025) and the $6.5M Navvis/SSM ransomware breach case. https://www.classaction.org/news/ssm-health-class-action-settlement-offers-privacy-protection-services-cash-payments ; https://topclassactions.com/lawsuit-settlements/closed-settlements/6-5m-navvis-ssm-health-data-breach-class-action-settlement
 - Added lobbying registrations: Faegre Drinker federal registration (2022) and a Wisconsin lobbyist authorized January 2025. https://lda.gov/filings/public/filing/bd7f458f-3757-4f07-ba33-213b16c2e7fe/print/ ; https://lobbying.wi.gov/Who/PrincipalInformation/2025REG/Information/12791
 - Added her workforce and service-cut history: 350 layoffs in 2017, 2,000 furloughs in 2020, three Missouri hospital sales in 2018, and the St. Charles trauma and obstetrics cuts in 2020. https://www.beckershospitalreview.com/hospital-management-administration/ssm-health-lays-off-350-employees ; https://www.stlpr.org/post/ssm-health-furlough-about-2000-employees-after-seeing-fewer-patients ; https://www.beckershospitalreview.com/hospital-transactions-and-valuation/ssm-health-to-sell-3-hospitals/
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $7.89M, bonus $2.24M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/466029223, https://projects.propublica.org/nonprofits/organizations/431343281
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for SSM Health.
 
 
 ## Leah M. Glasgo (Trustee, term 2026-2028)
@@ -333,11 +307,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - REMOVED: the stale 2009-2010 VPAP lobbying figure, the 2018 Dudley compensation comparison, the Anna James/Megan Healy item and the "70% market share"/JCHC transfer-pricing claims, none of which could be re-verified this cycle. The IRS complaint and DePaul items are kept but marked as unresolved allegations.
 
 
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $2.01M, bonus $923,895. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/521271901
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Sentara Health.
-
-
 ## Michael A. Slubowski (Trustee, term 2026-2028)
 
 # slubowski: changes vs. prior file
@@ -349,11 +318,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - NEW divestitures: the Emory/St. Joseph's stake exit ($300M, March 2025), the MercyOne Siouxland sale to UnityPoint (Sept. 1, 2025), and the Mercy Medical Center (Springfield, MA) transfer to Baystate (signed Apr. 22, 2026). The footprint is now 88 hospitals in 23 states. https://www.trinity-health.org/sites/default/files/newDocuments/2_Trinity_Health_FY26%20Financial_Statements_LongForm.pdf
 - NEW: IT service desk and applications staff are being outsourced (June 2026). https://www.trinity-health.org/newsroom/press-releases/technology-and-information-services-delivery-update
 - REMOVED: the Lown "$784M fair share deficit" figure (no system-level number appears in Lown's current 2025 report), the claimed Premier Health acquisition, the "eastern Ohio sale to UPMC/CommonSpirit" item, the 2023 data-breach suit, the COVID overpayment dispute and generic ERD statistics. The ACLU EMTALA suit is kept but flagged as unverified status. https://lownhospitalsindex.org/wp-content/uploads/2025/04/fair-share-2025-national-report-20250409.pdf
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2025): total $7.30M, bonus $3.41M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/351443425, https://projects.propublica.org/nonprofits/organizations/382113393
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Trinity Health.
 
 
 ## Michael O. Ugwueke, MPH, DHA, FACHE (Trustee, term 2027-2029; Executive Committee)
@@ -389,10 +353,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Not verified: Advocate FY2025 Form 990 (her FY2025 board pay); whether she still holds any Advocate board seat after leaving the chair; the specific FTC matter in the AHA release; Wisconsin class action status; AG decision on WakeMed.
 
 
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Advocate Health.
-
-
 ## Michelle Hood (EVP & Chief Operating Officer)
 
 # Michelle Hood: changes vs. prior file
@@ -425,11 +385,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Not verified: whether she is a candidate in the CEO search; tax-year 2024 Form 990 compensation; FY2026 results against the projected $50M surplus. redFlagCount unchanged at 8.
 
 
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2025): total $3.14M, bonus $1.02M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/222529464, https://projects.propublica.org/nonprofits/organizations/060646652
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Yale New Haven Health.
-
-
 ## Pete November (Trustee, term 2026-2028)
 
 # Pete November: new dossier (no prior file). Key findings
@@ -441,11 +396,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - Cut 770 jobs in May 2023 after a $96M loss in 2022. https://bizneworleans.com/ochsner-to-lay-off-770-employees/
 - December 2025 letter of intent for a non-merger affiliation with rural Allegiance Health System. https://news.ochsner.org/news-releases/allegiance-health-system-announces-affiliation-with-ochsner-health-to-expand-access-and-innovation-across-rural-louisiana/
 - 401(k) forfeiture class action dismissed with prejudice March 24, 2026 (E.D. La.). https://news.bloomberglaw.com/employee-benefits/louisiana-health-system-defeats-401k-forfeiture-suit-again
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $7.01M, bonus $3.91M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/720502505
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Ochsner Health.
 
 
 ## Philip O. Ozuah, MD, PhD (Trustee (term end not announced))
@@ -460,11 +410,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - New revolving-door items: Cigna board (since May 2023) and Organon board (since 2021). The old file mentioned only a vague link to the NYC Police Foundation; that board seat is now confirmed. https://www.organon.com/leadership/philip-ozuah/
 - Ways and Means transplant inquiry recast with exact facts (Jan. 28, 2026 letters to Montefiore and UChicago, Feb. 10 deadline). No resolution has been reported. Correction: the Lown Institute's 2019 data shows Montefiore had a $76M Fair Share surplus, not a deficit, and that is now stated. https://waysandmeans.house.gov/2026/01/28/smith-schweikert-investigate-allegations-of-foreign-nationals-jumping-u-s-organ-transplant-line/ ; https://lowninstitute.org/report-these-nyc-hospitals-took-in-727-million-more-in-tax-breaks-than-they-gave-back-to-their-communities/
 - Removed as stale or unsourced: the 2022 OSHA citation, the janitorial overtime class action (status unknown), the McKinsey Fordham Road clinic move, the unsourced Ways and Means hearing claim, the 'NYC Civic Audit' quote, the speculative 340B 'pocketing' claim and the salary-ratio comparisons. https://www.aha.org/node/11986
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $16.69M, bonus $7.09M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/201615393, https://projects.propublica.org/nonprofits/organizations/131740114
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Montefiore.
 
 
 ## Richard J. Pollack (Former President & CEO (2015-2026))
@@ -518,11 +463,6 @@ Every material change made in the November 4, 2026 refresh, with sources. Genera
 - ADDED context: the Saltzer Health Idaho wind-down (January 2024, 400+ employees), the S&P AA+ affirmation (June 2023; no 2025-2026 rating actions found) and the 2013 $25.5M FCA/Stark settlement. https://www.ksl.com/article/50850607/saltzer-health-an-intermountain-health-company-in-idaho-is-shutting-its-doors ; https://www.beckershospitalreview.com/finance/intermountain-health-has-aa-ratings-affirmed-highest-in-nonprofit-healthcare ; https://justice.gov/opa/pr/intermountain-health-care-inc-pays-us-255-million-settle-false-claims-act-allegations
 - REMOVED as unverifiable this pass: the $62M top-30 and $250M cumulative executive pay claims, the 2023 0.9% margin, the $362M tax and $1.3B community-benefit claims, the 2024 PAC total ($227,572), the "researchers co-authored 340B study" red flag and the 1 million SelectHealth member count. Placeholder language is gone.
 - Still not found: a Lown fair-share figure, and 2026-cycle PAC totals (the FEC API was rate-limited).
-
-
-## Synced from Rojas Report 340B Intelligence (2026-11-04)
-- Schedule J breakdown added (FY2024): total $9.72M, bonus $3.27M. Source: Rojas Report 340B Intelligence 990 extraction, tied to https://projects.propublica.org/nonprofits/organizations/870269232, https://projects.propublica.org/nonprofits/organizations/942854057
-- Charity care vs. tax exemption and 340B contract-pharmacy count added from the Rojas Report 340B Intelligence dossier for Intermountain Health.
 
 
 ## Stacey Hughes (EVP, Government Relations & Public Policy)
