@@ -13,14 +13,14 @@
   --color-redflag: #C0392B;
   --color-redflag-bg: #1e1010;
 
-  --font-cormorant: var(--font-cormorant), Georgia, serif;
-  --font-source: var(--font-source-sans), system-ui, sans-serif;
+  --font-cormorant: "Cormorant Garamond", Georgia, serif;
+  --font-source: "Source Sans 3", system-ui, sans-serif;
 }
 
 @layer base {
   :root {
-    --font-serif: var(--font-cormorant), Georgia, serif;
-    --font-sans: var(--font-source-sans), system-ui, sans-serif;
+    --font-serif: "Cormorant Garamond", Georgia, serif;
+    --font-sans: "Source Sans 3", system-ui, sans-serif;
   }
 
   html {
