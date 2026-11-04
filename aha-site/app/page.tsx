@@ -4,6 +4,7 @@ import Link from "next/link";
 import profilesData from "@/data/profiles.json";
 import ProfileCard from "@/components/ProfileCard";
 import FilterBar from "@/components/FilterBar";
+import powermapData from "@/data/powermap.json";
 
 const profiles = profilesData as Profile[];
 
@@ -13,18 +14,29 @@ interface Profile {
   title: string;
   organization: string;
   role: string;
+  status?: string;
+  aha_position?: string;
   state: string;
   patternSummary: string;
   redFlagCount: number;
   redFlags: string[];
 }
 
+const pm = powermapData as Record<string, unknown> & {
+  keyStat1: { value: string; label: string };
+  keyStat2: { value: string; label: string };
+  keyStat3: { value: string; label: string };
+};
+
 const HERO_STATS = [
-  { value: "$29M+", label: "Annual AHA Lobbying Spend" },
-  { value: "$3.77M", label: "AHAPAC Per Cycle" },
-  { value: "$140-180B", label: "Site-Neutral Payments Blocked" },
+  pm.keyStat1,
+  pm.keyStat2,
+  pm.keyStat3,
   { value: "15+ Years", label: "Physician-Owned Hospital Ban Maintained" },
 ];
+
+const isFormer = (p: Profile) => p.status === "former";
+const CURRENT_COUNT = profiles.filter((p) => !isFormer(p)).length;
 
 export default function HomePage() {
   const [roleFilter, setRoleFilter] = useState("All");
@@ -32,12 +44,17 @@ export default function HomePage() {
 
   const filtered = useMemo(() => {
     let result = [...profiles];
-    if (roleFilter !== "All") {
-      result = result.filter((p) =>
-        roleFilter === "C-Suite"
-          ? p.role === "csuite" || p.role === "c-suite"
-          : p.role === "board"
-      );
+    if (roleFilter === "Former") {
+      result = result.filter(isFormer);
+    } else {
+      result = result.filter((p) => !isFormer(p));
+      if (roleFilter !== "All") {
+        result = result.filter((p) =>
+          roleFilter === "C-Suite"
+            ? p.role === "csuite" || p.role === "c-suite"
+            : p.role === "board"
+        );
+      }
     }
     if (sortBy === "redflags") {
       result.sort((a, b) => b.redFlagCount - a.redFlagCount);
@@ -79,7 +96,7 @@ export default function HomePage() {
             className="font-source text-muted mb-10"
             style={{ fontSize: "20px", maxWidth: "540px" }}
           >
-            27 individuals. Every conflict. Every dollar. Every red flag.
+            {CURRENT_COUNT} individuals. Every conflict. Every dollar. Every red flag.
           </p>
 
           <div className="flex flex-wrap gap-4">
@@ -135,10 +152,10 @@ export default function HomePage() {
             </span>
           </div>
           <h2 className="font-cormorant text-3xl font-semibold text-cream">
-            27 Individuals. Every Conflict on Record.
+            {CURRENT_COUNT} Individuals. Every Conflict on Record.
           </h2>
           <p className="font-source text-muted text-sm mt-2">
-            Sorted by red flag count. The most conflicted board members lead.
+            The AHA board and executive team as of January 1, 2027. Sorted by red flag count. Updated November 2026.
           </p>
         </div>
 

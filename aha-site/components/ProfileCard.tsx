@@ -6,6 +6,8 @@ interface Profile {
   title: string;
   organization: string;
   role: string;
+  status?: string;
+  aha_position?: string;
   state: string;
   patternSummary: string;
   redFlagCount: number;
@@ -18,11 +20,13 @@ interface ProfileCardProps {
 
 export default function ProfileCard({ profile }: ProfileCardProps) {
   const roleLabel =
-    profile.role === "csuite" || profile.role === "c-suite" ? "C-Suite" : "Board";
+    profile.aha_position ||
+    (profile.role === "csuite" || profile.role === "c-suite" ? "C-Suite" : "Board");
+  const former = profile.status === "former";
 
   return (
     <div
-      className="flex flex-col bg-card border-l-4 border-orange p-6 hover:brightness-110 transition-all"
+      className={`flex flex-col bg-card border-l-4 p-6 hover:brightness-110 transition-all ${former ? "border-muted opacity-75" : "border-orange"}`}
       style={{ borderTop: "1px solid #2e4055", borderRight: "1px solid #2e4055", borderBottom: "1px solid #2e4055" }}
     >
       {/* Role tag */}

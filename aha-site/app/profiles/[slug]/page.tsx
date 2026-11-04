@@ -11,6 +11,9 @@ interface Profile {
   title: string;
   organization: string;
   role: string;
+  status?: string;
+  aha_position?: string;
+  lastVerified?: string;
   state: string;
   systemType: string;
   affiliations: string[];
@@ -110,7 +113,7 @@ export default async function ProfilePage({
   }
 
   const related = profiles
-    .filter((p) => p.slug !== profile.slug && p.role === profile.role)
+    .filter((p) => p.slug !== profile.slug && p.role === profile.role && p.status !== "former")
     .sort((a, b) => b.redFlagCount - a.redFlagCount)
     .slice(0, 3);
 
@@ -155,11 +158,22 @@ export default async function ProfilePage({
               <h1 className="font-cormorant font-semibold text-cream mb-2" style={{ fontSize: "48px" }}>
                 {profile.name || profile.slug}
               </h1>
+              {profile.aha_position && (
+                <p className="font-source text-orange uppercase tracking-widest font-semibold mb-2" style={{ fontSize: "12px", letterSpacing: "0.15em" }}>
+                  {profile.status === "former" ? "Former AHA leadership · " : ""}
+                  {profile.aha_position}
+                </p>
+              )}
               <p className="font-source text-muted" style={{ fontSize: "16px" }}>
                 {profile.title}
                 {profile.title && profile.organization ? " | " : ""}
                 {profile.organization}
               </p>
+              {profile.lastVerified && (
+                <p className="font-source text-muted mt-2" style={{ fontSize: "12px" }}>
+                  Last verified {new Date(profile.lastVerified + "T12:00:00Z").toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" })}
+                </p>
+              )}
             </div>
             <span className="bg-orange/15 border border-orange text-orange font-source font-semibold px-5 py-2.5 rounded-full" style={{ fontSize: "15px" }}>
               {profile.redFlagCount} Red Flags

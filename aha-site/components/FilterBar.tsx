@@ -8,7 +8,7 @@ interface FilterBarProps {
 }
 
 export default function FilterBar({ roleFilter, sortBy, onRoleChange, onSortChange }: FilterBarProps) {
-  const roleOptions = ["All", "C-Suite", "Board"];
+  const roleOptions = ["All", "Board", "C-Suite", "Former"];
   const sortOptions = [
     { value: "redflags", label: "Most Red Flags" },
     { value: "alpha", label: "Alphabetical" },

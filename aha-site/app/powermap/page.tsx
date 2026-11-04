@@ -1,7 +1,13 @@
 "use client";
 import { useEffect, useState } from "react";
+import type React from "react";
 import powermapData from "@/data/powermap.json";
 import ShareFinding from "@/components/ShareFinding";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+
+type Stat = { value: string; label: string };
+interface SectionMeta { verdict: string; stats: Stat[]; pullQuote?: string }
 
 interface Powermap {
   lobbyingFootprint: string;
@@ -10,76 +16,51 @@ interface Powermap {
   institutionalCapture: string;
   charityCaregap: string;
   bottomLine: string;
+  keyStat1: Stat;
+  keyStat2: Stat;
+  keyStat3: Stat;
+  lastUpdated?: string;
+  sectionMeta?: Record<string, SectionMeta>;
 }
 
-const powermap = powermapData as Powermap;
-
-const SECTION_STATS: Record<string, { value: string; label: string }[]> = {
-  "lobbying-footprint": [
-    { value: "$29M+", label: "2024 record annual spend" },
-    { value: "$7M", label: "Q1 2025 single quarter" },
-    { value: "32%", label: "Above historical quarterly avg" },
-  ],
-  "pac-architecture": [
-    { value: "$3.77M", label: "AHAPAC raised 2023-24 cycle" },
-    { value: "$3.36M", label: "Distributed to both parties" },
-    { value: "$1.83M", label: "Outside spending" },
-  ],
-  "revolving-door": [
-    { value: "15+", label: "Former federal officials employed" },
-    { value: "4", label: "Agencies: HHS, DOJ, CMS, Congress" },
-    { value: "100%", label: "Bipartisan access maintained" },
-  ],
-  "institutional-capture": [
-    { value: "$1.6M", label: "Trinity Health federal lobbying 2024" },
-    { value: "73%", label: "Sanford lobbying spend increase" },
-    { value: "$960K", label: "Sanford 2024 from $560K in 2020" },
-  ],
-  "charity-care-gap": [
-    { value: "27%", label: "Hospitals fully compliant 2021 CMS" },
-    { value: "$50M", label: "340B profits one system one year" },
-    { value: "$6,151", label: "Houston Methodist 30-min PA visit" },
-  ],
-  "bottom-line": [
-    { value: "$140-180B", label: "Site-neutral reform blocked" },
-    { value: "15+ yrs", label: "Physician-owned hospital ban" },
-    { value: "2x", label: "Price transparency suits lost" },
-  ],
-};
+const powermap = powermapData as unknown as Powermap;
+const META: Record<string, SectionMeta> = powermap.sectionMeta || {};
 
 const sections = [
-  { id: "lobbying-footprint", label: "Lobbying Footprint", key: "lobbyingFootprint" as keyof Powermap,
-    verdict: "AHA spent a record $29M in 2024 timed directly to active site-neutral legislation threatening its members core revenue model." },
-  { id: "pac-architecture", label: "PAC Architecture", key: "pacArchitecture" as keyof Powermap,
-    verdict: "AHAPAC plays both sides: $3.36M distributed to Democrats and Republicans alike. Not ideology. Pure access." },
-  { id: "revolving-door", label: "Revolving Door Map", key: "revolvingDoorMap" as keyof Powermap,
-    verdict: "AHA's influence machine is staffed by former officials from the very agencies that regulate hospitals." },
-  { id: "institutional-capture", label: "Institutional Capture", key: "institutionalCapture" as keyof Powermap,
-    verdict: "AHA board members run the systems that benefit directly from every reform AHA kills then return to set AHA strategy." },
-  { id: "charity-care-gap", label: "Charity Care Gap", key: "charityCaregap" as keyof Powermap,
-    verdict: "AHA members claim billions in community benefit while lobbying against the reforms that would require them to deliver it." },
-  { id: "bottom-line", label: "Bottom Line", key: "bottomLine" as keyof Powermap,
-    verdict: "AHA's $29M lobbying machine has successfully blocked or weakened every major hospital reform of the last decade." },
+  { id: "lobbying-footprint", label: "Lobbying Footprint", key: "lobbyingFootprint" as const },
+  { id: "pac-architecture", label: "PAC Architecture", key: "pacArchitecture" as const },
+  { id: "revolving-door", label: "Revolving Door Map", key: "revolvingDoorMap" as const },
+  { id: "institutional-capture", label: "Institutional Capture", key: "institutionalCapture" as const },
+  { id: "charity-care-gap", label: "Charity Care Gap", key: "charityCaregap" as const },
+  { id: "bottom-line", label: "Bottom Line", key: "bottomLine" as const },
 ];
 
-function parseSection(raw: string): string[] {
-  const lines = raw.split("\n");
-  const bullets: string[] = [];
-  const prose: string[] = [];
-  for (const line of lines) {
-    const trimmed = line.trim();
-    const bm = trimmed.match(/^[-*]\s+(.+)/);
-    if (bm) {
-      const clean = bm[1].replace(/\*\*/g, "").replace(/`/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").trim();
-      if (clean.length > 20) bullets.push(clean);
-    } else if (trimmed && !trimmed.startsWith("#") && !trimmed.startsWith("|") && !trimmed.match(/^---/)) {
-      const clean = trimmed.replace(/\*\*/g, "").replace(/#{1,6}\s/g, "").replace(/`/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").trim();
-      if (clean.length > 30) prose.push(clean);
-    }
-  }
-  if (bullets.length >= 3) return bullets.slice(0, 7);
-  return prose.join(" ").split(/\.\s+/).map(s => s.trim()).filter(s => s.length > 40).slice(0, 6);
-}
+const mdComponents = {
+  h1: (props: React.ComponentProps<"h3">) => <h3 className="font-cormorant font-semibold text-cream mt-8 mb-3" style={{ fontSize: "1.6rem" }} {...props} />,
+  h2: (props: React.ComponentProps<"h3">) => <h3 className="font-cormorant font-semibold text-cream mt-8 mb-3" style={{ fontSize: "1.6rem" }} {...props} />,
+  h3: (props: React.ComponentProps<"h3">) => <h3 className="font-cormorant font-semibold text-cream mt-8 mb-3" style={{ fontSize: "1.45rem" }} {...props} />,
+  h4: (props: React.ComponentProps<"h4">) => <h4 className="font-source font-semibold text-orange mt-6 mb-2" style={{ fontSize: "15px" }} {...props} />,
+  p: (props: React.ComponentProps<"p">) => <p className="font-source text-cream leading-relaxed mb-4" style={{ fontSize: "15px" }} {...props} />,
+  ul: (props: React.ComponentProps<"ul">) => <ul className="space-y-2 mb-5 pl-1" {...props} />,
+  ol: (props: React.ComponentProps<"ol">) => <ol className="list-decimal space-y-2 mb-5 pl-6 font-source text-cream" style={{ fontSize: "15px" }} {...props} />,
+  li: ({ children, ...props }: React.ComponentProps<"li">) => (
+    <li className="font-source text-cream leading-relaxed flex gap-3" style={{ fontSize: "15px" }} {...props}>
+      <span className="text-orange flex-shrink-0 mt-1" style={{ fontSize: "10px" }}>&#9658;</span>
+      <span className="min-w-0">{children}</span>
+    </li>
+  ),
+  strong: (props: React.ComponentProps<"strong">) => <strong className="text-cream font-semibold" {...props} />,
+  a: (props: React.ComponentProps<"a">) => <a className="text-orange hover:underline break-words" target="_blank" rel="noopener noreferrer" {...props} />,
+  table: (props: React.ComponentProps<"table">) => (
+    <div className="overflow-x-auto mb-6 border border-border">
+      <table className="w-full text-left font-source" style={{ fontSize: "14px" }} {...props} />
+    </div>
+  ),
+  th: (props: React.ComponentProps<"th">) => <th className="px-3 py-2 text-orange uppercase tracking-wide border-b border-border align-bottom" style={{ fontSize: "11px", backgroundColor: "#1e3040" }} {...props} />,
+  td: (props: React.ComponentProps<"td">) => <td className="px-3 py-2 text-cream border-b border-border align-top" {...props} />,
+  hr: () => <div className="border-t border-border my-6" />,
+  blockquote: (props: React.ComponentProps<"blockquote">) => <blockquote className="border-l-4 border-orange pl-4 my-4 italic text-muted" {...props} />,
+};
 
 export default function PowerMapPage() {
   const [activeSection, setActiveSection] = useState("lobbying-footprint");
@@ -114,15 +95,13 @@ export default function PowerMapPage() {
           <p className="font-source text-muted" style={{ fontSize: "20px", maxWidth: "520px" }}>
             The structural anatomy of the most powerful hospital lobbying operation in America.
           </p>
+          {powermap.lastUpdated && (
+            <p className="font-source text-muted mt-4" style={{ fontSize: "13px" }}>Updated {powermap.lastUpdated}</p>
+          )}
         </div>
         <div className="relative border-t border-white/10" style={{ background: "rgba(10,20,30,0.65)" }}>
           <div className="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 divide-x divide-white/10">
-            {[
-              { value: "$29M+", label: "Annual AHA Lobbying Spend" },
-              { value: "$3.77M", label: "AHAPAC Per Cycle" },
-              { value: "$140-180B", label: "Site-Neutral Payments Blocked" },
-              { value: "15+ Years", label: "Physician-Owned Hospital Ban" },
-            ].map((stat) => (
+            {[powermap.keyStat1, powermap.keyStat2, powermap.keyStat3, { value: "15+ Years", label: "Physician-Owned Hospital Ban" }].map((stat) => (
               <div key={stat.label} className="py-6 px-6 first:pl-0">
                 <p className="font-cormorant font-semibold" style={{ fontSize: "clamp(1.5rem,2.5vw,2.2rem)", color: "#EB6E2C" }}>
                   {stat.value}
@@ -157,9 +136,9 @@ export default function PowerMapPage() {
             {sections.map((section, i) => {
               const rawText = powermap[section.key];
               const text = typeof rawText === "string" ? rawText : "";
-              const bullets = parseSection(text);
               const isBottomLine = section.id === "bottom-line";
-              const stats = SECTION_STATS[section.id] || [];
+              const meta = META[section.key];
+              const stats = meta?.stats || [];
               return (
                 <section key={section.id} id={section.id} className="mb-20 scroll-mt-24">
                   <div className="flex items-center justify-between mb-2">
@@ -171,10 +150,10 @@ export default function PowerMapPage() {
                   <h2 className="font-cormorant font-semibold text-cream mb-5" style={{ fontSize: isBottomLine ? "2.4rem" : "2rem" }}>
                     {section.label}
                   </h2>
-                  <p className="font-cormorant italic leading-snug mb-6"
+                  {meta?.verdict && <p className="font-cormorant italic leading-snug mb-6"
                     style={{ fontSize: "1.2rem", color: "#c8b89a", borderLeft: "3px solid #EB6E2C", paddingLeft: "1rem" }}>
-                    {section.verdict}
-                  </p>
+                    {meta?.verdict}
+                  </p>}
                   {stats.length > 0 && (
                     <div className="flex flex-wrap gap-3 mb-7">
                       {stats.map((stat) => (
@@ -185,18 +164,15 @@ export default function PowerMapPage() {
                       ))}
                     </div>
                   )}
-                  <ul className="space-y-3 mb-8">
-                    {bullets.map((bullet, j) => (
-                      <li key={j} className="flex gap-3">
-                        <span className="text-orange flex-shrink-0 mt-1" style={{ fontSize: "10px" }}>&#9658;</span>
-                        <p className="font-source text-cream leading-relaxed" style={{ fontSize: "15px" }}>{bullet}</p>
-                      </li>
-                    ))}
-                  </ul>
-                  {isBottomLine && (
+                  <div className="mb-8">
+                    <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+                      {text}
+                    </ReactMarkdown>
+                  </div>
+                  {isBottomLine && meta?.pullQuote && (
                     <blockquote className="border-l-4 border-orange px-6 py-6 mt-6" style={{ backgroundColor: "#1e3040" }}>
                       <p className="font-cormorant italic text-cream leading-relaxed" style={{ fontSize: "1.35rem" }}>
-                        AHA's $29 million lobbying machine has blocked or weakened every major hospital reform of the last decade. Q1 2025's $7 million signals AHA sees the current Congress as a live threat and is spending accordingly.
+                        {meta.pullQuote}
                       </p>
                     </blockquote>
                   )}
